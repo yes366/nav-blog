@@ -44,10 +44,10 @@ No single app solves all of these. But each one on this list excels at something
 - Conversation depth — characters stay consistent even in marathon sessions
 - Voice chat with AI characters
 - AI image generation during conversations
-- Coin-based economy means you only pay for what you use
+- Flexible pricing — subscribe or pay per use, your choice
 
 **What Character.AI still does better:**
-- Larger character library (millions vs thousands)
+- Larger character library (millions of community-created characters)
 - Group chats with multiple characters
 - Faster discovery of new characters
 
@@ -55,7 +55,7 @@ No single app solves all of these. But each one on this list excels at something
 
 **[Try Naviya's character creator →](https://naviya.chat)**
 
-**Pricing:** Free to start. VIP from $4.99/week or coins for pay-per-use.
+**Pricing:** Free to start. Premium plans available for unlimited access.
 
 ## 2. Chai AI — Best for Quick Mobile Chat
 
@@ -175,7 +175,7 @@ Moescape focuses exclusively on anime-style characters and visual novel-inspired
 
 | App | Best For | Character Library | Creation Tools | Voice | Free Tier | Mobile |
 |-----|----------|------------------|---------------|-------|-----------|--------|
-| **Naviya** | Depth & creation | 2,500+ | ★★★★★ | ✅ | Generous | ✅ |
+| **Naviya** | Depth & creation | 10,000+ | ★★★★★ | ✅ | Generous | ✅ |
 | **Chai** | Quick mobile chat | 10,000+ | ★★☆☆☆ | ❌ | Limited | ✅ |
 | **Janitor AI** | Power users | 100,000+ | ★★★☆☆ | ❌ | API costs | ❌ |
 | **Crushon** | Romance | 5,000+ | ★★★☆☆ | ❌ | Limited | ✅ |

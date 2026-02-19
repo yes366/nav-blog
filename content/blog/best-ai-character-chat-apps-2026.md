@@ -69,15 +69,14 @@ Character.AI is like a buffet — incredible selection, but individual dish qual
 - Excellent conversation depth — characters stay in character even after long sessions
 - Voice chat with AI characters
 - AI-generated images during conversations (characters can "show" you things)
-- Coin economy lets you access premium content without a full subscription
-- Growing but curated character library (2500+ characters)
+- Flexible pricing — subscribe or unlock content individually
+- Large and growing character library (10,000+ characters)
 
 **Cons:**
-- Smaller character library than Character.AI
-- Some premium features require coins or VIP
-- Newer platform, still adding features
+- Character library still growing (Character.AI has millions)
+- Some premium features require a subscription
 
-**Pricing:** Free to start, VIP from $4.99/week, or pay-per-use with coins
+**Pricing:** Free to start, premium plans available
 
 What sets Naviya apart is the conversation quality. The AI doesn't just respond — it adapts to your style. If you're into roleplay, it matches your energy. If you want casual chat, it feels natural. And the character creation tools mean you're not limited to what others have made.
 
@@ -155,7 +154,7 @@ If you've ever wished you could literally *talk* to an AI character, Talkie deli
 
 | Feature | Character.AI | Naviya | Chai | Janitor AI | Talkie |
 |---------|-------------|--------|------|-----------|--------|
-| Character library | ★★★★★ | ★★★☆☆ | ★★★★☆ | ★★★★☆ | ★★★☆☆ |
+| Character library | ★★★★★ | ★★★★☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ |
 | Conversation depth | ★★★☆☆ | ★★★★★ | ★★☆☆☆ | ★★★★☆ | ★★★☆☆ |
 | Character creation | ★★★☆☆ | ★★★★★ | ★★☆☆☆ | ★★★☆☆ | ★★☆☆☆ |
 | Voice chat | ★★☆☆☆ | ★★★★☆ | ☆☆☆☆☆ | ☆☆☆☆☆ | ★★★★★ |
