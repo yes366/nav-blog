@@ -4,7 +4,7 @@ slug: "best-ai-character-chat-apps-2026"
 description: "Compare the best AI character chat apps in 2026. In-depth review of Character.AI, Naviya, Chai, and more — features, pricing, and which one fits you."
 date: "2026-02-19"
 tags: ["ai chat", "comparison", "character ai", "review"]
-cover: "PLACEHOLDER:hero-collage-of-ai-chat-app-interfaces-modern-tech-aesthetic"
+cover: "./images/best-ai-character-chat-apps-2026.jpg"
 category: "comparison"
 keywords: ["best ai character chat app", "ai chat app review", "character ai alternative"]
 related_npcs: []
@@ -19,7 +19,7 @@ But with dozens of apps fighting for your attention, which **AI character chat a
 
 I've spent the last three months testing every major platform. Here's what I found — no fluff, no affiliate deals, just honest experience.
 
-![AI chat apps comparison overview with ratings](PLACEHOLDER:infographic-comparison-table-5-ai-chat-apps-with-star-ratings)
+![AI chat apps comparison overview with ratings](./images/best-ai-character-chat-apps-2026.jpg)
 
 ## What Makes a Good AI Character Chat App?
 
@@ -148,7 +148,7 @@ Talkie AI focuses on voice interaction. Instead of typing back and forth, you ac
 
 If you've ever wished you could literally *talk* to an AI character, Talkie delivers that promise better than anyone else.
 
-![Side-by-side comparison chart of features across 5 apps](PLACEHOLDER:comparison-table-features-pricing-ratings-5-apps)
+![Side-by-side comparison chart of features across 5 apps](./images/best-ai-character-chat-apps-2026.jpg)
 
 ## Head-to-Head: Feature Comparison
 
@@ -198,4 +198,4 @@ The best AI character chat app is the one that makes you forget you're talking t
 
 **Ready to try it yourself? [Start chatting on Naviya — free, no sign-up required.](https://naviya.chat)**
 
-![Person enjoying AI chat on their phone in a cozy setting](PLACEHOLDER:lifestyle-photo-person-chatting-on-phone-cozy-warm-lighting)
+![Person enjoying AI chat on their phone in a cozy setting](./images/best-ai-character-chat-apps-2026.jpg)

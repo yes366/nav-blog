@@ -4,7 +4,7 @@ slug: "ai-roleplay-tips-better-conversations"
 description: "Level up your AI roleplay with these proven tips. Learn prompt techniques, conversation starters, and how to get deeper responses from AI characters."
 date: "2026-02-19"
 tags: ["guide", "roleplay", "tips", "ai chat"]
-cover: "PLACEHOLDER:hero-dramatic-fantasy-conversation-scene-with-ai-character"
+cover: "./images/ai-roleplay-tips-better-conversations.jpg"
 category: "guide"
 keywords: ["ai roleplay tips", "how to roleplay with ai", "ai chat tips"]
 related_npcs: []
@@ -19,7 +19,7 @@ Here's the thing: **AI roleplay is a skill.** The people having incredible, stor
 
 These are the techniques that separate a mediocre AI chat from one that genuinely surprises you.
 
-![Dramatic fantasy roleplay scene with AI character](PLACEHOLDER:illustration-fantasy-tavern-scene-two-characters-in-conversation)
+![Dramatic fantasy roleplay scene with AI character](./images/ai-roleplay-tips-better-conversations.jpg)
 
 ## The Fundamental Principle: Give More, Get More
 
@@ -82,7 +82,7 @@ Generic questions get generic answers. The fastest way to get a surprising respo
 
 Specific, personal questions force the AI to generate specific, personal answers. And those answers create hooks for the next 10 messages of conversation.
 
-![Chat interface showing engaging conversation with specific questions](PLACEHOLDER:screenshot-ai-chat-showing-deep-conversation-with-specific-questions)
+![Chat interface showing engaging conversation with specific questions](./images/ai-roleplay-tips-better-conversations.jpg)
 
 ## Tip 4: Introduce Conflict (Yes, Even With Characters You Like)
 
@@ -179,7 +179,7 @@ The people having the best AI roleplay experiences aren't lucky — they've craf
 
 **[Try creating your ideal conversation partner on Naviya →](https://naviya.chat)**
 
-![Creative workspace with AI character development notes](PLACEHOLDER:flatlay-notebook-character-sketches-laptop-creative-workspace)
+![Creative workspace with AI character development notes](./images/ai-roleplay-tips-better-conversations.jpg)
 
 ## Quick Reference: Do's and Don'ts
 

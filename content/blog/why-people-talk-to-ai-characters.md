@@ -4,7 +4,7 @@ slug: "why-people-talk-to-ai-characters"
 description: "Exploring the psychology behind AI character chat — why millions are choosing AI conversations, what they get from it, and where this trend is heading."
 date: "2026-02-19"
 tags: ["culture", "psychology", "ai companionship", "trend"]
-cover: "PLACEHOLDER:hero-artistic-illustration-human-silhouette-connected-to-digital-character"
+cover: "./images/why-people-talk-to-ai-characters.jpg"
 category: "culture"
 keywords: ["why talk to ai characters", "ai companionship", "ai chat psychology"]
 related_npcs: []
@@ -19,7 +19,7 @@ If your first instinct is "that's weird," you're not alone. It's also the same r
 
 Let's actually look at what's happening here — without the judgment.
 
-![Abstract illustration of human connection with AI](PLACEHOLDER:artistic-illustration-human-hand-reaching-toward-digital-character-warm-tones)
+![Abstract illustration of human connection with AI](./images/why-people-talk-to-ai-characters.jpg)
 
 ## The Numbers Are Staggering
 
@@ -84,7 +84,7 @@ Writers, artists, and creators use AI character chat as a creative tool:
 
 For creative people, AI characters aren't replacements for human interaction — they're tools, like a sketchbook or a writing prompt generator, but interactive.
 
-![Creative uses of AI character chat — writing, learning, gaming](PLACEHOLDER:infographic-4-panels-creative-uses-writing-language-gaming-acting)
+![Creative uses of AI character chat — writing, learning, gaming](./images/why-people-talk-to-ai-characters.jpg)
 
 ## Reason 5: The Loneliness Epidemic Is Real
 
@@ -153,4 +153,4 @@ The technology is new. The human need behind it is ancient.
 
 **Curious to see what all the fuss is about? [Try Naviya — your first conversation is free.](https://naviya.chat)**
 
-![Warm illustration of diverse people connecting through technology](PLACEHOLDER:illustration-diverse-group-people-phones-connected-by-warm-light-threads)
+![Warm illustration of diverse people connecting through technology](./images/why-people-talk-to-ai-characters.jpg)

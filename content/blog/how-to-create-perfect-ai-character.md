@@ -4,7 +4,7 @@ slug: "how-to-create-perfect-ai-character"
 description: "Step-by-step guide to creating compelling AI characters that feel real. Learn personality design, backstory writing, and prompt techniques."
 date: "2026-02-19"
 tags: ["guide", "character creation", "ai roleplay", "tips"]
-cover: "PLACEHOLDER:hero-character-creation-interface-with-fantasy-character-previews"
+cover: "./images/how-to-create-perfect-ai-character.jpg"
 category: "guide"
 keywords: ["create ai character", "ai character design", "ai character prompts"]
 related_npcs: []
@@ -19,7 +19,7 @@ It's not the AI model. It's the **character design**.
 
 Whether you're building an AI character for roleplay, storytelling, or just having an interesting conversation partner, the principles are the same. This guide walks you through creating an **AI character** that feels genuinely compelling — from personality design to the specific prompts that bring them to life.
 
-![Character creation dashboard with personality sliders and preview](PLACEHOLDER:screenshot-character-creation-interface-personality-traits-preview)
+![Character creation dashboard with personality sliders and preview](./images/how-to-create-perfect-ai-character.jpg)
 
 ## Why Character Design Matters More Than the AI Model
 
@@ -97,7 +97,7 @@ You don't need a 10,000-word lore document. You need the *right* backstory detai
 
 This layered approach creates natural conversation progression. Early chats feel like meeting someone new. Later chats feel like you've become close friends.
 
-![Iceberg diagram showing 3 layers of character depth](PLACEHOLDER:infographic-iceberg-character-depth-surface-earned-deep-layers)
+![Iceberg diagram showing 3 layers of character depth](./images/how-to-create-perfect-ai-character.jpg)
 
 ## Step 4: Define Their Relationship With the User
 
@@ -167,7 +167,7 @@ Your first version won't be perfect. That's fine.
 | Conversations feel repetitive | Add more interests and topics to the backstory |
 | Character feels generic | Add unique verbal tics, opinions, or habits |
 
-![Before and after comparison of character responses](PLACEHOLDER:screenshot-side-by-side-generic-vs-well-designed-character-response)
+![Before and after comparison of character responses](./images/how-to-create-perfect-ai-character.jpg)
 
 ## Advanced Techniques
 
