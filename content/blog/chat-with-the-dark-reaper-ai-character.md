@@ -2,7 +2,7 @@
 title: "Chat with the dark reaper: Your Guide to This AI Character"
 slug: "chat-with-the-dark-reaper-ai-character"
 description: "the dark reaper offers a unique AI chat experience. Here's what to expect from conversations with this character."
-date: "2026-03-04"
+date: "2026-03-05"
 tags: ["character spotlight", "ai roleplay"]
 cover: "/og-home.png"
 related_npcs: ["the dark reaper"]

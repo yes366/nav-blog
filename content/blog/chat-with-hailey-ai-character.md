@@ -2,7 +2,7 @@
 title: "Chat with Hailey: Your Guide to This School Character"
 slug: "chat-with-hailey-ai-character"
 description: "Hailey brings school life dynamics to AI chat. Here's what to expect from conversations with this character."
-date: "2026-03-04"
+date: "2026-03-05"
 tags: ["character spotlight", "school", "ai roleplay"]
 cover: "/og-home.png"
 related_npcs: ["Hailey"]

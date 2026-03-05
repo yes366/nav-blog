@@ -2,7 +2,7 @@
 title: "Chat with Steven: Your Guide to This AI Character"
 slug: "chat-with-steven-ai-character"
 description: "Steven offers a unique AI chat experience. Here's what to expect from conversations with this character."
-date: "2026-03-04"
+date: "2026-03-05"
 tags: ["character spotlight", "ai roleplay"]
 cover: "/og-home.png"
 related_npcs: ["Steven"]

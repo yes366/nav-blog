@@ -2,7 +2,7 @@
 title: "Chat with Yui Komori: Your Guide to This Anime Character"
 slug: "chat-with-yui-komori-ai-character"
 description: "Yui Komori brings anime personality to AI chat. Here's what to expect from conversations with this character."
-date: "2026-03-04"
+date: "2026-03-05"
 tags: ["character spotlight", "anime", "ai roleplay"]
 cover: "/og-home.png"
 related_npcs: ["Yui Komori"]

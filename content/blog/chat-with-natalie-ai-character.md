@@ -2,7 +2,7 @@
 title: "Chat with natalie: Your Guide to This AI Character"
 slug: "chat-with-natalie-ai-character"
 description: "natalie offers a unique AI chat experience. Here's what to expect from conversations with this character."
-date: "2026-03-04"
+date: "2026-03-05"
 tags: ["character spotlight", "ai roleplay"]
 cover: "/og-home.png"
 related_npcs: ["natalie"]

@@ -2,7 +2,7 @@
 title: "Chat with Rex: Your Guide to This Romance Character"
 slug: "chat-with-rex-ai-character"
 description: "Rex offers a unique romantic AI chat experience. Here's what makes conversations with this character special."
-date: "2026-03-04"
+date: "2026-03-05"
 tags: ["character spotlight", "romance", "ai roleplay"]
 cover: "/og-home.png"
 related_npcs: ["Rex"]
