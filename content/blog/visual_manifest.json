@@ -1,0 +1,30 @@
+{
+  "meet-luna-ai-healer-character-spotlight": {
+    "mode": "character_reference",
+    "reference_image": "../assets/characters/luna.jpg",
+    "notes": "Use original Luna character art as the reference. No fresh synthetic face drift."
+  },
+  "chat-with-sun-wukong": {
+    "mode": "character_reference",
+    "reference_image": "../assets/characters/sun-wukong.jpg",
+    "notes": "Use the original character art or official reference image."
+  },
+  "best-ai-chat-apps-tabletop-gms": {
+    "mode": "product_screenshot",
+    "screenshot_targets": ["/create", "/chat"],
+    "notes": "Use real product screenshots. No generated mock UI."
+  },
+  "best-ai-character-builder-apps-2026": {
+    "mode": "product_screenshot",
+    "screenshot_targets": ["/create"],
+    "notes": "Prefer real builder UI or clean cropped screenshots."
+  },
+  "best-ai-roleplay-apps-image-generation": {
+    "mode": "generated_editorial",
+    "notes": "No watermark, no text, no AI letters, no fake app chrome."
+  },
+  "ai-conversation-practice-apps-2026": {
+    "mode": "generated_editorial",
+    "notes": "Editorial lifestyle image only. Avoid fake product UI and any AI text in-frame."
+  }
+}

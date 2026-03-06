@@ -1,0 +1,1422 @@
+{
+  "total_posts": 44,
+  "posts": [
+    {
+      "file": "ai-adventure-companion-characters-spotlight.md",
+      "slug": "ai-adventure-companion-characters-spotlight",
+      "title": "Meet Your AI Adventure Companion: Spotlight on Naviya's Best Explorers",
+      "image_mode": "character_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_reference"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "ai-character-voice-chat-guide.md",
+      "slug": "ai-character-voice-chat-guide",
+      "title": "AI Character Voice Chat: The Future of Interactive Conversation",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "ai-chat-apps-language-learning-2026.md",
+      "slug": "ai-chat-apps-language-learning-2026",
+      "title": "Best AI Chat Apps for Language Learning in 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_screenshot"
+          ],
+          "matches": [
+            {
+              "slug": "best-ai-anime-character-chat-apps",
+              "score": 0.545
+            },
+            {
+              "slug": "best-ai-apps-creative-writing-2026",
+              "score": 0.545
+            },
+            {
+              "slug": "best-ai-character-chat-apps-2026",
+              "score": 0.5
+            },
+            {
+              "slug": "best-ai-chat-apps-2026",
+              "score": 0.667
+            },
+            {
+              "slug": "best-ai-chat-prompts-roleplay",
+              "score": 0.545
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "ai-chat-for-writers-authors-guide.md",
+      "slug": "ai-chat-for-writers-authors-guide",
+      "title": "AI Chat for Writers: How Authors Use AI Characters",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "ai-chat-no-filter-guide.md",
+      "slug": "ai-chat-no-filter-guide",
+      "title": "AI Chat No Filter: What It Means and Where to Find It",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "ai-conversation-practice-apps-2026.md",
+      "slug": "ai-conversation-practice-apps-2026",
+      "title": "AI Conversation Practice Apps Worth Downloading in 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/characters",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/download",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/features",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "ai-dungeon-alternatives-storytelling-2026.md",
+      "slug": "ai-dungeon-alternatives-storytelling-2026",
+      "title": "Best AI Dungeon Alternatives for Storytellers in 2026",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/characters",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/characters/inspector",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/download",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/features/advanced-roleplay",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_regeneration"
+          ],
+          "matches": [
+            {
+              "slug": "character-ai-alternative-2026",
+              "score": 0.556
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "ai-dungeon-vs-naviya-comparison.md",
+      "slug": "ai-dungeon-vs-naviya-comparison",
+      "title": "AI Dungeon vs Naviya: Which Is Better?",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "ai-girlfriend-chat-apps-guide.md",
+      "slug": "ai-girlfriend-chat-apps-guide",
+      "title": "AI Girlfriend Chat Apps: Honest Guide for 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "ai-roleplay-beginners-guide.md",
+      "slug": "ai-roleplay-beginners-guide",
+      "title": "AI Roleplay for Beginners: Everything You Need to Know",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "ai-roleplay-overcome-social-anxiety-story.md",
+      "slug": "ai-roleplay-overcome-social-anxiety-story",
+      "title": "How I Used AI Roleplay to Overcome Social Anxiety",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "ai-roleplay-tips-better-conversations.md",
+      "slug": "ai-roleplay-tips-better-conversations",
+      "title": "AI Roleplay Tips: How to Have Better AI Conversations",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "best-ai-anime-character-chat-apps.md",
+      "slug": "best-ai-anime-character-chat-apps",
+      "title": "Best AI Anime Character Chat Apps in 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_screenshot"
+          ],
+          "matches": [
+            {
+              "slug": "ai-chat-apps-language-learning-2026",
+              "score": 0.545
+            },
+            {
+              "slug": "best-ai-character-builder-apps-2026",
+              "score": 0.667
+            },
+            {
+              "slug": "best-ai-character-chat-apps-2026",
+              "score": 0.7
+            },
+            {
+              "slug": "best-ai-chat-apps-2026",
+              "score": 0.75
+            },
+            {
+              "slug": "character-ai-alternative-2026",
+              "score": 0.556
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "best-ai-apps-creative-writing-2026.md",
+      "slug": "best-ai-apps-creative-writing-2026",
+      "title": "Best AI Apps for Creative Writing in 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_screenshot"
+          ],
+          "matches": [
+            {
+              "slug": "ai-chat-apps-language-learning-2026",
+              "score": 0.545
+            },
+            {
+              "slug": "best-ai-character-builder-apps-2026",
+              "score": 0.5
+            },
+            {
+              "slug": "best-ai-chat-apps-2026",
+              "score": 0.556
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "best-ai-boyfriend-chat-apps-2026.md",
+      "slug": "best-ai-boyfriend-chat-apps-2026",
+      "title": "Top 10 AI Boyfriend Chat Apps in 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_screenshot"
+          ],
+          "matches": [
+            {
+              "slug": "best-ai-chat-apps-2026",
+              "score": 0.556
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "best-ai-character-builder-apps-2026.md",
+      "slug": "best-ai-character-builder-apps-2026",
+      "title": "Best AI Character Builder Apps in 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/characters",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/download",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/features",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_screenshot"
+          ],
+          "matches": [
+            {
+              "slug": "best-ai-anime-character-chat-apps",
+              "score": 0.667
+            },
+            {
+              "slug": "best-ai-apps-creative-writing-2026",
+              "score": 0.5
+            },
+            {
+              "slug": "best-ai-character-chat-apps-2026",
+              "score": 0.6
+            },
+            {
+              "slug": "best-ai-chat-apps-2026",
+              "score": 0.625
+            },
+            {
+              "slug": "character-ai-alternative-2026",
+              "score": 0.625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "best-ai-character-chat-apps-2026.md",
+      "slug": "best-ai-character-chat-apps-2026",
+      "title": "Best AI Character Chat Apps in 2026: Honest Review",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_screenshot"
+          ],
+          "matches": [
+            {
+              "slug": "ai-chat-apps-language-learning-2026",
+              "score": 0.5
+            },
+            {
+              "slug": "best-ai-anime-character-chat-apps",
+              "score": 0.7
+            },
+            {
+              "slug": "best-ai-character-builder-apps-2026",
+              "score": 0.6
+            },
+            {
+              "slug": "best-ai-chat-apps-2026",
+              "score": 0.667
+            },
+            {
+              "slug": "character-ai-alternative-2026",
+              "score": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "best-ai-chat-apps-2026.md",
+      "slug": "best-ai-chat-apps-2026",
+      "title": "Best AI Chat Apps in 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_screenshot"
+          ],
+          "matches": [
+            {
+              "slug": "ai-chat-apps-language-learning-2026",
+              "score": 0.667
+            },
+            {
+              "slug": "best-ai-anime-character-chat-apps",
+              "score": 0.75
+            },
+            {
+              "slug": "best-ai-apps-creative-writing-2026",
+              "score": 0.556
+            },
+            {
+              "slug": "best-ai-boyfriend-chat-apps-2026",
+              "score": 0.556
+            },
+            {
+              "slug": "best-ai-character-builder-apps-2026",
+              "score": 0.625
+            },
+            {
+              "slug": "best-ai-character-chat-apps-2026",
+              "score": 0.667
+            },
+            {
+              "slug": "best-ai-chat-prompts-roleplay",
+              "score": 0.556
+            },
+            {
+              "slug": "character-ai-alternative-2026",
+              "score": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "best-ai-chat-apps-no-waitlist.md",
+      "slug": "best-ai-chat-apps-no-waitlist",
+      "title": "Best AI Chat Apps Without Waitlists or Message Caps",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/characters",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/download",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/features",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "best-ai-chat-apps-tabletop-gms.md",
+      "slug": "best-ai-chat-apps-tabletop-gms",
+      "title": "Best AI Chat Apps for Tabletop Game Masters",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/characters",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/download",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/features",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "best-ai-chat-prompts-roleplay.md",
+      "slug": "best-ai-chat-prompts-roleplay",
+      "title": "Best AI Chat Prompts for Roleplay in 2026",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_regeneration"
+          ],
+          "matches": [
+            {
+              "slug": "ai-chat-apps-language-learning-2026",
+              "score": 0.545
+            },
+            {
+              "slug": "best-ai-chat-apps-2026",
+              "score": 0.556
+            },
+            {
+              "slug": "best-ai-roleplay-games-mobile-2026",
+              "score": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "best-ai-fantasy-roleplay-characters.md",
+      "slug": "best-ai-fantasy-roleplay-characters",
+      "title": "Best AI Fantasy Roleplay Characters to Chat With",
+      "image_mode": "character_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_reference"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "best-ai-mystery-characters-detective-roleplay.md",
+      "slug": "best-ai-mystery-characters-detective-roleplay",
+      "title": "5 Best AI Mystery Characters for Detective Roleplay",
+      "image_mode": "character_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_reference"
+          ],
+          "matches": [
+            {
+              "slug": "best-ai-villain-characters-roleplay",
+              "score": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "best-ai-roleplay-apps-couples.md",
+      "slug": "best-ai-roleplay-apps-couples",
+      "title": "Best AI Roleplay Apps for Couples Building Shared Worlds",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/characters",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/download",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/features",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "best-ai-roleplay-apps-image-generation.md",
+      "slug": "best-ai-roleplay-apps-image-generation",
+      "title": "Top AI Roleplay Apps With Built-In Image Generation",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/characters",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/download",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/features",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "best-ai-roleplay-games-mobile-2026.md",
+      "slug": "best-ai-roleplay-games-mobile-2026",
+      "title": "Best AI Roleplay Games for Mobile in 2026",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_regeneration"
+          ],
+          "matches": [
+            {
+              "slug": "best-ai-chat-prompts-roleplay",
+              "score": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "best-ai-villain-characters-roleplay.md",
+      "slug": "best-ai-villain-characters-roleplay",
+      "title": "5 Best AI Villain Characters for Epic Roleplay",
+      "image_mode": "character_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_reference"
+          ],
+          "matches": [
+            {
+              "slug": "best-ai-mystery-characters-detective-roleplay",
+              "score": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "best-free-ai-chat-apps-no-sign-up.md",
+      "slug": "best-free-ai-chat-apps-no-sign-up",
+      "title": "Best Free AI Chat Apps No Sign Up Required",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "chai-ai-vs-naviya-comparison.md",
+      "slug": "chai-ai-vs-naviya-comparison",
+      "title": "Chai AI vs Naviya: Which AI Chat App Wins?",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_regeneration"
+          ],
+          "matches": [
+            {
+              "slug": "janitor-ai-vs-naviya-comparison",
+              "score": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "character-ai-alternative-2026.md",
+      "slug": "character-ai-alternative-2026",
+      "title": "Best Character AI Alternatives in 2026",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_regeneration"
+          ],
+          "matches": [
+            {
+              "slug": "ai-dungeon-alternatives-storytelling-2026",
+              "score": 0.556
+            },
+            {
+              "slug": "best-ai-anime-character-chat-apps",
+              "score": 0.556
+            },
+            {
+              "slug": "best-ai-character-builder-apps-2026",
+              "score": 0.625
+            },
+            {
+              "slug": "best-ai-character-chat-apps-2026",
+              "score": 0.5
+            },
+            {
+              "slug": "best-ai-chat-apps-2026",
+              "score": 0.5
+            },
+            {
+              "slug": "character-ai-alternatives-2026",
+              "score": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "character-ai-alternatives-2026.md",
+      "slug": "character-ai-alternatives-2026",
+      "title": "Character AI Alternatives: 7 Apps Worth Trying in 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_screenshot"
+          ],
+          "matches": [
+            {
+              "slug": "character-ai-alternative-2026",
+              "score": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "character-ai-vs-replika-vs-naviya.md",
+      "slug": "character-ai-vs-replika-vs-naviya",
+      "title": "Character AI vs Replika vs Naviya: Voice Companion Showdown",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/characters",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/characters](https://naviya.chat/characters",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/download",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/features/voice",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/studio",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_regeneration"
+          ],
+          "matches": [
+            {
+              "slug": "replika-vs-naviya-ai-companion-comparison",
+              "score": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "chat-with-sun-wukong.md",
+      "slug": "chat-with-sun-wukong",
+      "title": "How to Chat with Sun Wukong",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "create-ai-character-complete-guide.md",
+      "slug": "create-ai-character-complete-guide",
+      "title": "How to Create an AI Character: Complete Guide for 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_screenshot"
+          ],
+          "matches": [
+            {
+              "slug": "how-to-create-perfect-ai-character",
+              "score": 0.583
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "crushon-ai-vs-naviya-comparison.md",
+      "slug": "crushon-ai-vs-naviya-comparison",
+      "title": "Crushon AI vs Naviya: Honest Comparison for 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "how-to-create-perfect-ai-character.md",
+      "slug": "how-to-create-perfect-ai-character",
+      "title": "How to Create the Perfect AI Character: Complete Guide",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_regeneration"
+          ],
+          "matches": [
+            {
+              "slug": "create-ai-character-complete-guide",
+              "score": 0.583
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "janitor-ai-vs-naviya-comparison.md",
+      "slug": "janitor-ai-vs-naviya-comparison",
+      "title": "Janitor AI vs Naviya: Which AI Chat Platform Wins?",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_regeneration"
+          ],
+          "matches": [
+            {
+              "slug": "chai-ai-vs-naviya-comparison",
+              "score": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "meet-luna-ai-healer-character-spotlight.md",
+      "slug": "meet-luna-ai-healer-character-spotlight",
+      "title": "Meet Luna: The AI Healer Who Actually Listens",
+      "image_mode": "character_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_reference"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "replika-vs-naviya-ai-companion-comparison.md",
+      "slug": "replika-vs-naviya-ai-companion-comparison",
+      "title": "Replika vs Naviya: AI Companion Apps Compared",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/create",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "dead_link",
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat/privacy",
+          "status_code": 404
+        },
+        {
+          "type": [
+            "duplicate_title_family",
+            "image_needs_screenshot"
+          ],
+          "matches": [
+            {
+              "slug": "character-ai-vs-replika-vs-naviya",
+              "score": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "talk-to-ai-characters-reasons.md",
+      "slug": "talk-to-ai-characters-reasons",
+      "title": "Talk to AI: 7 Reasons People Chat With AI Characters",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "talkie-ai-vs-naviya-voice-chat-comparison.md",
+      "slug": "talkie-ai-vs-naviya-voice-chat-comparison",
+      "title": "Talkie AI vs Naviya: Voice Chat Showdown 2026",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "top-ai-roleplay-apps-storytelling.md",
+      "slug": "top-ai-roleplay-apps-storytelling",
+      "title": "Top 10 AI Roleplay Apps for Storytelling",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "virtual-ai-companion-apps-guide.md",
+      "slug": "virtual-ai-companion-apps-guide",
+      "title": "Virtual AI Companion Apps: Complete Guide for 2026",
+      "image_mode": "product_generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_screenshot"
+          ],
+          "matches": []
+        }
+      ]
+    },
+    {
+      "file": "why-people-talk-to-ai-characters.md",
+      "slug": "why-people-talk-to-ai-characters",
+      "title": "Why Millions of People Talk to AI Characters (And Why It's Not Weird)",
+      "image_mode": "generated",
+      "issues": [
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "url": "https://naviya.chat",
+          "status_code": 200
+        },
+        {
+          "type": [
+            "image_needs_regeneration"
+          ],
+          "matches": []
+        }
+      ]
+    }
+  ]
+}
