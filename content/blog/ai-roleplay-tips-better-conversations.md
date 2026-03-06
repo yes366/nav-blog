@@ -82,7 +82,6 @@ Generic questions get generic answers. The fastest way to get a surprising respo
 
 Specific, personal questions force the AI to generate specific, personal answers. And those answers create hooks for the next 10 messages of conversation.
 
-![Chat interface showing engaging conversation with specific questions](./images/ai-roleplay-tips-better-conversations.jpg)
 
 ## Tip 4: Introduce Conflict (Yes, Even With Characters You Like)
 
@@ -179,7 +178,6 @@ The people having the best AI roleplay experiences aren't lucky — they've craf
 
 **[Try creating your ideal conversation partner on Naviya →](https://www.naviya.chat)**
 
-![Creative workspace with AI character development notes](./images/ai-roleplay-tips-better-conversations.jpg)
 
 ## Quick Reference: Do's and Don'ts
 

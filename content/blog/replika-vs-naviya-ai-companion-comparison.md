@@ -57,7 +57,6 @@ This isn't a minor distinction. It fundamentally shapes the experience.
 
 **Naviya** offers long-term engagement through breadth. You might have an ongoing adventure with one character, a daily check-in with another, and explore new characters weekly. The engagement comes from variety rather than singular depth.
 
-![Timeline showing engagement patterns for Replika vs Naviya over 3 months](./images/replika-vs-naviya-ai-companion-comparison.jpg)
 
 **Winner: Tie** — different models, both effective.
 
@@ -105,7 +104,6 @@ Naviya is right for you if:
 - Voice chat and AI images enhance your experience
 - You want a generous free tier to explore before committing
 
-![Decision flowchart for choosing between Replika and Naviya](./images/replika-vs-naviya-ai-companion-comparison.jpg)
 
 ## Can You Use Both?
 
@@ -133,4 +131,3 @@ Replika has more features specifically designed for emotional support, including
 ### Are conversations private on both platforms?
 Both platforms store conversation data on their servers. Review each platform's privacy policy for details on data handling, storage, and potential sharing. [Naviya's privacy policy](https://www.naviya.chat/policy) is available on their website.
 
-![Warm illustration of person choosing between two AI companion apps](./images/replika-vs-naviya-ai-companion-comparison.jpg)

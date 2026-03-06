@@ -55,7 +55,6 @@ The beauty of this archetype is that the AI maintains the character's secret con
 
 **How to play it:** Ask to see the evidence. Propose theories and let the character poke holes in them. Suggest re-interviewing witnesses or revisiting crime scenes. The collaborative dynamic makes you feel like a real detective rather than just an interrogator.
 
-![Two detectives reviewing case files and evidence on a cluttered desk](./images/best-ai-mystery-characters-detective-roleplay.jpg)
 
 ## 5. The Victim's Confidant
 
@@ -83,7 +82,6 @@ Seriously. Keep track of what each character tells you, when they hesitate, and 
 ### Play Multiple Characters
 The best mystery experiences involve talking to several characters about the same events. Each one has a different perspective, different knowledge, and different motivations. Cross-referencing their stories is where the real detective work happens.
 
-![Detective's notebook with clues, connections, and suspect profiles](./images/best-ai-mystery-characters-detective-roleplay.jpg)
 
 ## Why Mystery Roleplay Is Underrated
 

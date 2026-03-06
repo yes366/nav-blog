@@ -59,7 +59,6 @@ Here are the fantasy character archetypes that create the most compelling AI int
 > *You: "Busy night tonight."*
 > *Marta: She polishes a glass that's already clean, watching the door. "Three mercenaries who think they're being subtle. A noble's daughter who thinks her disguise works. And you." She sets down the glass. "The mercenaries are here for the noble's daughter. The noble's daughter is here for the map in my cellar. And you—" she smiles "—I haven't figured out yet."*
 
-![Cozy fantasy tavern interior with mysterious tavern keeper](./images/best-ai-fantasy-roleplay-characters.jpg)
 
 ## The Exiled Royal
 
@@ -92,7 +91,6 @@ The best fantasy roleplay is collaborative world-building. When the AI introduce
 ### Let the Story Breathe
 Not every moment needs to be dramatic. Some of the best fantasy interactions are quiet moments — sharing a meal by a campfire, watching a sunset from a castle wall, or simply talking about hopes and fears. These moments make the dramatic ones hit harder.
 
-![Fantasy characters sharing a quiet moment by a campfire under stars](./images/best-ai-fantasy-roleplay-characters.jpg)
 
 ## Finding Fantasy Characters
 

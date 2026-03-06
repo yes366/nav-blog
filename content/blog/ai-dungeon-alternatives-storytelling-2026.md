@@ -16,9 +16,6 @@ author: "Naviya Team"
 AI Dungeon helped a generation of interactive fiction writers realize that AI could keep up with their imagination, but in 2026 the best AI Dungeon alternative depends on what kind of storyteller you are. Maybe you want richer character memories, maybe you crave visual cues, or maybe you just need an AI that can keep your continuity straight. This guide dives into the strongest options so you can pick the AI roleplay chat platform that actually supports the worlds you build.
 
 ![Wide hero illustration showing different AI story portals branching out from a central narrator desk](./images/ai-dungeon-alternatives-storytelling-2026.jpg)
-![Infographic comparing scene memory, image support, and collaborative tools across AI storytelling apps](./images/ai-dungeon-alternatives-storytelling-2026.jpg)
-![Screenshot-style mockup of Naviya's character creation dashboard with lore sections highlighted](./images/ai-dungeon-alternatives-storytelling-2026.jpg)
-![Mood board of tabletop maps, dialogue bubbles, and mobile devices showing AI chats](./images/ai-dungeon-alternatives-storytelling-2026.jpg)
 
 ## Why Look Beyond AI Dungeon Right Now
 

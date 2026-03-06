@@ -55,7 +55,6 @@ The beauty of this character is the arc. Over the course of your adventure, thei
 
 **Why players love them:** Mystery drives engagement. Every conversation with this character is a puzzle within a puzzle. You're solving the adventure's challenges while simultaneously trying to figure out who your companion really is. The slow reveal of their true nature is one of the most satisfying narrative arcs in AI roleplay.
 
-![Mysterious cloaked figure standing at a crossroads in misty forest](./images/ai-adventure-companion-characters-spotlight.jpg)
 
 ## The Loyal Animal Companion
 

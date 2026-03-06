@@ -121,7 +121,6 @@ Differentiates itself with a voice-first approach to AI companionship.
 
 **Best for:** Users who specifically want voice-based AI interaction.
 
-![Side-by-side comparison table of the five major AI companion platforms](./images/virtual-ai-companion-apps-guide.jpg)
 
 ## How to Choose the Right Platform
 

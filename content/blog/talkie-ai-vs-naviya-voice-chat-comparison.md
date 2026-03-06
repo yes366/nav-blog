@@ -45,7 +45,6 @@ The voice chat on Naviya works well. Characters maintain their personality in vo
 
 **Naviya** characters are built for depth. With 10,000+ characters and robust creation tools, the personality complexity is on another level. Characters remember context, evolve through conversations, and maintain consistent traits across hundreds of messages. When you add voice to this foundation, the result is compelling.
 
-![Character profile comparison showing depth of backstory and personality settings](./images/talkie-ai-vs-naviya-voice-chat-comparison.jpg)
 
 **Winner: Naviya** — deeper characters make for better long-term conversations.
 
@@ -96,7 +95,6 @@ Pick Naviya if:
 - You want to create your own characters
 - A generous free tier is important
 
-![Infographic showing feature comparison scores for Talkie AI vs Naviya](./images/talkie-ai-vs-naviya-voice-chat-comparison.jpg)
 
 ## My Recommendation
 
@@ -120,4 +118,3 @@ Talkie AI generally has slightly lower voice latency due to its voice-first arch
 ### Are the voices customizable?
 On Naviya, character creators can influence voice characteristics. Talkie AI assigns voices to characters with less user control over voice parameters.
 
-![Mobile phones showing voice chat active on both Talkie AI and Naviya apps](./images/talkie-ai-vs-naviya-voice-chat-comparison.jpg)

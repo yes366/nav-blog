@@ -45,7 +45,6 @@ What sets Naviya apart is the character creation toolkit. You can build your own
 
 **Naviya** gives you significantly more control. You can define detailed backstories, set specific conversation styles, configure how the character responds to different topics, and even set up scenario-specific behaviors. The learning curve is slightly steeper, but the results are noticeably better.
 
-![Side-by-side comparison of character creation interfaces on both platforms](./images/crushon-ai-vs-naviya-comparison.jpg)
 
 **Winner: Naviya** — more tools, more depth, better results.
 
@@ -92,7 +91,6 @@ Naviya is the better choice if:
 - Voice chat and AI images enhance your experience
 - You want a generous free tier to start with
 
-![Infographic comparing key metrics between Crushon AI and Naviya](./images/crushon-ai-vs-naviya-comparison.jpg)
 
 ## The Verdict
 
@@ -118,4 +116,3 @@ In my testing, Naviya maintained better character consistency across long conver
 ### Are these apps available on mobile?
 Both are available on iOS and Android. Naviya also has a full web experience at [naviya.chat](https://www.naviya.chat).
 
-![Mobile app screenshots showing both Crushon AI and Naviya on smartphones](./images/crushon-ai-vs-naviya-comparison.jpg)

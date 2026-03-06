@@ -63,6 +63,15 @@ def build_prompt(job: Dict[str, object]) -> str:
     return f"{base} Strict exclusions: {negatives}."
 
 
+def build_generate_request(job: Dict[str, object]) -> Dict[str, object]:
+    return {
+        "model": MODEL,
+        "prompt": build_prompt(job),
+        "size": SIZE,
+        "watermark": False,
+    }
+
+
 def collect_posts() -> List[Dict[str, object]]:
     posts = []
     for md_path in sorted(BLOG_DIR.glob("*.md")):
@@ -78,8 +87,7 @@ def collect_posts() -> List[Dict[str, object]]:
 
 def render_generated_editorial(job: Dict[str, object]) -> Path:
     client = Ark(api_key=API_KEY)
-    prompt = build_prompt(job)
-    response = client.images.generate(model=MODEL, prompt=prompt, size=SIZE)
+    response = client.images.generate(**build_generate_request(job))
     image_url = response.data[0].url
     result = requests.get(image_url, timeout=120)
     result.raise_for_status()

@@ -51,7 +51,6 @@ With 10,000+ community-created characters, you'll find everything from historica
 
 **Winner:** Naviya, decisively. Character depth is its core strength.
 
-![Character profile comparison showing depth of customization](./images/ai-dungeon-vs-naviya-comparison.jpg)
 
 ## Features Comparison
 

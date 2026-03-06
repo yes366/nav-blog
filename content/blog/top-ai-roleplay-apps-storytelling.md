@@ -79,7 +79,6 @@ Kobold AI is an open-source option that lets you run AI models locally. It's not
 **Pros:** Free and open-source, no content restrictions, run locally for privacy
 **Cons:** Requires technical setup, needs decent hardware, no mobile app
 
-![Screenshot of an AI roleplay conversation showing narrative depth](./images/top-ai-roleplay-apps-storytelling.jpg)
 
 ### 6. Chai AI
 
@@ -137,7 +136,6 @@ Different platforms excel at different genres. Here's a quick reference:
 **Anime/Manga:** Moemate (aesthetic), Naviya (comic panels), Character AI (anime characters)
 **Horror:** AI Dungeon (atmosphere), NovelAI (prose quality), SillyTavern (customization)
 
-![Infographic showing genre recommendations for different AI roleplay platforms](./images/top-ai-roleplay-apps-storytelling.jpg)
 
 ## Tips for Better AI Roleplay
 

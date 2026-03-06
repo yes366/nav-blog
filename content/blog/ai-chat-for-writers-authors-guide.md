@@ -79,7 +79,6 @@ The AI generates details that are consistent with the character's perspective, w
 
 This technique is especially powerful for writers building complex fantasy or sci-fi settings. The conversational format forces you to think about your world from ground level rather than from the god's-eye view of a world-building document.
 
-![An illustrated map with conversation bubbles showing different characters describing their parts of the world](./images/ai-chat-for-writers-authors-guide.jpg)
 
 ## The Antagonist Interview
 
@@ -120,7 +119,6 @@ AI character chat provides a way to approach these scenes gradually. Have a conv
 
 It's like an emotional rehearsal — you experience the scene's emotional arc in conversation before committing it to prose. When you finally write the scene, you've already lived through it once, which makes the writing more confident and authentic.
 
-![A writer looking thoughtful while reading an emotionally resonant AI character conversation on their laptop](./images/ai-chat-for-writers-authors-guide.jpg)
 
 ## Practical Tips for Writers Using AI Chat
 

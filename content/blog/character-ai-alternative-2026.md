@@ -106,7 +106,6 @@ Talkie AI differentiates itself with a strong emphasis on voice interactions. Ch
 - Fewer characters than established platforms
 - Voice quality can vary between characters
 
-![Side-by-side screenshots of different AI chat app interfaces](./images/character-ai-alternative-2026.jpg)
 
 ## Feature-by-Feature Comparison
 
@@ -134,7 +133,6 @@ Choosing the right platform depends on what matters most to you. Here are the ke
 
 **Community and content** matter because the best AI chat apps have thriving communities creating and sharing characters. A larger library means more variety and better chances of finding exactly what you're looking for.
 
-![Infographic showing key features to evaluate in AI chat apps](./images/character-ai-alternative-2026.jpg)
 
 ## The Verdict
 

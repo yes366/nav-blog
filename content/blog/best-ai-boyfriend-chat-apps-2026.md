@@ -71,7 +71,6 @@ The character creation tools also mean you can build your ideal AI companion fro
 **Free tier**: Available with limitations.
 **Best for**: Power users who want maximum control over character behavior.
 
-![Screenshots of top 5 AI boyfriend apps showing chat interfaces](./images/best-ai-boyfriend-chat-apps-2026.jpg)
 
 ### 6. Crushon AI
 
@@ -129,7 +128,6 @@ If you're new to AI boyfriend apps, start with Naviya or Character.AI. Both have
 
 If you already know what you want — deep customization, voice chat, long-term memory — [Naviya](https://www.naviya.chat) is the strongest all-around choice. The character creation tools alone set it apart.
 
-![Flowchart helping users choose the right AI boyfriend app based on preferences](./images/best-ai-boyfriend-chat-apps-2026.jpg)
 
 For voice-first experiences, try Talkie AI. For a single evolving relationship, Replika still does that better than anyone.
 
@@ -151,4 +149,3 @@ Most offer free tiers with limitations (message caps, feature restrictions). Pre
 ### Is it weird to use AI boyfriend apps?
 Not at all. Millions of people use them for entertainment, companionship, creative writing practice, and emotional support. It's a legitimate form of interactive entertainment, like gaming or reading interactive fiction.
 
-![Happy user chatting with AI boyfriend app on smartphone in cozy setting](./images/best-ai-boyfriend-chat-apps-2026.jpg)

@@ -69,7 +69,6 @@ Poe by Quora gives you access to multiple AI models (Claude, GPT, Gemini) throug
 **Free allowance:** Daily credits across models
 **Best for:** Trying different AI models
 
-![Comparison of sign-up flows across different AI chat platforms](./images/best-free-ai-chat-apps-no-sign-up.jpg)
 
 ## What You Get for Free vs. Premium
 
@@ -95,7 +94,6 @@ The pattern is clear: free tiers give you enough to evaluate, but sustained use 
 
 **Check for promotions.** Platforms regularly offer extended free trials or bonus credits for new users. Timing your sign-up with a promotion can double or triple your free access.
 
-![Tips infographic for getting the most out of free AI chat apps](./images/best-free-ai-chat-apps-no-sign-up.jpg)
 
 ## Is Free Good Enough?
 

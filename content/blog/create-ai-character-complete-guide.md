@@ -52,7 +52,6 @@ A backstory isn't just lore — it's the engine that drives how your character r
 
 **Leave gaps intentionally.** The best characters have mysteries. If you define every single detail, there's nothing left to discover in conversation. Leave room for the character to reveal things organically.
 
-![A backstory template showing key fields: origin, defining moment, motivation, fear, and secret](./images/create-ai-character-complete-guide.jpg)
 
 ### Backstory Example
 
@@ -105,7 +104,6 @@ This immediately establishes setting, character, and invites the user into a sce
 - [ ] Gives the user something to respond to
 - [ ] Feels like the start of a story, not a customer service interaction
 
-![Example of three different opening messages showing different character tones: mysterious, cheerful, and intense](./images/create-ai-character-complete-guide.jpg)
 
 ## Step 5: Write Example Dialogues
 
@@ -153,7 +151,6 @@ Creating a character is never one-and-done. The real magic happens in iteration.
 
 You can start testing your character right now — [create one on Naviya](https://www.naviya.chat) and see how it feels in real conversation.
 
-![A flowchart showing the character creation iteration cycle: Create → Test → Gather Feedback → Refine → Repeat](./images/create-ai-character-complete-guide.jpg)
 
 ## Common Mistakes to Avoid
 

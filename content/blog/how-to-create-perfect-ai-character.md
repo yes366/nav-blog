@@ -97,7 +97,6 @@ You don't need a 10,000-word lore document. You need the *right* backstory detai
 
 This layered approach creates natural conversation progression. Early chats feel like meeting someone new. Later chats feel like you've become close friends.
 
-![Iceberg diagram showing 3 layers of character depth](./images/how-to-create-perfect-ai-character.jpg)
 
 ## Step 4: Define Their Relationship With the User
 
@@ -167,7 +166,6 @@ Your first version won't be perfect. That's fine.
 | Conversations feel repetitive | Add more interests and topics to the backstory |
 | Character feels generic | Add unique verbal tics, opinions, or habits |
 
-![Before and after comparison of character responses](./images/how-to-create-perfect-ai-character.jpg)
 
 ## Advanced Techniques
 

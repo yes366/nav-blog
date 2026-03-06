@@ -59,7 +59,6 @@ This isn't a replacement for human connection — and the best platforms are tra
 
 The key is balance. AI companionship works best as a supplement to human relationships, not a substitute. The healthiest users tend to be people who also maintain real-world social connections but enjoy AI chat as an additional outlet.
 
-![Infographic showing the spectrum of AI chat use cases from creative to social to companionship](./images/talk-to-ai-characters-reasons.jpg)
 
 ## 5. Entertainment That Responds to You
 
@@ -93,7 +92,6 @@ Someone dealing with a loss might find comfort in a conversation with a wise, em
 
 This is not therapy. It's important to be clear about that. AI characters are not mental health professionals, and platforms that position them as such are being irresponsible. But as a form of emotional expression — similar to journaling or talking to a pet — it has genuine value for many people.
 
-![A thoughtful illustration showing the emotional processing aspect of AI character chat, depicted as a person reflecting while chatting](./images/talk-to-ai-characters-reasons.jpg)
 
 ## The Bigger Picture
 

@@ -16,9 +16,6 @@ author: "Naviya Team"
 If improving your speaking confidence tops the 2026 to-do list, you need an AI conversation practice app that sounds natural, adapts to your goals, and stays available when your classmates or coworkers are asleep. I trialed the leading tools for travel prep, interview drills, and storytelling, then measured how they personalize prompts, track progress, and pair text chat with voice or visuals. Every app on this list hits the baseline of realistic replies, but their coaching styles differ dramatically.
 
 ![Hero montage of people practicing conversations with AI apps](./images/ai-conversation-practice-apps-2026.jpg)
-![Screenshot of Naviya conversation coach with analytics panel](./images/ai-conversation-practice-apps-2026.jpg)
-![Comparison table showing conversation modes vs. pricing](./images/ai-conversation-practice-apps-2026.jpg)
-![Infographic of conversation practice workflow from prompt to feedback](./images/ai-conversation-practice-apps-2026.jpg)
 
 ## What to Expect From Modern AI Conversation Practice Apps
 

@@ -51,7 +51,6 @@ Let's be specific about what creative freedom enables in practice:
 
 **Genre authenticity.** Horror needs to be scary. Thriller needs to be tense. Drama needs to be raw. Each genre has conventions that require a certain level of creative freedom to execute properly.
 
-![Examples of creative storytelling scenarios that benefit from balanced content policies](./images/ai-chat-no-filter-guide.jpg)
 
 ## Finding Your Right Balance
 

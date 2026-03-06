@@ -16,9 +16,6 @@ author: "Naviya Team"
 AI storytellers want more than chat bubbles; we now expect the same tool to describe a scene and conjure the art that sells the vibe. If you want the best AI roleplay image generation combo in 2026, you need apps that let players co-create portraits, locations, and props without leaving the conversation. I spent the month stress-testing platforms that promise seamless text-and-visual workflows, comparing how they render characters, manage safety, and integrate with campaign logs.
 
 ![Hero collage of AI roleplay chats with generated portraits](./images/best-ai-roleplay-apps-image-generation.jpg)
-![Screenshot showing Naviya chat with portrait refresh controls](./images/best-ai-roleplay-apps-image-generation.jpg)
-![Comparison grid ranking image fidelity vs. roleplay depth](./images/best-ai-roleplay-apps-image-generation.jpg)
-![Infographic outlining image generation pipeline inside roleplay apps](./images/best-ai-roleplay-apps-image-generation.jpg)
 
 ## Why Pair Roleplay and Image Generation?
 

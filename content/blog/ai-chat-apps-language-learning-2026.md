@@ -93,7 +93,6 @@ It's less creative than using character chat apps, but more focused on measurabl
 **Best for**: Focused language improvement with progress tracking
 **Price**: Subscription-based
 
-![Screenshots of top language learning AI chat apps in action](./images/ai-chat-apps-language-learning-2026.jpg)
 
 ## Practical Tips for AI Language Practice
 
@@ -115,7 +114,6 @@ Use ChatGPT or Langotalk for structured grammar practice. Use [Naviya](https://w
 ### Set a Daily Minimum
 Even 10 minutes of AI conversation practice daily is more effective than an hour once a week. The consistency matters more than the duration. Set a reminder and make it a habit.
 
-![Daily language practice schedule showing AI chat integration](./images/ai-chat-apps-language-learning-2026.jpg)
 
 ## What AI Can't Replace
 

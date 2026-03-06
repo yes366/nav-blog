@@ -89,7 +89,6 @@ These conversations didn't go perfectly. But they went. And each time, the words
 
 **Using it as therapy.** AI character chat is not therapy. It's practice. The underlying anxiety still needed professional help. The AI conversations were a supplement, not a replacement.
 
-![An infographic showing the progression from AI practice conversations to real-world social confidence](./images/ai-roleplay-overcome-social-anxiety-story.jpg)
 
 ## The Science Behind It
 

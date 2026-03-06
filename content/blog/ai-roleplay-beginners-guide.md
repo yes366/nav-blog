@@ -137,7 +137,6 @@ The AI will occasionally say something weird, inconsistent, or off-tone. That's 
 ### Mistake 5: Giving Up Too Early
 The first few exchanges in any roleplay are the roughest. You're establishing the dynamic, the AI is calibrating to your style, and neither of you has momentum yet. Give it at least 10-15 exchanges before deciding if a character works for you.
 
-![A flowchart showing the beginner's decision tree: Choose Character → Read Opening → Respond with Action+Dialogue → React to AI → Repeat](./images/ai-roleplay-beginners-guide.jpg)
 
 ## Genre Guide for Beginners
 

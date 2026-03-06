@@ -61,7 +61,6 @@ This dynamic creates genuinely unpredictable storytelling. You're not following 
 
 **Why it works in AI chat**: The AI can maintain a friendly, likeable persona while dropping subtle hints that something isn't right. Rereading earlier messages after the "reveal" often shows clues you missed — the AI was playing the long game.
 
-![Charismatic villain character with disarming smile in elegant setting](./images/best-ai-villain-characters-roleplay.jpg)
 
 **Example dialogue**:
 
@@ -99,7 +98,6 @@ This dynamic creates genuinely unpredictable storytelling. You're not following 
 
 **Best for**: Players who enjoy competitive dynamics and mutual respect.
 
-![Rival characters facing off in dramatic standoff scene](./images/best-ai-villain-characters-roleplay.jpg)
 
 ## Tips for Great Villain Roleplay
 

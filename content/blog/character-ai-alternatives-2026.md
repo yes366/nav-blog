@@ -130,7 +130,6 @@ Talkie's voice-first approach changes the entire experience. Speaking to a chara
 
 **Best for:** Language learners, accessibility needs, or anyone who prefers talking to typing.
 
-![Comparison of user interfaces across different AI chat apps](./images/character-ai-alternatives-2026.jpg)
 
 ## 6. SillyTavern — Best for Self-Hosted Control
 
@@ -201,4 +200,3 @@ The one that makes you lose track of time? That's your app.
 
 **[Start with Naviya — free to chat, no account required.](https://www.naviya.chat)**
 
-![Person exploring different AI chat apps on tablet](./images/character-ai-alternatives-2026.jpg)

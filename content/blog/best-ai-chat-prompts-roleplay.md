@@ -89,7 +89,6 @@ Subtle cues that guide the story:
 - *finds a hidden compartment in the desk* "Well. This changes everything."
 - "The fingerprints came back. They're yours — but from a case that was closed ten years ago."
 
-![A noir-style detective scene showing an AI character investigation setup](./images/best-ai-chat-prompts-roleplay.jpg)
 
 ### Slice-of-Life / Casual Prompts
 
@@ -143,7 +142,6 @@ Reference something from earlier in the conversation. This creates narrative con
 - "Remember what you said about trust? I think I finally understand what you meant."
 - *pulls out the coin the stranger gave them at the beginning* "You said I'd know when to use this. Is it now?"
 
-![A visual guide showing the four advanced prompting techniques with examples](./images/best-ai-chat-prompts-roleplay.jpg)
 
 ### The Scene Break
 When you want to jump forward in time or change location:

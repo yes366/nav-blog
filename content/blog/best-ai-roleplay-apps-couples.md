@@ -16,9 +16,6 @@ author: "Naviya Team"
 Couples who worldbuild together need more than a shared Google Doc. You want AI roleplay partners that respect boundaries, remember lore, and spark new ideas on quiet evenings. If you're specifically chasing AI roleplay for couples, this guide pinpoints the apps that treat both of you like co-authors instead of passengers. I tested the leading AI roleplay apps for couples building shared worlds — from cozy slice-of-life romances to galaxy-spanning sagas — and focused on tools that balance intimacy, collaboration, and safety. Every pick here supports two-player storytelling, lets you swap between character perspectives, and removes the friction of waitlists or rigid content filters.
 
 ![Hero image of a couple co-creating an AI roleplay world](./images/best-ai-roleplay-apps-couples.jpg)
-![Screenshot of Naviya shared world dashboard showing multiple characters](./images/best-ai-roleplay-apps-couples.jpg)
-![Comparison chart of couple-focused AI roleplay features](./images/best-ai-roleplay-apps-couples.jpg)
-![Character portrait moodboard for collaborative storytelling](./images/best-ai-roleplay-apps-couples.jpg)
 
 ## What Couples Should Look For
 

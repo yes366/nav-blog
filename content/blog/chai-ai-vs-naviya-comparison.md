@@ -64,7 +64,6 @@ During conversations on Naviya, the AI can generate images and comic panels that
 ### Character Creation
 Chai lets you create characters with basic descriptions. Naviya offers granular control over personality traits, speech patterns, emotional tendencies, and backstory. The depth of customization directly impacts conversation quality.
 
-![Feature comparison infographic Chai AI vs Naviya](./images/chai-ai-vs-naviya-comparison.jpg)
 
 ## Pricing
 

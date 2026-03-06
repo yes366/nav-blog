@@ -94,7 +94,6 @@ Voice chat has a natural rhythm. After the AI responds, take a beat before speak
 ### 5. Try Different Characters
 Voice adds a new dimension to characters you might have already chatted with in text. A character that felt one way in text might feel completely different when you hear their voice. Revisit favorites and discover new aspects of their personality.
 
-![A person using voice chat with an AI character in different settings: at home, walking outdoors, in a café](./images/ai-character-voice-chat-guide.jpg)
 
 ## Voice Chat for Language Learning
 
@@ -140,4 +139,3 @@ Start with a character you already enjoy in text. Switch to voice and have the s
 
 [Try voice chat on Naviya](https://www.naviya.chat) — pick a character, tap the voice icon, and start talking.
 
-![A warm illustration of a person smiling while having a voice conversation with an AI character](./images/ai-character-voice-chat-guide.jpg)

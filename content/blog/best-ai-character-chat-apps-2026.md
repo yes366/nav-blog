@@ -148,7 +148,6 @@ Talkie AI focuses on voice interaction. Instead of typing back and forth, you ac
 
 If you've ever wished you could literally *talk* to an AI character, Talkie delivers that promise better than anyone else.
 
-![Side-by-side comparison chart of features across 5 apps](./images/best-ai-character-chat-apps-2026.jpg)
 
 ## Head-to-Head: Feature Comparison
 
@@ -198,4 +197,3 @@ The best AI character chat app is the one that makes you forget you're talking t
 
 **Ready to try it yourself? [Start chatting on Naviya — free, no sign-up required.](https://www.naviya.chat)**
 
-![Person enjoying AI chat on their phone in a cozy setting](./images/best-ai-character-chat-apps-2026.jpg)

@@ -86,7 +86,6 @@ The key is using them as thinking partners rather than content generators. Ask q
 **Best for**: Brainstorming, research, world-building logic
 **Price**: Free tiers available on both
 
-![Screenshot showing AI brainstorming session for creative writing ideas](./images/best-ai-apps-creative-writing-2026.jpg)
 
 ### 5. World Anvil + AI — Best for World-Building
 
@@ -127,7 +126,6 @@ The biggest risk with AI writing tools is homogenization. If you let AI generate
 
 5. **Know when to close the AI**. Some writing sessions need to be just you and the blank page. AI is a tool, not a crutch.
 
-![Writer at desk with AI tools on screen, notebook open for handwriting](./images/best-ai-apps-creative-writing-2026.jpg)
 
 ## My Actual Workflow
 
@@ -163,4 +161,3 @@ Start with Naviya for character development (it's intuitive and free to start) a
 ### Can AI help with writer's block?
 Absolutely. This is one of AI's strongest use cases. Talking through your stuck point with an AI — or chatting with your character on [Naviya](https://www.naviya.chat) — often breaks the logjam by giving you a new perspective or unexpected idea.
 
-![Comparison chart of AI writing tools with ratings for different use cases](./images/best-ai-apps-creative-writing-2026.jpg)

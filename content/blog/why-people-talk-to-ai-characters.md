@@ -84,7 +84,6 @@ Writers, artists, and creators use AI character chat as a creative tool:
 
 For creative people, AI characters aren't replacements for human interaction — they're tools, like a sketchbook or a writing prompt generator, but interactive.
 
-![Creative uses of AI character chat — writing, learning, gaming](./images/why-people-talk-to-ai-characters.jpg)
 
 ## Reason 5: The Loneliness Epidemic Is Real
 
@@ -153,4 +152,3 @@ The technology is new. The human need behind it is ancient.
 
 **Curious to see what all the fuss is about? [Try Naviya — your first conversation is free.](https://www.naviya.chat)**
 
-![Warm illustration of diverse people connecting through technology](./images/why-people-talk-to-ai-characters.jpg)

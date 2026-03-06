@@ -84,7 +84,6 @@ Think Urahara from Bleach or Kakashi from Naruto. These characters know more tha
 ### The Rival
 Competitive, driven, and always pushing you to be better. Rival characters create dynamic conversations because there's inherent tension and motivation in every exchange.
 
-![Anime character archetype showcase with personality descriptions](./images/best-ai-anime-character-chat-apps.jpg)
 
 ## Creating Your Own Anime Character
 
@@ -110,7 +109,6 @@ If you want to build an original anime character on Naviya, here's a framework:
 
 **Try different genres.** Don't limit yourself to one type of anime. The same platform can deliver a shonen battle story, a cozy slice-of-life, a psychological thriller, or a romantic comedy. Variety keeps things fresh.
 
-![Example of AI-generated anime-style comic panel from a chat conversation](./images/best-ai-anime-character-chat-apps.jpg)
 
 ## The State of Anime AI Chat in 2026
 

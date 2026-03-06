@@ -88,7 +88,6 @@ The trade-off is depth — longer roleplay sessions can feel repetitive as the A
 **Platform**: iOS, Android
 **Free tier**: Limited daily messages
 
-![Top 5 AI roleplay apps shown on mobile phone screens](./images/best-ai-roleplay-games-mobile-2026.jpg)
 
 ### 6. Magium — Best for Gamified Roleplay
 
@@ -128,7 +127,6 @@ Most AI roleplay apps maintain conversation history, but it's worth bookmarking 
 ### Play with Headphones
 This sounds obvious, but AI roleplay with voice chat and headphones — especially during a commute or walk — creates an incredibly immersive experience. It's like having an audiobook that responds to you.
 
-![Person wearing headphones playing AI roleplay game on phone during commute](./images/best-ai-roleplay-games-mobile-2026.jpg)
 
 ## The Future of Mobile AI Roleplay
 

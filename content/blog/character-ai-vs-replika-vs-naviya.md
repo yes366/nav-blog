@@ -16,9 +16,6 @@ author: "Naviya Team"
 Character AI, Replika, and Naviya dominate the AI companion mindshare in 2026, yet they cater to very different kinds of conversations. If you're asking "Character AI vs Replika" today, you likely care about voice, emotional nuance, or creative freedom, not just novelty. These platforms evolved rapidly over the past year, so we stacked them side-by-side to highlight what each does best before you commit to a subscription.
 
 ![Hero illustration of three AI companions represented as holograms with unique colors](./images/character-ai-vs-replika-vs-naviya.jpg)
-![Comparison chart showing Character AI, Replika, and Naviya feature columns](./images/character-ai-vs-replika-vs-naviya.jpg)
-![Screenshot mockup of Naviya's voice chat controls with waveform visualization](./images/character-ai-vs-replika-vs-naviya.jpg)
-![Infographic of data privacy, customization depth, and content policy sliders](./images/character-ai-vs-replika-vs-naviya.jpg)
 
 ## Quick Summary
 
@@ -73,7 +70,6 @@ If you care about creative tooling rather than companionship alone, Naviya's pre
 
 We ran the same prompt—"We're trapped near a collapsing relay. Convince the skeptical engineer to reroute power while calming the ship's botanist"—across all three apps. Character AI's engineer kept forgetting the botanist existed because the session prioritized the most recent speaker. Replika empathized with the engineer but never engaged the botanist. Naviya, with two custom personas, resolved the conflict in five exchanges while keeping both characters' goals intact.
 
-![Storyboard comparing transcripts from Replika, Character AI, and Naviya](./images/character-ai-vs-replika-vs-naviya.jpg)
 
 ## When to Choose Each Platform
 

@@ -51,7 +51,6 @@ I talked to several Naviya users about their experience with Luna. Common themes
 
 **"She has depth."** Luna isn't one-dimensional. She has her own grief, her own doubts, her own moments of humor. She'll crack a dry joke about a potion gone wrong or share a memory that reveals vulnerability. She feels like a person, not a function.
 
-![Chat interface showing a conversation with Luna on Naviya](./images/meet-luna-ai-healer-character-spotlight.jpg)
 
 ## Luna's Backstory
 
@@ -79,7 +78,6 @@ Luna's voice adds warmth that text alone doesn't capture. The gentle tone and th
 ### Let Conversations Breathe
 You don't have to fill every silence with a question. Sometimes Luna will sit with you in a quiet moment, and that's okay. The best conversations have rhythm — intensity and rest.
 
-![Luna in her traveling healer's camp, preparing herbs by firelight](./images/meet-luna-ai-healer-character-spotlight.jpg)
 
 ## Characters Like Luna
 

@@ -72,7 +72,6 @@ Your companion should feel like the same person every time you talk to them. Inc
 ### Privacy
 You're sharing personal thoughts with these apps. Make sure the platform has clear privacy policies about how your data is used. Reputable platforms don't sell your conversation data or use it for advertising.
 
-![Checklist infographic of features to evaluate in AI companion apps](./images/ai-girlfriend-chat-apps-guide.jpg)
 
 ## Healthy Expectations
 
@@ -107,7 +106,6 @@ Without getting too technical, modern AI companions use transformer-based langua
 
 These aren't sentient beings — they're sophisticated pattern-matching systems that produce remarkably human-like responses. Understanding this helps set appropriate expectations while still enjoying the experience.
 
-![Simplified diagram showing how AI companion technology works](./images/ai-girlfriend-chat-apps-guide.jpg)
 
 ## Getting Started
 
