@@ -4,7 +4,7 @@ slug: "ai-chat-no-filter-guide"
 description: "What does 'AI chat no filter' actually mean? We explain content policies across platforms and help you find the right level of creative freedom."
 date: "2026-02-24"
 tags: ["ai chat no filter", "ai roleplay", "content filters"]
-cover: "./images/ai-chat-no-filter-guide.jpg"
+cover: "./images/ai-chat-no-filter-guide-cover.jpg"
 category: "comparison"
 keywords: ["ai chat no filter", "unfiltered ai chat", "ai roleplay no restrictions"]
 related_npcs: []

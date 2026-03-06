@@ -4,7 +4,7 @@ slug: "ai-adventure-companion-characters-spotlight"
 description: "Discover Naviya's best adventure companion characters. From space explorers to treasure hunters, find your perfect AI partner for epic journeys."
 date: "2026-02-24"
 tags: ["ai characters", "adventure roleplay", "character spotlight"]
-cover: "./images/ai-adventure-companion-characters-spotlight.jpg"
+cover: "./images/ai-adventure-companion-characters-spotlight-cover.jpg"
 category: "spotlight"
 keywords: ["ai adventure characters", "ai companion chat", "adventure roleplay ai"]
 related_npcs: []

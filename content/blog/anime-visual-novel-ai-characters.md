@@ -4,7 +4,7 @@ slug: "anime-visual-novel-ai-characters"
 description: "Anime and visual novel characters offer unique AI chat experiences. Here's what makes them different from other character types — and how to have better conversations."
 date: "2026-03-04"
 tags: ["character spotlight", "anime", "visual novel", "ai roleplay"]
-cover: "/og-home.png"
+cover: "./images/anime-visual-novel-ai-characters-cover.jpg"
 related_npcs: ["Yui Komori", "Lily"]
 keywords: ["anime ai chat", "visual novel ai character", "anime character roleplay", "talk to anime characters", "ai anime girlfriend"]
 ---

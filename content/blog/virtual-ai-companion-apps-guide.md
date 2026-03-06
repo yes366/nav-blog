@@ -4,7 +4,7 @@ slug: "virtual-ai-companion-apps-guide"
 description: "Compare the best virtual AI companion apps in 2026. Features, pricing, and honest reviews of top AI companion platforms."
 date: "2026-02-26"
 tags: ["virtual ai companion", "ai companion app", "comparison"]
-cover: "./images/virtual-ai-companion-apps-guide.jpg"
+cover: "./images/virtual-ai-companion-apps-guide-cover.jpg"
 category: "comparison"
 keywords: ["virtual ai companion app", "ai companion app", "best ai companion"]
 related_npcs: []

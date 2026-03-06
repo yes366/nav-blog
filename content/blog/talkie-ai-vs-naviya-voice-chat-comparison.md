@@ -4,7 +4,7 @@ slug: "talkie-ai-vs-naviya-voice-chat-comparison"
 description: "Talkie AI vs Naviya compared — voice chat, characters, features, and pricing. Find out which AI chat app wins for voice conversations."
 date: "2026-02-25"
 tags: ["comparison", "talkie ai", "voice chat", "naviya"]
-cover: "./images/talkie-ai-vs-naviya-voice-chat-comparison.jpg"
+cover: "./images/talkie-ai-vs-naviya-voice-chat-comparison-cover.jpg"
 category: "comparison"
 keywords: ["talkie ai vs naviya", "ai voice chat app", "talkie ai alternative"]
 related_npcs: []

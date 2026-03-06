@@ -4,7 +4,7 @@ slug: "meet-luna-ai-healer-character-spotlight"
 description: "Meet Luna, Naviya's most popular healer character. Discover why thousands of users keep coming back to chat with this empathetic AI companion."
 date: "2026-02-25"
 tags: ["character spotlight", "luna", "healer", "ai companion"]
-cover: "./images/meet-luna-ai-healer-character-spotlight.jpg"
+cover: "./images/meet-luna-ai-healer-character-spotlight-cover.jpg"
 category: "spotlight"
 keywords: ["ai healer character", "naviya characters", "ai companion chat"]
 related_npcs: []

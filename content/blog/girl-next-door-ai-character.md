@@ -4,7 +4,7 @@ slug: "girl-next-door-ai-character-neighbor-crush"
 description: "Neighbor crush AI characters offer a unique slow-burn romance experience. Here's what makes them different — and how to get the most out of these conversations."
 date: "2026-03-04"
 tags: ["character spotlight", "romance", "ai roleplay", "modern characters"]
-cover: "/og-home.png"
+cover: "./images/girl-next-door-ai-character-cover.jpg"
 related_npcs: ["Mandy"]
 keywords: ["girl next door ai", "neighbor crush ai chat", "ai roleplay romance", "talk to neighbor ai", "ai girlfriend next door"]
 ---

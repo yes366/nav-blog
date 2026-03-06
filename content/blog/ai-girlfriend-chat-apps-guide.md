@@ -4,7 +4,7 @@ slug: "ai-girlfriend-chat-apps-guide"
 description: "An honest look at AI girlfriend chat apps in 2026. What they offer, how they work, and which platforms deliver the most meaningful AI companion experience."
 date: "2026-02-24"
 tags: ["ai girlfriend", "ai companion", "ai chat"]
-cover: "./images/ai-girlfriend-chat-apps-guide.jpg"
+cover: "./images/ai-girlfriend-chat-apps-guide-cover.jpg"
 category: "comparison"
 keywords: ["ai girlfriend chat", "ai boyfriend chat", "ai companion app"]
 related_npcs: []

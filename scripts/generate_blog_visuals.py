@@ -98,7 +98,7 @@ def render_generated_editorial(job: Dict[str, object]) -> Path:
     result = requests.get(image_url, timeout=120)
     result.raise_for_status()
 
-    out_path = IMG_DIR / f"{job['slug']}.jpg"
+    out_path = ROOT / build_cover_output_path(str(job['slug']))
     out_path.write_bytes(result.content)
     return out_path
 
@@ -121,12 +121,20 @@ def main() -> None:
             print(json.dumps(job, ensure_ascii=False, indent=2))
         return
 
+    failures = []
     for job in jobs:
         if job["mode"] != "generated_editorial":
             print(f"skip {job['slug']} mode={job['mode']}")
             continue
-        out_path = render_generated_editorial(job)
-        print(f"rendered {job['slug']} -> {out_path}")
+        try:
+            out_path = render_generated_editorial(job)
+            print(f"rendered {job['slug']} -> {out_path}")
+        except Exception as exc:
+            failures.append((job['slug'], str(exc)))
+            print(f"failed {job['slug']} -> {exc}")
+
+    if failures:
+        raise SystemExit(f"generation_failed {len(failures)} items: {failures[:5]}")
 
 
 if __name__ == "__main__":

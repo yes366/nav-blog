@@ -4,7 +4,7 @@ slug: "ai-chat-apps-language-learning-2026"
 description: "Use AI chat apps to practice languages naturally. We review the best AI conversation partners for language learning, from beginner to advanced."
 date: "2026-02-25"
 tags: ["listicle", "language learning", "ai chat", "education"]
-cover: "./images/ai-chat-apps-language-learning-2026.jpg"
+cover: "./images/ai-chat-apps-language-learning-2026-cover.jpg"
 category: "comparison"
 keywords: ["ai chat language learning", "ai conversation practice", "ai language partner"]
 related_npcs: []

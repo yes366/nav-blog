@@ -4,7 +4,7 @@ slug: "ai-roleplay-overcome-social-anxiety-story"
 description: "A personal story about using AI character roleplay to practice social situations and build confidence with real conversations."
 date: "2026-02-26"
 tags: ["ai roleplay", "social anxiety", "use case", "personal story"]
-cover: "./images/ai-roleplay-overcome-social-anxiety-story.jpg"
+cover: "./images/ai-roleplay-overcome-social-anxiety-story-cover.jpg"
 category: "story"
 keywords: ["ai roleplay social skills", "ai chat social anxiety", "ai conversation practice"]
 related_npcs: []

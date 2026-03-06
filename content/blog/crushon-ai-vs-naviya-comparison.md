@@ -4,7 +4,7 @@ slug: "crushon-ai-vs-naviya-comparison"
 description: "Crushon AI vs Naviya — which AI character chat app is better? We compare features, characters, pricing, and user experience side by side."
 date: "2026-02-25"
 tags: ["comparison", "crushon ai", "naviya", "ai chat"]
-cover: "./images/crushon-ai-vs-naviya-comparison.jpg"
+cover: "./images/crushon-ai-vs-naviya-comparison-cover.jpg"
 category: "comparison"
 keywords: ["crushon ai vs naviya", "crushon ai alternative", "ai character chat comparison"]
 related_npcs: []

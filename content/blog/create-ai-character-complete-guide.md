@@ -4,7 +4,7 @@ slug: "create-ai-character-complete-guide"
 description: "Learn how to create an AI character from scratch with our step-by-step guide covering personality, backstory, and dialogue design."
 date: "2026-02-26"
 tags: ["ai character", "guide", "create", "tutorial"]
-cover: "./images/create-ai-character-complete-guide.jpg"
+cover: "./images/create-ai-character-complete-guide-cover.jpg"
 category: "guide"
 keywords: ["create ai character", "how to create ai character", "ai character design"]
 related_npcs: []

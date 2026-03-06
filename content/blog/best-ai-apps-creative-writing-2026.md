@@ -4,7 +4,7 @@ slug: "best-ai-apps-creative-writing-2026"
 description: "Discover the best AI apps for creative writing in 2026. From character development to world-building, these tools help writers overcome blocks and craft better stories."
 date: "2026-02-25"
 tags: ["listicle", "creative writing", "ai tools", "storytelling"]
-cover: "./images/best-ai-apps-creative-writing-2026.jpg"
+cover: "./images/best-ai-apps-creative-writing-2026-cover.jpg"
 category: "comparison"
 keywords: ["best ai for creative writing", "ai writing tools", "ai storytelling app"]
 related_npcs: []

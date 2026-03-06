@@ -4,7 +4,7 @@ slug: "best-ai-character-builder-apps-2026"
 description: "Discover the best AI character builder apps in 2026, with feature breakdowns, workflow tips, and how Naviya stacks up for storytellers."
 date: "2026-02-27"
 tags: ["ai character builder", "comparison", "naviya"]
-cover: "./images/best-ai-character-builder-apps-2026.jpg"
+cover: "./images/best-ai-character-builder-apps-2026-cover.jpg"
 category: "comparison"
 keywords: ["AI character builder", "AI character creator", "AI roleplay tools"]
 related_npcs: []

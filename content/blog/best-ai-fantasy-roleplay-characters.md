@@ -4,7 +4,7 @@ slug: "best-ai-fantasy-roleplay-characters"
 description: "Meet the best AI fantasy roleplay characters — from dark elves to dragon riders. Explore immersive fantasy worlds through AI character chat."
 date: "2026-02-24"
 tags: ["ai fantasy roleplay", "ai characters", "fantasy chat"]
-cover: "./images/best-ai-fantasy-roleplay-characters.jpg"
+cover: "./images/best-ai-fantasy-roleplay-characters-cover.jpg"
 category: "spotlight"
 keywords: ["ai fantasy roleplay", "fantasy ai characters", "ai roleplay chat"]
 related_npcs: []

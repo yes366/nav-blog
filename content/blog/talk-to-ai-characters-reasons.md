@@ -4,7 +4,7 @@ slug: "talk-to-ai-characters-reasons"
 description: "Why millions of people talk to AI characters daily. Explore the real reasons behind the AI chat phenomenon in 2026."
 date: "2026-02-26"
 tags: ["talk to ai", "ai chat", "culture", "trends"]
-cover: "./images/talk-to-ai-characters-reasons.jpg"
+cover: "./images/talk-to-ai-characters-reasons-cover.jpg"
 category: "culture"
 keywords: ["talk to ai", "ai character chat", "why people talk to ai"]
 related_npcs: []

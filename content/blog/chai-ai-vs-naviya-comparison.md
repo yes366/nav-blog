@@ -4,7 +4,7 @@ slug: "chai-ai-vs-naviya-comparison"
 description: "Chai AI vs Naviya — we compare response quality, features, pricing, and user experience to help you pick the right AI character chat app."
 date: "2026-02-24"
 tags: ["chai ai", "ai chat comparison", "ai roleplay"]
-cover: "./images/chai-ai-vs-naviya-comparison.jpg"
+cover: "./images/chai-ai-vs-naviya-comparison-cover.jpg"
 category: "comparison"
 keywords: ["chai ai vs naviya", "chai ai alternative", "best ai chat app"]
 related_npcs: []

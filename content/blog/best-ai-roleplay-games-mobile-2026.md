@@ -4,7 +4,7 @@ slug: "best-ai-roleplay-games-mobile-2026"
 description: "The best AI roleplay games for mobile in 2026. From fantasy quests to mystery adventures, these apps turn your phone into an interactive story engine."
 date: "2026-02-25"
 tags: ["listicle", "ai roleplay", "mobile games", "interactive fiction"]
-cover: "./images/best-ai-roleplay-games-mobile-2026.jpg"
+cover: "./images/best-ai-roleplay-games-mobile-2026-cover.jpg"
 category: "comparison"
 keywords: ["ai roleplay games mobile", "ai roleplay app", "interactive fiction mobile"]
 related_npcs: []

@@ -34,6 +34,11 @@ def validate() -> List[str]:
         if refs:
             issues.append(f"{path.name}: inline_images={len(refs)}")
 
+        cover_match = re.search(r'^cover:\s*"?(.*?)"?$', text, re.M)
+        cover_value = cover_match.group(1) if cover_match else ''
+        if not cover_value.endswith('-cover.jpg'):
+            issues.append(f"{path.name}: cover_path={cover_value}")
+
         slug = path.stem
         entry = manifest.get(slug, {"mode": "generated_editorial"})
         if not is_generated_cover_policy(entry):

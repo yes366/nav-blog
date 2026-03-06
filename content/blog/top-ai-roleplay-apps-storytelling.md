@@ -4,7 +4,7 @@ slug: "top-ai-roleplay-apps-storytelling"
 description: "Discover the 10 best AI roleplay apps for immersive storytelling in 2026. From fantasy adventures to mystery scenarios, find your perfect platform."
 date: "2026-02-24"
 tags: ["ai roleplay", "storytelling apps", "interactive fiction"]
-cover: "./images/top-ai-roleplay-apps-storytelling.jpg"
+cover: "./images/top-ai-roleplay-apps-storytelling-cover.jpg"
 category: "comparison"
 keywords: ["ai roleplay apps", "ai storytelling app", "interactive fiction ai"]
 related_npcs: []

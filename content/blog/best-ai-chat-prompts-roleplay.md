@@ -4,7 +4,7 @@ slug: "best-ai-chat-prompts-roleplay"
 description: "Master AI chat prompts for better roleplay conversations. 50+ proven prompts and techniques for immersive AI character interactions."
 date: "2026-02-26"
 tags: ["ai chat prompts", "roleplay", "guide", "tips"]
-cover: "./images/best-ai-chat-prompts-roleplay.jpg"
+cover: "./images/best-ai-chat-prompts-roleplay-cover.jpg"
 category: "guide"
 keywords: ["ai chat prompts", "ai roleplay prompts", "ai roleplay tips"]
 related_npcs: []

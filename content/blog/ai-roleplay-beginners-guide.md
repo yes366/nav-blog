@@ -4,7 +4,7 @@ slug: "ai-roleplay-beginners-guide"
 description: "New to AI roleplay? This beginner's guide covers everything from choosing characters to writing your first scene."
 date: "2026-02-26"
 tags: ["ai roleplay", "beginners", "guide", "tutorial"]
-cover: "./images/ai-roleplay-beginners-guide.jpg"
+cover: "./images/ai-roleplay-beginners-guide-cover.jpg"
 category: "guide"
 keywords: ["ai roleplay for beginners", "how to ai roleplay", "ai roleplay guide"]
 related_npcs: []

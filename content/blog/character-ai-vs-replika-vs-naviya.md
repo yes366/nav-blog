@@ -4,7 +4,7 @@ slug: "character-ai-vs-replika-vs-naviya"
 description: "Compare Character AI, Replika, and Naviya for 2026 voice companions, focusing on roleplay depth, safety, and creative control."
 date: "2026-02-27"
 tags: ["character ai", "replika", "comparison"]
-cover: "./images/character-ai-vs-replika-vs-naviya.jpg"
+cover: "./images/character-ai-vs-replika-vs-naviya-cover.jpg"
 category: "comparison"
 keywords: ["Character AI vs Replika", "Replika alternative", "voice ai chat app"]
 related_npcs: []

@@ -4,7 +4,7 @@ slug: "ai-roleplay-tips-better-conversations"
 description: "Level up your AI roleplay with these proven tips. Learn prompt techniques, conversation starters, and how to get deeper responses from AI characters."
 date: "2026-02-19"
 tags: ["guide", "roleplay", "tips", "ai chat"]
-cover: "./images/ai-roleplay-tips-better-conversations.jpg"
+cover: "./images/ai-roleplay-tips-better-conversations-cover.jpg"
 category: "guide"
 keywords: ["ai roleplay tips", "how to roleplay with ai", "ai chat tips"]
 related_npcs: []

@@ -4,7 +4,7 @@ slug: "best-ai-boyfriend-chat-apps-2026"
 description: "Looking for the best AI boyfriend chat app? We ranked the top 10 apps for romantic AI conversations, companionship, and virtual dating in 2026."
 date: "2026-02-25"
 tags: ["listicle", "ai boyfriend", "ai companion", "romance"]
-cover: "./images/best-ai-boyfriend-chat-apps-2026.jpg"
+cover: "./images/best-ai-boyfriend-chat-apps-2026-cover.jpg"
 category: "comparison"
 keywords: ["ai boyfriend chat", "ai boyfriend app", "virtual boyfriend ai"]
 related_npcs: []

@@ -4,7 +4,7 @@ slug: "best-ai-mystery-characters-detective-roleplay"
 description: "Love detective stories? Meet the 5 best AI mystery characters for immersive detective roleplay. Solve crimes, uncover secrets, and test your deduction skills."
 date: "2026-02-24"
 tags: ["ai mystery", "detective roleplay", "ai characters"]
-cover: "./images/best-ai-mystery-characters-detective-roleplay.jpg"
+cover: "./images/best-ai-mystery-characters-detective-roleplay-cover.jpg"
 category: "spotlight"
 keywords: ["ai mystery chat", "detective ai roleplay", "mystery ai characters"]
 related_npcs: []

@@ -4,7 +4,7 @@ slug: "best-ai-chat-apps-2026"
 description: "Skip the hype. Here's what separates good AI chat apps from great ones in 2026, based on real user experience and technical capabilities."
 date: "2026-02-18"
 tags: ["ai chat", "comparison", "2026"]
-cover: "/og-home.png"
+cover: "./images/best-ai-chat-apps-2026-cover.jpg"
 related_npcs: [2, 3, 11035]
 keywords: ["best ai chat app", "ai character chat", "ai roleplay 2026"]
 ---

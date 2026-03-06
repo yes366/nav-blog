@@ -4,7 +4,7 @@ slug: "ai-chat-for-writers-authors-guide"
 description: "Discover how writers use AI character chat to overcome writer's block, develop characters, and improve their craft in 2026."
 date: "2026-02-26"
 tags: ["ai chat", "writers", "creative writing", "use case"]
-cover: "./images/ai-chat-for-writers-authors-guide.jpg"
+cover: "./images/ai-chat-for-writers-authors-guide-cover.jpg"
 category: "story"
 keywords: ["ai chat for writers", "ai writing tools", "ai character development"]
 related_npcs: []

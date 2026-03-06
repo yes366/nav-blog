@@ -4,7 +4,7 @@ slug: "best-ai-chat-apps-tabletop-gms"
 description: "Break down the best AI chat apps for tabletop GMs, with campaign prep tips, pricing notes, and why Naviya keeps adventures moving."
 date: "2026-02-27"
 tags: ["tabletop", "ai chat apps", "comparison"]
-cover: "./images/best-ai-chat-apps-tabletop-gms.jpg"
+cover: "./images/best-ai-chat-apps-tabletop-gms-cover.jpg"
 category: "comparison"
 keywords: ["AI chat for tabletop", "AI GM assistant", "tabletop prep tools"]
 related_npcs: []

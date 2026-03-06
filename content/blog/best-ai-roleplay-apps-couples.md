@@ -4,7 +4,7 @@ slug: "best-ai-roleplay-apps-couples"
 description: "See which AI roleplay apps help couples build shared worlds, from Naviya to collaborative storytelling suites with moodboards and safety tools."
 date: "2026-02-27"
 tags: ["ai roleplay", "couples", "comparison"]
-cover: "./images/best-ai-roleplay-apps-couples.jpg"
+cover: "./images/best-ai-roleplay-apps-couples-cover.jpg"
 category: "comparison"
 keywords: ["AI roleplay for couples", "shared worldbuilding", "relationship storytelling"]
 related_npcs: []

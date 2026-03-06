@@ -4,7 +4,7 @@ slug: "character-ai-alternative-2026"
 description: "Looking for a Character AI alternative? We compare the top AI chat apps in 2026 with better features, fewer filters, and more creative freedom."
 date: "2026-02-24"
 tags: ["character ai alternative", "ai chat apps", "ai roleplay"]
-cover: "./images/character-ai-alternative-2026.jpg"
+cover: "./images/character-ai-alternative-2026-cover.jpg"
 category: "comparison"
 keywords: ["character ai alternative", "best ai chat app", "ai roleplay chat"]
 related_npcs: []

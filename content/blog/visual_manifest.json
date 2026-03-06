@@ -2,7 +2,8 @@
   "meet-luna-ai-healer-character-spotlight": {
     "mode": "generated_editorial",
     "reference_image": "../assets/characters/luna.jpg",
-    "notes": "Use original Luna character art as the reference. No fresh synthetic face drift. No text, no letters, no watermark."
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage.",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Meet Luna: The AI Healer Who Actually Listens', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage."
   },
   "chat-with-sun-wukong": {
     "mode": "generated_editorial",
@@ -15,38 +16,205 @@
       "/create",
       "/chat"
     ],
-    "notes": "Use real product screenshots. No generated mock UI. No text, no letters, no watermark."
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage.",
+    "prompt": "A game master desk with maps, dice, notebooks, and a luminous character apparition emerging from the story world, cinematic fantasy-tech atmosphere. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage."
   },
   "best-ai-character-builder-apps-2026": {
     "mode": "generated_editorial",
     "screenshot_targets": [
       "/create"
     ],
-    "notes": "Prefer real builder UI or clean cropped screenshots. No text, no letters, no watermark."
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage.",
+    "prompt": "A creator shaping an AI character concept with floating mood fragments, character silhouettes, and polished worldbuilding details, premium editorial key art. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage."
   },
   "best-ai-roleplay-apps-image-generation": {
     "mode": "generated_editorial",
-    "notes": "No watermark, no text, no AI letters, no fake app chrome.",
-    "prompt": "Cinematic editorial illustration for a story-driven roleplay app article. Two collaborators curating portraits and scene boards on a desk, warm studio lighting, premium magazine art direction, elegant composition, rich detail, no interface chrome, no text, no watermark."
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage.",
+    "prompt": "A polished creator scene with beautifully rendered character art drafts, cinematic glow, and premium creative studio energy, focused on visual imagination not software UI. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage."
   },
   "ai-conversation-practice-apps-2026": {
     "mode": "generated_editorial",
-    "notes": "Editorial lifestyle image only. Avoid fake product UI and any AI text in-frame. No text, no letters, no watermark.",
-    "prompt": "Editorial lifestyle illustration for conversation practice apps. A young professional rehearsing speech with calm confidence in a bright cafe, subtle phone glow, realistic contemporary setting, premium magazine illustration, no interface, no text, no watermark."
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage.",
+    "prompt": "A confident young person practicing conversation with an AI companion in a modern cafe, subtle phone glow, calm focused expression, contemporary lifestyle editorial scene. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage."
   },
   "character-ai-alternative-2026": {
     "mode": "generated_editorial",
-    "notes": "Comparison article hero art only. No product logos, no app names, no fake screenshots. No text, no letters, no watermark.",
-    "prompt": "High-end editorial cover illustration for AI character chat alternatives. Multiple conversation worlds branching like portals around a central person choosing between creative story paths, cinematic lighting, elegant colors, premium tech-magazine feel, no text, no watermark, no fake app UI."
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage.",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Best Character AI Alternatives in 2026', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage."
   },
   "ai-dungeon-alternatives-storytelling-2026": {
     "mode": "generated_editorial",
-    "notes": "Storytelling atmosphere only. No letters, no mock dashboard. No text, no letters, no watermark.",
-    "prompt": "Editorial fantasy-tech illustration for storytelling app alternatives. A writer's desk transforming into branching adventure worlds with maps, candles, notebooks, and luminous scene fragments, cinematic and polished, no text, no watermark, no fake interface."
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage.",
+    "prompt": "A game master desk with maps, dice, notebooks, and a luminous character apparition emerging from the story world, cinematic fantasy-tech atmosphere. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage."
   },
   "best-ai-apps-creative-writing-2026": {
     "mode": "generated_editorial",
-    "notes": "Creative writing mood piece only. No UI, no words on the image. No text, no letters, no watermark.",
-    "prompt": "Premium editorial illustration for AI tools and creative writing. Author at a desk surrounded by floating story fragments, notebooks, and mood boards, warm lamp light, artistic but grounded, magazine-quality, no text, no watermark, no fake software interface."
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage.",
+    "prompt": "A writer at a desk with floating story fragments, notebooks, and moody light, editorial fantasy-tech aesthetic with anime fan appeal. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage."
+  },
+  "ai-adventure-companion-characters-spotlight": {
+    "mode": "generated_editorial",
+    "prompt": "A tender anime-inspired companion scene with warm lighting, intimate eye contact, and emotionally rich atmosphere, tasteful and premium, not explicit. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "ai-character-voice-chat-guide": {
+    "mode": "generated_editorial",
+    "prompt": "A stylish close-up of a character speaking into a glowing phone call interface, soft neon ambience, intimate conversational mood, polished anime-inspired realism. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "ai-chat-apps-language-learning-2026": {
+    "mode": "generated_editorial",
+    "prompt": "A confident young person practicing conversation with an AI companion in a modern cafe, subtle phone glow, calm focused expression, contemporary lifestyle editorial scene. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "ai-chat-for-writers-authors-guide": {
+    "mode": "generated_editorial",
+    "prompt": "A writer at a desk with floating story fragments, notebooks, and moody light, editorial fantasy-tech aesthetic with anime fan appeal. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "ai-chat-no-filter-guide": {
+    "mode": "generated_editorial",
+    "prompt": "A dramatic late-night chat atmosphere with moody light and mysterious emotional tension, clean editorial composition for an article about creative freedom. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "ai-dungeon-vs-naviya-comparison": {
+    "mode": "generated_editorial",
+    "prompt": "A game master desk with maps, dice, notebooks, and a luminous character apparition emerging from the story world, cinematic fantasy-tech atmosphere. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "ai-girlfriend-chat-apps-guide": {
+    "mode": "generated_editorial",
+    "prompt": "A tender anime-inspired companion scene with warm lighting, intimate eye contact, and emotionally rich atmosphere, tasteful and premium, not explicit. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "ai-roleplay-beginners-guide": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'AI Roleplay for Beginners: Everything You Need to Know', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "ai-roleplay-overcome-social-anxiety-story": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'How I Used AI Roleplay to Overcome Social Anxiety', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "ai-roleplay-tips-better-conversations": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'AI Roleplay Tips: How to Have Better AI Conversations', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "anime-visual-novel-ai-characters": {
+    "mode": "generated_editorial",
+    "prompt": "A vivid anime-inspired cast portrait with distinct personalities and elegant color harmony, high-end key visual styling for a feature article. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-ai-anime-character-chat-apps": {
+    "mode": "generated_editorial",
+    "prompt": "A vivid anime-inspired cast portrait with distinct personalities and elegant color harmony, high-end key visual styling for a feature article. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-ai-boyfriend-chat-apps-2026": {
+    "mode": "generated_editorial",
+    "prompt": "A tender anime-inspired companion scene with warm lighting, intimate eye contact, and emotionally rich atmosphere, tasteful and premium, not explicit. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-ai-chat-apps-2026": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Best AI Chat Apps in 2026: What Actually Matters', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-ai-chat-apps-no-waitlist": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Best AI Chat Apps Without Waitlists or Message Caps', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-ai-chat-prompts-roleplay": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Best AI Chat Prompts for Roleplay in 2026', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-ai-fantasy-roleplay-characters": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Best AI Fantasy Roleplay Characters to Chat With', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-ai-mystery-characters-detective-roleplay": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled '5 Best AI Mystery Characters for Detective Roleplay', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-ai-roleplay-apps-couples": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Best AI Roleplay Apps for Couples Building Shared Worlds', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-ai-roleplay-games-mobile-2026": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Best AI Roleplay Games for Mobile in 2026', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-ai-villain-characters-roleplay": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled '5 Best AI Villain Characters for Epic Roleplay', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "best-free-ai-chat-apps-no-sign-up": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Best Free AI Chat Apps No Sign Up Required', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "chai-ai-vs-naviya-comparison": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Chai AI vs Naviya: Which AI Chat App Wins?', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "character-ai-vs-replika-vs-naviya": {
+    "mode": "generated_editorial",
+    "prompt": "A stylish close-up of a character speaking into a glowing phone call interface, soft neon ambience, intimate conversational mood, polished anime-inspired realism. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "create-ai-character-complete-guide": {
+    "mode": "generated_editorial",
+    "prompt": "A creator shaping an AI character concept with floating mood fragments, character silhouettes, and polished worldbuilding details, premium editorial key art. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "crushon-ai-vs-naviya-comparison": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Crushon AI vs Naviya: Honest Comparison for 2026', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "girl-next-door-ai-character": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'The Girl Next Door: Your Guide to Neighbor Crush AI Characters', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "janitor-ai-vs-naviya-comparison": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Janitor AI vs Naviya: Which AI Chat Platform Wins?', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "talk-to-ai-characters-reasons": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Talk to AI: 7 Reasons People Chat With AI Characters', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "talkie-ai-vs-naviya-voice-chat-comparison": {
+    "mode": "generated_editorial",
+    "prompt": "A stylish close-up of a character speaking into a glowing phone call interface, soft neon ambience, intimate conversational mood, polished anime-inspired realism. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "top-ai-roleplay-apps-storytelling": {
+    "mode": "generated_editorial",
+    "prompt": "A game master desk with maps, dice, notebooks, and a luminous character apparition emerging from the story world, cinematic fantasy-tech atmosphere. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "virtual-ai-companion-apps-guide": {
+    "mode": "generated_editorial",
+    "prompt": "A tender anime-inspired companion scene with warm lighting, intimate eye contact, and emotionally rich atmosphere, tasteful and premium, not explicit. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
+  },
+  "why-people-talk-to-ai-characters": {
+    "mode": "generated_editorial",
+    "prompt": "A high-quality editorial anime-inspired hero image for the article titled 'Why Millions of People Talk to AI Characters (And Why It's Not Weird)', with one clear focal subject, cinematic atmosphere, and premium visual storytelling. Create a premium 21:9 editorial hero image for a blog cover. Appeal to anime and AI roleplay users while staying polished and high-quality. Use cinematic composition, clean focal subject, rich atmosphere, and tasteful lighting. No text, no letters, no logos, no watermark, no UI chrome, no panels, no collage.",
+    "notes": "21:9 cover image only. No text, no letters, no logos, no watermark, no website UI, no collage."
   }
 }

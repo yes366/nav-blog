@@ -4,7 +4,7 @@ slug: "ai-dungeon-vs-naviya-comparison"
 description: "AI Dungeon vs Naviya — a detailed comparison of features, storytelling quality, pricing, and user experience to help you choose the right AI chat app."
 date: "2026-02-24"
 tags: ["ai dungeon alternative", "ai chat comparison", "interactive fiction"]
-cover: "./images/ai-dungeon-vs-naviya-comparison.jpg"
+cover: "./images/ai-dungeon-vs-naviya-comparison-cover.jpg"
 category: "comparison"
 keywords: ["ai dungeon alternative", "ai dungeon vs naviya", "interactive fiction ai"]
 related_npcs: []

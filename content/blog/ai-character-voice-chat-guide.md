@@ -4,7 +4,7 @@ slug: "ai-character-voice-chat-guide"
 description: "Explore AI character voice chat apps in 2026. Learn how voice chat transforms AI roleplay and which platforms do it best."
 date: "2026-02-26"
 tags: ["ai voice chat", "ai character", "voice", "guide"]
-cover: "./images/ai-character-voice-chat-guide.jpg"
+cover: "./images/ai-character-voice-chat-guide-cover.jpg"
 category: "guide"
 keywords: ["ai character voice chat", "ai voice chat app", "talk to ai character voice"]
 related_npcs: []

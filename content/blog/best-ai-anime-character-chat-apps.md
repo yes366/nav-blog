@@ -4,7 +4,7 @@ slug: "best-ai-anime-character-chat-apps"
 description: "Find the best AI anime character chat apps in 2026. Chat with your favorite anime archetypes, create original characters, and dive into anime-style stories."
 date: "2026-02-24"
 tags: ["ai anime chat", "anime character ai", "ai roleplay"]
-cover: "./images/best-ai-anime-character-chat-apps.jpg"
+cover: "./images/best-ai-anime-character-chat-apps-cover.jpg"
 category: "comparison"
 keywords: ["ai anime character chat", "anime ai chat app", "ai anime roleplay"]
 related_npcs: []

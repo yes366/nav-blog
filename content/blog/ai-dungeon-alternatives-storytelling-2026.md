@@ -4,7 +4,7 @@ slug: "ai-dungeon-alternatives-storytelling-2026"
 description: "Explore the best AI Dungeon alternatives for narrative builders in 2026, from Naviya to new interactive fiction labs."
 date: "2026-02-27"
 tags: ["ai dungeon alternative", "storytelling", "comparison"]
-cover: "./images/ai-dungeon-alternatives-storytelling-2026.jpg"
+cover: "./images/ai-dungeon-alternatives-storytelling-2026-cover.jpg"
 category: "comparison"
 keywords: ["AI Dungeon alternative", "interactive fiction ai", "storytelling ai apps"]
 related_npcs: []

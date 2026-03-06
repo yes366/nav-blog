@@ -4,7 +4,7 @@ slug: "janitor-ai-vs-naviya-comparison"
 description: "Janitor AI vs Naviya — detailed comparison of features, characters, customization, and user experience. Find the right AI chat platform for you."
 date: "2026-02-25"
 tags: ["comparison", "janitor ai", "naviya", "ai roleplay"]
-cover: "./images/janitor-ai-vs-naviya-comparison.jpg"
+cover: "./images/janitor-ai-vs-naviya-comparison-cover.jpg"
 category: "comparison"
 keywords: ["janitor ai vs naviya", "janitor ai alternative", "ai roleplay platform comparison"]
 related_npcs: []

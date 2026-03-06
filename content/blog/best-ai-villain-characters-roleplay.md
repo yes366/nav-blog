@@ -4,7 +4,7 @@ slug: "best-ai-villain-characters-roleplay"
 description: "Meet the best AI villain characters for roleplay. From cunning masterminds to tragic antagonists, these characters make every conversation an adventure."
 date: "2026-02-25"
 tags: ["character spotlight", "villains", "roleplay", "ai characters"]
-cover: "./images/best-ai-villain-characters-roleplay.jpg"
+cover: "./images/best-ai-villain-characters-roleplay-cover.jpg"
 category: "spotlight"
 keywords: ["ai villain characters", "ai roleplay villains", "best ai characters roleplay"]
 related_npcs: []

@@ -4,7 +4,7 @@ slug: "why-people-talk-to-ai-characters"
 description: "Exploring the psychology behind AI character chat — why millions are choosing AI conversations, what they get from it, and where this trend is heading."
 date: "2026-02-19"
 tags: ["culture", "psychology", "ai companionship", "trend"]
-cover: "./images/why-people-talk-to-ai-characters.jpg"
+cover: "./images/why-people-talk-to-ai-characters-cover.jpg"
 category: "culture"
 keywords: ["why talk to ai characters", "ai companionship", "ai chat psychology"]
 related_npcs: []
