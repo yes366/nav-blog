@@ -4,7 +4,7 @@ slug: "best-ai-roleplay-apps-image-generation"
 description: "Review the top AI roleplay apps with built-in image generation, comparing Naviya, NovelCanvas, and more for storytellers who need visuals."
 date: "2026-02-27"
 tags: ["ai roleplay", "image generation", "comparison"]
-cover: "./images/best-ai-roleplay-apps-image-generation.jpg"
+cover: "./images/best-ai-roleplay-apps-image-generation-cover.jpg"
 category: "comparison"
 keywords: ["AI roleplay image generation", "AI storytelling app", "AI chat art"]
 related_npcs: []
@@ -15,7 +15,6 @@ author: "Naviya Team"
 
 AI storytellers want more than chat bubbles; we now expect the same tool to describe a scene and conjure the art that sells the vibe. If you want the best AI roleplay image generation combo in 2026, you need apps that let players co-create portraits, locations, and props without leaving the conversation. I spent the month stress-testing platforms that promise seamless text-and-visual workflows, comparing how they render characters, manage safety, and integrate with campaign logs.
 
-![Hero collage of AI roleplay chats with generated portraits](./images/best-ai-roleplay-apps-image-generation.jpg)
 
 ## Why Pair Roleplay and Image Generation?
 
