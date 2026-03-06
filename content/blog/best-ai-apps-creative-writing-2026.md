@@ -35,7 +35,6 @@ Let's be clear about what AI does well and what it doesn't:
 
 The best approach? Use AI as a thinking partner, not a ghostwriter. With that mindset, these tools become incredibly powerful.
 
-![Writer's workflow diagram showing where AI tools fit in the creative process](./images/best-ai-apps-creative-writing-2026.jpg)
 
 ## The Best AI Apps for Creative Writers
 
@@ -160,4 +159,3 @@ Start with Naviya for character development (it's intuitive and free to start) a
 
 ### Can AI help with writer's block?
 Absolutely. This is one of AI's strongest use cases. Talking through your stuck point with an AI — or chatting with your character on [Naviya](https://www.naviya.chat) — often breaks the logjam by giving you a new perspective or unexpected idea.
-

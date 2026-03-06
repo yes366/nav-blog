@@ -25,7 +25,6 @@ Before the rankings, let's establish what separates a good storytelling AI from 
 - **World-building support**: The AI contributes to setting details, not just dialogue
 - **Pacing**: Good AI knows when to build tension and when to deliver payoff
 
-![Fantasy RPG scene with diverse AI characters in an enchanted forest](./images/top-ai-roleplay-apps-storytelling.jpg)
 
 ## The Top 10 AI Roleplay Apps
 

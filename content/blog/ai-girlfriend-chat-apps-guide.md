@@ -21,7 +21,6 @@ Let's start with clarity. AI companion apps use large language models to simulat
 
 What they don't do is replace human relationships. They're a form of interactive entertainment and emotional support — think of them as the evolution of journaling meets interactive fiction meets a really good conversation partner.
 
-![Warm illustration of person having a meaningful chat with AI companion](./images/ai-girlfriend-chat-apps-guide.jpg)
 
 ## Top AI Companion Platforms
 

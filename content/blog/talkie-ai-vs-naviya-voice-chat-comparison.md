@@ -19,7 +19,6 @@ I tested both platforms specifically for their voice capabilities, alongside the
 
 Talkie AI built its entire identity around voice interaction. The platform launched with voice as the primary mode of communication, and it shows. The voice synthesis is smooth, characters have distinct vocal personalities, and the latency is low enough that conversations feel natural.
 
-![Talkie AI voice chat interface showing active conversation with waveform](./images/talkie-ai-vs-naviya-voice-chat-comparison.jpg)
 
 The trade-off? The text experience feels secondary. Character responses in text mode are shorter and less detailed compared to voice-first platforms. The character library is also smaller — Talkie AI prioritizes quality voice characters over sheer quantity.
 
@@ -117,4 +116,3 @@ Talkie AI generally has slightly lower voice latency due to its voice-first arch
 
 ### Are the voices customizable?
 On Naviya, character creators can influence voice characteristics. Talkie AI assigns voices to characters with less user control over voice parameters.
-

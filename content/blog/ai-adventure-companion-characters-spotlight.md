@@ -27,7 +27,6 @@ Naviya's community has created some genuinely compelling adventure companions. H
 
 The beauty of this character is the arc. Over the course of your adventure, their reluctance softens into genuine investment. When they finally admit they're glad they came, it means something.
 
-![Reluctant guide character leading the way through a dangerous mountain pass](./images/ai-adventure-companion-characters-spotlight.jpg)
 
 ## The Enthusiastic Scholar
 

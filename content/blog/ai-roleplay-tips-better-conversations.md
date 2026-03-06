@@ -19,7 +19,6 @@ Here's the thing: **AI roleplay is a skill.** The people having incredible, stor
 
 These are the techniques that separate a mediocre AI chat from one that genuinely surprises you.
 
-![Dramatic fantasy roleplay scene with AI character](./images/ai-roleplay-tips-better-conversations.jpg)
 
 ## The Fundamental Principle: Give More, Get More
 

@@ -25,7 +25,6 @@ Naviya's first impression is more deliberate. The character library is organized
 
 The immediate difference you'll notice is that Naviya offers voice chat and AI-generated images — features Chai doesn't have. This signals a platform designed for longer, more immersive sessions.
 
-![Side-by-side first screen comparison of Chai AI and Naviya](./images/chai-ai-vs-naviya-comparison.jpg)
 
 ## Conversation Quality
 

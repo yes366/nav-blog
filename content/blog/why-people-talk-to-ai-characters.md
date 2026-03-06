@@ -19,7 +19,6 @@ If your first instinct is "that's weird," you're not alone. It's also the same r
 
 Let's actually look at what's happening here — without the judgment.
 
-![Abstract illustration of human connection with AI](./images/why-people-talk-to-ai-characters.jpg)
 
 ## The Numbers Are Staggering
 
@@ -151,4 +150,3 @@ AI character chat is just the next iteration of something we've always done — 
 The technology is new. The human need behind it is ancient.
 
 **Curious to see what all the fuss is about? [Try Naviya — your first conversation is free.](https://www.naviya.chat)**
-

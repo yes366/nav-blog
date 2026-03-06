@@ -21,7 +21,6 @@ Anime characters are defined by strong, consistent personality traits. A tsunder
 
 The visual aesthetic also matters. Platforms that pair anime-style art with AI conversation create a more cohesive experience than those using generic avatars or no visuals at all.
 
-![Diverse anime character archetypes in a vibrant group illustration](./images/best-ai-anime-character-chat-apps.jpg)
 
 ## Top Platforms for Anime AI Chat
 

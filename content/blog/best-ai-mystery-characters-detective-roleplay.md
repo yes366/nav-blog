@@ -29,7 +29,6 @@ The best mystery AI characters don't just answer your questions — they deflect
 
 The beauty of this archetype is that the AI maintains the character's secret consistently, so when you finally piece together the truth, it feels earned.
 
-![Noir-style interrogation scene with detective questioning a nervous witness](./images/best-ai-mystery-characters-detective-roleplay.jpg)
 
 ## 2. The Charming Suspect
 

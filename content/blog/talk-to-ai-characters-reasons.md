@@ -27,7 +27,6 @@ This is why writers, game designers, and tabletop RPG enthusiasts have become so
 
 A novelist working on a fantasy series might spend an evening chatting with a character modeled after their protagonist, testing how that character would respond to plot twists. A D&D dungeon master might roleplay scenarios with an AI to prepare for their next session. The creative applications are genuinely practical.
 
-![A writer using AI character chat to develop story ideas, shown as a split screen between the chat and a manuscript](./images/talk-to-ai-characters-reasons.jpg)
 
 ## 2. Practicing Social Situations
 

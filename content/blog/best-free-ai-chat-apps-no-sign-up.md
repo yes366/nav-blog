@@ -21,7 +21,6 @@ Let's be upfront: truly zero-friction AI chat is rare. Most platforms want at le
 
 We're ranking based on how quickly you go from "I want to chat" to actually chatting.
 
-![Person opening an AI chat app on their phone with instant access](./images/best-free-ai-chat-apps-no-sign-up.jpg)
 
 ## Best Free AI Chat Apps for Quick Access
 

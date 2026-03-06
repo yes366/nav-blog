@@ -27,7 +27,6 @@ Here are the fantasy character archetypes that create the most compelling AI int
 
 **Conversation tip:** Don't try to "fix" morally complex characters. Engage with their worldview on its own terms. The most interesting conversations happen when you explore their logic rather than impose yours.
 
-![Dark elf character in a moonlit fantasy city scene](./images/best-ai-fantasy-roleplay-characters.jpg)
 
 ## The Wandering Sorcerer
 

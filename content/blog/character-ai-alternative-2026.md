@@ -25,7 +25,6 @@ Before diving into alternatives, it helps to understand what drives users away f
 
 **Limited customization** means you're mostly working within the platform's constraints. Creating characters is straightforward, but fine-tuning their behavior requires workarounds.
 
-![Comparison chart of AI chat platforms showing features and ratings](./images/character-ai-alternative-2026.jpg)
 
 ## Top Character AI Alternatives Ranked
 

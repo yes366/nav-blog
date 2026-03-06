@@ -21,7 +21,6 @@ AI chat platforms implement content filters for legitimate reasons: legal compli
 
 The frustration most users feel isn't about wanting harmful content — it's about filters that can't distinguish between a fantasy battle scene and actual violence, or between a romantic subplot and inappropriate content. Context matters, and many filters are still bad at reading context.
 
-![Illustration of a creative writer frustrated by overly strict AI content filters](./images/ai-chat-no-filter-guide.jpg)
 
 ## The Content Filter Spectrum
 

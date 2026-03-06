@@ -23,7 +23,6 @@ This comparison breaks down exactly where each platform excels and where it fall
 
 Neither approach is objectively better — it depends on what you're looking for.
 
-![Split comparison showing AI Dungeon adventure mode vs Naviya character chat](./images/ai-dungeon-vs-naviya-comparison.jpg)
 
 ## Storytelling Quality
 

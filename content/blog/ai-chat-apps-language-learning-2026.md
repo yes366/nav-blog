@@ -26,7 +26,6 @@ AI chat solves this by providing:
 - **Immediate availability** — practice at 3 AM if you want
 - **Topic flexibility** — discuss anything from weather to philosophy
 
-![Infographic showing benefits of AI conversation practice for language learning](./images/ai-chat-apps-language-learning-2026.jpg)
 
 The limitation is obvious: AI isn't a native speaker. It can make grammatical errors, miss cultural nuances, and sometimes produce unnatural phrasing. But for building conversational confidence and practicing output, it's remarkably effective.
 

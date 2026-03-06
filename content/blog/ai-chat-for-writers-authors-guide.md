@@ -36,7 +36,6 @@ The AI responds in character, and something interesting happens: it generates an
 
 One fantasy author described it as "interviewing my characters between drafts." The conversations don't go directly into the book, but they inform the writing in ways that feel organic.
 
-![A writer's workspace showing a manuscript on one side and an AI character conversation on the other](./images/ai-chat-for-writers-authors-guide.jpg)
 
 ## Character Voice Testing
 

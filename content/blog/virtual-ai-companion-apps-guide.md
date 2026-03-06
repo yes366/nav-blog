@@ -31,7 +31,6 @@ Before comparing specific platforms, let's establish what separates a good virtu
 
 **Availability and speed.** Response time matters. A companion that takes 10 seconds to reply breaks the conversational flow.
 
-![Comparison chart of key features across AI companion app categories](./images/virtual-ai-companion-apps-guide.jpg)
 
 ## The Major Players in 2026
 

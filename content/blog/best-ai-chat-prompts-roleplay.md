@@ -23,7 +23,6 @@ AI characters respond to context. The more vivid, specific, and intentional your
 
 Think of it like improv theater. The AI is your scene partner. The better your "offers" (improv term for contributions to a scene), the better the scene becomes.
 
-![Side-by-side comparison of a vague prompt vs a detailed prompt and their AI responses](./images/best-ai-chat-prompts-roleplay.jpg)
 
 ## The Anatomy of a Great Roleplay Prompt
 

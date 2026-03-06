@@ -19,7 +19,6 @@ I've spent weeks testing both platforms extensively — creating characters, run
 
 Crushon AI launched as a romance-focused AI chat platform. It carved out a niche by offering more permissive content policies compared to mainstream platforms like Character.AI. The platform has grown since then, expanding beyond pure romance into broader character interactions.
 
-![Crushon AI homepage showing character categories and featured characters](./images/crushon-ai-vs-naviya-comparison.jpg)
 
 The core appeal is straightforward: if you want AI characters that can engage in deeper romantic storylines without hitting constant content filters, Crushon AI positions itself as that option.
 
@@ -115,4 +114,3 @@ In my testing, Naviya maintained better character consistency across long conver
 
 ### Are these apps available on mobile?
 Both are available on iOS and Android. Naviya also has a full web experience at [naviya.chat](https://www.naviya.chat).
-

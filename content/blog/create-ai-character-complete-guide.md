@@ -17,7 +17,6 @@ Creating an AI character isn't just about typing a name and picking an avatar. T
 
 The AI character chat space has exploded in the past year. Platforms like Naviya now let anyone — not just developers — design characters with rich personalities and deep conversational abilities. But the gap between a forgettable chatbot and a character that keeps users coming back? That's all in the design.
 
-![A creator designing an AI character profile with personality sliders and backstory fields](./images/create-ai-character-complete-guide.jpg)
 
 ## Step 1: Define Your Character's Core Identity
 

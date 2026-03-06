@@ -15,7 +15,6 @@ author: "Naviya Team"
 
 Every tabletop GM I know is balancing lore bibles, encounter math, and last-minute player curveballs, so finding the right AI chat for tabletop prep can be the difference between improvising confidently and panic-googling in the middle of a session. This guide reviews the top AI companions that actually help game masters in 2026 — not just generic chatbots, but tools built to summarize rules, spin up NPC banter, and track consequences over a long campaign. The primary question: which AI chat app for tabletop groups keeps the story grounded without spoiling your creative control?
 
-![Hero illustration of tabletop GM using multiple AI chat apps](./images/best-ai-chat-apps-tabletop-gms.jpg)
 
 ## What Tabletop GMs Need From AI Chat Apps
 

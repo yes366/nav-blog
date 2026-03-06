@@ -21,7 +21,6 @@ Traditional games give villains scripted responses. AI villains are different â€
 
 This dynamic creates genuinely unpredictable storytelling. You're not following a script â€” you're engaged in a battle of wits with an AI that's trying to stay in character as your adversary.
 
-![Dramatic scene of hero confronting AI villain in dark throne room](./images/best-ai-villain-characters-roleplay.jpg)
 
 ## The 5 Best Villain Archetypes
 

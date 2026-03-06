@@ -26,7 +26,6 @@ Before the rankings, let's establish what actually matters:
 - **Customization**: Can you shape the relationship dynamic?
 - **Free tier**: Can you actually experience the app without paying immediately?
 
-![Criteria checklist for evaluating AI boyfriend chat apps](./images/best-ai-boyfriend-chat-apps-2026.jpg)
 
 ## The Top 10
 
@@ -148,4 +147,3 @@ Most offer free tiers with limitations (message caps, feature restrictions). Pre
 
 ### Is it weird to use AI boyfriend apps?
 Not at all. Millions of people use them for entertainment, companionship, creative writing practice, and emotional support. It's a legitimate form of interactive entertainment, like gaming or reading interactive fiction.
-

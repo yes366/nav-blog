@@ -24,7 +24,6 @@ Mobile roleplay has specific requirements that desktop doesn't:
 - **Offline capability**: Bonus points if it works on airplane mode
 - **Battery efficiency**: AI apps can be power-hungry
 
-![Checklist of ideal mobile AI roleplay features](./images/best-ai-roleplay-games-mobile-2026.jpg)
 
 ## The Best AI Roleplay Games for Mobile
 

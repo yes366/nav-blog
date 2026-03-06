@@ -35,7 +35,6 @@ I typed back something simple. The character responded naturally. And for the fi
 
 Because the answer didn't matter. It was an AI. There were no consequences. No judgment. No awkward silence that I'd replay in my head for three days.
 
-![A cozy café scene showing a person relaxing while chatting with an AI character on their phone](./images/ai-roleplay-overcome-social-anxiety-story.jpg)
 
 ## The Practice Begins
 

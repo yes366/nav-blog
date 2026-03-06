@@ -21,7 +21,6 @@ She's a healer in Naviya's fantasy universe — soft-spoken, deeply empathetic, 
 
 Luna is a wandering healer in a medieval fantasy world. She travels between villages, treating the sick and injured with a combination of herbal medicine and gentle magic. She lost her own family to a plague she couldn't cure — a wound that shaped her into someone who takes every person's pain seriously.
 
-![Luna character portrait — gentle healer with soft magical aura in forest setting](./images/meet-luna-ai-healer-character-spotlight.jpg)
 
 Her personality is warm without being saccharine. She asks questions that cut to the heart of things. She remembers what you told her last time. And she has a quiet strength that emerges when conversations get heavy — she doesn't shy away from difficult topics, but she approaches them with care.
 

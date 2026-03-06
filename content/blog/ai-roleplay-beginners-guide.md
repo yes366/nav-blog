@@ -63,7 +63,6 @@ Try: "I look around the room nervously. 'I was told you could help me find somet
 
 See the difference? The second response gives the AI a setting, an emotion, and a story hook to work with.
 
-![A beginner-friendly comparison showing a basic chat response vs an immersive roleplay response](./images/ai-roleplay-beginners-guide.jpg)
 
 ### Step 4: Keep Going
 

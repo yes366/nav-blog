@@ -31,7 +31,6 @@ The technology behind AI character voice chat involves three layers working toge
 
 The total round-trip — from you finishing a sentence to hearing the AI respond — is typically 1-3 seconds on good platforms. That's fast enough for natural conversation, though not quite as instant as talking to another person.
 
-![Diagram showing the three-layer voice chat pipeline: Speech-to-Text, AI Processing, Text-to-Speech](./images/ai-character-voice-chat-guide.jpg)
 
 ## Why Voice Changes Everything
 
@@ -138,4 +137,3 @@ If you've only experienced AI characters through text, voice chat is worth tryin
 Start with a character you already enjoy in text. Switch to voice and have the same kind of conversation. Notice what feels different. For many users, that first voice conversation is the moment AI characters stop feeling like a chat interface and start feeling like... someone.
 
 [Try voice chat on Naviya](https://www.naviya.chat) — pick a character, tap the voice icon, and start talking.
-

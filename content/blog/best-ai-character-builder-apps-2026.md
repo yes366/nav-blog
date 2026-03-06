@@ -15,7 +15,6 @@ author: "Naviya Team"
 
 The AI character builder landscape exploded this year, and creators now juggle half a dozen dashboards to craft believable personalities. If you are hunting for the most capable AI character builder in 2026, this guide breaks down how each tool handles lore, safety, art, and performance so you can stop tab-hopping and start storytelling. I tested prompt editors, image pipelines, and multi-turn memory systems across the leading apps to highlight which workflows suit writers, GMs, educators, and studio teams.
 
-![Hero banner showing multiple AI character builder dashboards](./images/best-ai-character-builder-apps-2026.jpg)
 
 ## How I Evaluated Each AI Character Builder
 

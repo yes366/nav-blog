@@ -27,7 +27,6 @@ The trade-off is polish. Janitor AI's interface is functional but not beautiful.
 
 Naviya takes a more curated approach. The platform offers 10,000+ characters with consistent quality standards, a polished interface, and features like voice chat and AI-generated images that go beyond pure text conversation. Character creation tools are powerful but more guided than Janitor AI's open-ended approach.
 
-![Both platforms' homepages side by side showing different design approaches](./images/janitor-ai-vs-naviya-comparison.jpg)
 
 ## Deep Dive Comparison
 
@@ -115,4 +114,3 @@ The learning curve is steeper, especially for character creation. The interface 
 
 ### Do both apps work on mobile?
 Naviya has dedicated iOS and Android apps plus a web experience. Janitor AI is primarily web-based with a mobile-responsive site. [Download Naviya](https://www.naviya.chat) for the best mobile experience.
-
