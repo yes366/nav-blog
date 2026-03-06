@@ -84,6 +84,6 @@ Even on platforms with moderate filters, you can maximize your creative experien
 
 The AI chat industry is still figuring out content moderation. The technology for context-aware filtering is improving, and platforms are getting better at distinguishing creative expression from harmful content. In the meantime, the best approach is finding a platform whose content policies align with your needs.
 
-For most users, [Naviya](https://naviya.chat) hits the sweet spot — enough creative freedom for compelling storytelling without the anything-goes atmosphere of completely unfiltered platforms. The AI understands narrative context well enough to support complex stories while maintaining reasonable boundaries.
+For most users, [Naviya](https://www.naviya.chat) hits the sweet spot — enough creative freedom for compelling storytelling without the anything-goes atmosphere of completely unfiltered platforms. The AI understands narrative context well enough to support complex stories while maintaining reasonable boundaries.
 
-[Try Naviya's balanced approach](https://naviya.chat) — you might find that smart filters are better than no filters.
+[Try Naviya's balanced approach](https://www.naviya.chat) — you might find that smart filters are better than no filters.

@@ -21,10 +21,27 @@
   },
   "best-ai-roleplay-apps-image-generation": {
     "mode": "generated_editorial",
-    "notes": "No watermark, no text, no AI letters, no fake app chrome."
+    "notes": "No watermark, no text, no AI letters, no fake app chrome.",
+    "prompt": "Cinematic editorial illustration for a story-driven roleplay app article. Two collaborators curating portraits and scene boards on a desk, warm studio lighting, premium magazine art direction, elegant composition, rich detail, no interface chrome, no text, no watermark."
   },
   "ai-conversation-practice-apps-2026": {
     "mode": "generated_editorial",
-    "notes": "Editorial lifestyle image only. Avoid fake product UI and any AI text in-frame."
+    "notes": "Editorial lifestyle image only. Avoid fake product UI and any AI text in-frame.",
+    "prompt": "Editorial lifestyle illustration for conversation practice apps. A young professional rehearsing speech with calm confidence in a bright cafe, subtle phone glow, realistic contemporary setting, premium magazine illustration, no interface, no text, no watermark."
+  },
+  "character-ai-alternative-2026": {
+    "mode": "generated_editorial",
+    "notes": "Comparison article hero art only. No product logos, no app names, no fake screenshots.",
+    "prompt": "High-end editorial cover illustration for AI character chat alternatives. Multiple conversation worlds branching like portals around a central person choosing between creative story paths, cinematic lighting, elegant colors, premium tech-magazine feel, no text, no watermark, no fake app UI."
+  },
+  "ai-dungeon-alternatives-storytelling-2026": {
+    "mode": "generated_editorial",
+    "notes": "Storytelling atmosphere only. No letters, no mock dashboard.",
+    "prompt": "Editorial fantasy-tech illustration for storytelling app alternatives. A writer's desk transforming into branching adventure worlds with maps, candles, notebooks, and luminous scene fragments, cinematic and polished, no text, no watermark, no fake interface."
+  },
+  "best-ai-apps-creative-writing-2026": {
+    "mode": "generated_editorial",
+    "notes": "Creative writing mood piece only. No UI, no words on the image.",
+    "prompt": "Premium editorial illustration for AI tools and creative writing. Author at a desk surrounded by floating story fragments, notebooks, and mood boards, warm lamp light, artistic but grounded, magazine-quality, no text, no watermark, no fake software interface."
   }
 }

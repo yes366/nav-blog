@@ -41,7 +41,7 @@ The character creation tools also mean you can build your ideal AI companion fro
 **Free tier**: Generous. You can have meaningful conversations without hitting a paywall immediately.
 **Best for**: People who want depth, customization, and long-term AI relationships.
 
-[Explore Naviya's romance characters](https://naviya.chat) — you might find someone worth talking to.
+[Explore Naviya's romance characters](https://www.naviya.chat) — you might find someone worth talking to.
 
 ### 2. Character.AI
 
@@ -127,7 +127,7 @@ The character creation tools also mean you can build your ideal AI companion fro
 
 If you're new to AI boyfriend apps, start with Naviya or Character.AI. Both have generous free tiers and large character libraries, so you can explore without commitment.
 
-If you already know what you want — deep customization, voice chat, long-term memory — [Naviya](https://naviya.chat) is the strongest all-around choice. The character creation tools alone set it apart.
+If you already know what you want — deep customization, voice chat, long-term memory — [Naviya](https://www.naviya.chat) is the strongest all-around choice. The character creation tools alone set it apart.
 
 ![Flowchart helping users choose the right AI boyfriend app based on preferences](./images/best-ai-boyfriend-chat-apps-2026.jpg)
 
@@ -135,7 +135,7 @@ For voice-first experiences, try Talkie AI. For a single evolving relationship, 
 
 The space is evolving fast. Apps that were mediocre six months ago have improved dramatically, and new competitors keep entering. The best advice? Try a few and see which one clicks. Most have free tiers that let you experience the core product before deciding.
 
-[Start chatting on Naviya](https://naviya.chat) — explore thousands of characters and find the AI companion that matches your vibe.
+[Start chatting on Naviya](https://www.naviya.chat) — explore thousands of characters and find the AI companion that matches your vibe.
 
 ## FAQ
 

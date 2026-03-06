@@ -62,7 +62,7 @@ Character.AI is like a buffet — incredible selection, but individual dish qual
 
 **Best for:** People who want to create their own characters or have deeper conversations
 
-[Naviya](https://naviya.chat) takes a different approach. Instead of just being a library of characters, it's built around the idea that the best AI character is the one *you* design. The character creator is detailed — you set personality traits, backstory, speaking style, and even how they react to specific scenarios.
+[Naviya](https://www.naviya.chat) takes a different approach. Instead of just being a library of characters, it's built around the idea that the best AI character is the one *you* design. The character creator is detailed — you set personality traits, backstory, speaking style, and even how they react to specific scenarios.
 
 **Pros:**
 - Powerful character creation tools
@@ -80,7 +80,7 @@ Character.AI is like a buffet — incredible selection, but individual dish qual
 
 What sets Naviya apart is the conversation quality. The AI doesn't just respond — it adapts to your style. If you're into roleplay, it matches your energy. If you want casual chat, it feels natural. And the character creation tools mean you're not limited to what others have made.
 
-**[Try creating your own character on Naviya →](https://naviya.chat)**
+**[Try creating your own character on Naviya →](https://www.naviya.chat)**
 
 ## 3. Chai AI — The Quick Chat
 
@@ -167,7 +167,7 @@ If you've ever wished you could literally *talk* to an AI character, Talkie deli
 Here's my honest take:
 
 - **Just want to browse and chat casually?** Start with **Character.AI**. The library is unmatched and the free tier is solid.
-- **Want to create characters or have deep roleplay sessions?** Go with **[Naviya](https://naviya.chat)**. The character creation tools and conversation quality are genuinely impressive.
+- **Want to create characters or have deep roleplay sessions?** Go with **[Naviya](https://www.naviya.chat)**. The character creation tools and conversation quality are genuinely impressive.
 - **Short attention span, mobile-only?** **Chai** is built for quick hits.
 - **Technical user who wants full control?** **Janitor AI** with your own API key is the most flexible.
 - **Prefer voice over text?** **Talkie** is the clear choice.
@@ -196,6 +196,6 @@ If you've never tried AI character chat before, here's what I'd recommend:
 
 The best AI character chat app is the one that makes you forget you're talking to an AI. In 2026, several of them can do that.
 
-**Ready to try it yourself? [Start chatting on Naviya — free, no sign-up required.](https://naviya.chat)**
+**Ready to try it yourself? [Start chatting on Naviya — free, no sign-up required.](https://www.naviya.chat)**
 
 ![Person enjoying AI chat on their phone in a cozy setting](./images/best-ai-character-chat-apps-2026.jpg)

@@ -40,11 +40,11 @@ I focused on five pillars:
 
 Naviya recently moved its portrait tool directly into the chat composer. While you roleplay, a side panel lets you tweak outfits, mood lighting, or camera angle. Portraits update in seconds and sit beside the latest reply, so you always know which version is canonical. You can also queue "Scene Cards" — scenic illustrations triggered by keywords like "storm" or "ballroom." Each Scene Card includes alt text for accessibility, a nice touch for inclusive tables.
 
-- **How to use it**: Build your cast via the [Naviya character creator](https://naviya.chat/create). Each character stores multiple portrait slots, and you can regenerate on desktop or mobile.
-- **Sharing**: Publish curated galleries through the [Naviya characters page](https://naviya.chat/characters) and invite collaborators to remix art within bounds you set.
-- **Advanced tools**: The [feature list](https://naviya.chat/features) now highlights "Image Memory," which tags each portrait with the lore era and prevents outdated outfits from reappearing automatically.
+- **How to use it**: Build your cast via the [Naviya character creator](https://www.naviya.chat/create). Each character stores multiple portrait slots, and you can regenerate on desktop or mobile.
+- **Sharing**: Publish curated galleries through the [Naviya characters page](https://www.naviya.chat/create) and invite collaborators to remix art within bounds you set.
+- **Advanced tools**: The [feature list](https://www.naviya.chat/) now highlights "Image Memory," which tags each portrait with the lore era and prevents outdated outfits from reappearing automatically.
 
-**Need to walk through the workflow yourself? [Download Naviya](https://naviya.chat/download)** and open the built-in tutorial quest; it walks you through rerolling portraits mid-dialogue.
+**Need to walk through the workflow yourself? [Download Naviya](https://www.naviya.chat/)** and open the built-in tutorial quest; it walks you through rerolling portraits mid-dialogue.
 
 ## NovelCanvas Studio
 
@@ -73,11 +73,11 @@ The downside: Dreamwheel charges per active project, so solo writers might prefe
 1. **Storyboard first**: Outline key beats, then pre-generate anchor images so your visual language stays consistent.
 2. **Label outputs**: Rename portraits ("Act2_Stealth") so you know when to swap them back in.
 3. **Avoid style drift**: Save prompt macros for lighting, moods, and clothing so updates stay on-brand.
-4. **Use accessibility copy**: Add descriptive alt text to each image, especially when sharing to the [Naviya characters gallery](https://naviya.chat/characters).
+4. **Use accessibility copy**: Add descriptive alt text to each image, especially when sharing to the [Naviya characters gallery](https://www.naviya.chat/create).
 
 ## Bringing Couples and Co-Writers Into the Process
 
-Shared visuals make collaboration smoother. Invite your co-writer or partner to bookmark your roster on the characters page, then give them "suggest" access in Naviya so they can queue portrait tweaks without overriding your final say. While you test scenes, screen-share the [features dashboard](https://naviya.chat/features) to highlight usage analytics, like which character receives the most portrait revisions.
+Shared visuals make collaboration smoother. Invite your co-writer or partner to bookmark your roster on the characters page, then give them "suggest" access in Naviya so they can queue portrait tweaks without overriding your final say. While you test scenes, screen-share the [features dashboard](https://www.naviya.chat/) to highlight usage analytics, like which character receives the most portrait revisions.
 
 ## External Tool Pairings
 
@@ -102,7 +102,7 @@ Viewers immediately noticed the tighter cohesion between dialogue and art. Engag
 
 ## Responsible Image Generation
 
-Stay mindful of likeness rights and cultural sensitivity. Stick to descriptive prompts rather than referencing real celebrities, and double-check outputs for stereotypes. Naviya's safety system flags problematic descriptors before the render begins, saving time. When in doubt, consult the platform's acceptable use policy — Naviya hosts it on the [features page](https://naviya.chat/features) for quick review.
+Stay mindful of likeness rights and cultural sensitivity. Stick to descriptive prompts rather than referencing real celebrities, and double-check outputs for stereotypes. Naviya's safety system flags problematic descriptors before the render begins, saving time. When in doubt, consult the platform's acceptable use policy — Naviya hosts it on the [features page](https://www.naviya.chat/) for quick review.
 
 ## Feature Checklist Before You Commit
 
@@ -118,7 +118,7 @@ Before paying for another subscription, run through this checklist:
 
 **Can I import third-party art into Naviya?** Yes. Upload your own PNGs into each portrait slot, then use the "Blend" option to gently shift them toward Naviya's house style. It's useful when you commission hero art but still want quick expression tweaks.
 
-**What about animated scenes?** Most roleplay apps still focus on stills, but you can export image sequences and animate them in external tools like Runway or After Effects. Naviya plans to ship lightweight motion brushes later this year, according to the roadmap teased on the [features page](https://naviya.chat/features).
+**What about animated scenes?** Most roleplay apps still focus on stills, but you can export image sequences and animate them in external tools like Runway or After Effects. Naviya plans to ship lightweight motion brushes later this year, according to the roadmap teased on the [features page](https://www.naviya.chat/).
 
 **How much storage do I need?** Expect 50-100 MB per campaign if you keep multiple portrait revisions. Offload older art to cloud folders, but keep the canonical versions in-app to maintain dialogue-art parity.
 
@@ -132,4 +132,4 @@ Before paying for another subscription, run through this checklist:
 - **Best for social recaps**: Pictale Journeys.
 - **Best for collaborative anthologies**: Dreamwheel Relay.
 
-**Want to build your own cinematic chatroom? [Download Naviya and start co-creating today](https://naviya.chat/download)** — the tutorial quest walks you through pairing roleplay and art in under 15 minutes.
+**Want to build your own cinematic chatroom? [Download Naviya and start co-creating today](https://www.naviya.chat/)** — the tutorial quest walks you through pairing roleplay and art in under 15 minutes.

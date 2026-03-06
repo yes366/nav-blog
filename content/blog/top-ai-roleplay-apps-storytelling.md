@@ -41,7 +41,7 @@ The community has created over 10,000 characters spanning every genre imaginable
 
 **Standout feature:** The comic panel generation turns key story moments into visual scenes, creating a graphic novel feel that no other platform offers.
 
-[Start a story on Naviya](https://naviya.chat) — the free tier gives you enough to experience the storytelling quality firsthand.
+[Start a story on Naviya](https://www.naviya.chat) — the free tier gives you enough to experience the storytelling quality firsthand.
 
 ### 2. AI Dungeon
 
@@ -155,8 +155,8 @@ Regardless of which platform you choose, these tips will improve your experience
 
 ## The Bottom Line
 
-The AI roleplay landscape in 2026 offers something for everyone. If you want the richest multimedia storytelling experience with visual elements and voice, [Naviya](https://naviya.chat) leads the pack. For pure text adventures with maximum freedom, AI Dungeon and NovelAI remain strong. And for specific niches — romance, anime, voice — specialized platforms deliver focused experiences.
+The AI roleplay landscape in 2026 offers something for everyone. If you want the richest multimedia storytelling experience with visual elements and voice, [Naviya](https://www.naviya.chat) leads the pack. For pure text adventures with maximum freedom, AI Dungeon and NovelAI remain strong. And for specific niches — romance, anime, voice — specialized platforms deliver focused experiences.
 
 The best advice? Try two or three platforms with the same scenario and see which one clicks. Most offer free tiers, so experimentation costs nothing but time.
 
-[Start your first story on Naviya](https://naviya.chat) — you might be surprised how quickly you get hooked.
+[Start your first story on Naviya](https://www.naviya.chat) — you might be surprised how quickly you get hooked.

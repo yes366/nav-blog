@@ -35,7 +35,7 @@ What makes Naviya worth the quick sign-up is what you get: voice chat with AI ch
 **Free allowance:** Generous daily free messages
 **Best for:** People who want quality AI chat without premium pricing
 
-[Check out Naviya's character library](https://naviya.chat) — browsing is instant.
+[Check out Naviya's character library](https://www.naviya.chat) — browsing is instant.
 
 ### 2. Character AI — Large Free Tier
 
@@ -107,8 +107,8 @@ The good news is that premium plans across the industry are reasonable — typic
 
 ## Our Recommendation
 
-Start with [Naviya](https://naviya.chat) for the best balance of free access and feature quality. The voice chat and AI images give you a taste of where AI character chat is heading, and the character library is deep enough to keep you exploring for hours.
+Start with [Naviya](https://www.naviya.chat) for the best balance of free access and feature quality. The voice chat and AI images give you a taste of where AI character chat is heading, and the character library is deep enough to keep you exploring for hours.
 
 If you exhaust your free allowance and want more, the premium subscription unlocks everything without nickel-and-diming you with credits or tiers.
 
-[Try Naviya free today](https://naviya.chat) — no credit card required.
+[Try Naviya free today](https://www.naviya.chat) — no credit card required.

@@ -155,7 +155,7 @@ Different genres have different rhythms. A horror roleplay feels different from 
 
 **Horror:** Sensory details — sounds, shadows, temperature. Less is more. What you don't describe is scarier than what you do.
 
-On [Naviya](https://naviya.chat), many characters are designed with specific genres in mind. Matching your style to their genre amplifies the experience.
+On [Naviya](https://www.naviya.chat), many characters are designed with specific genres in mind. Matching your style to their genre amplifies the experience.
 
 ## Tip 9: Know When to End a Scene
 
@@ -173,11 +173,11 @@ Ending on a strong moment means the next time you pick up the conversation, you 
 
 This is the ultimate tip: if you consistently find that pre-made characters don't give you the experience you want, **create your own**.
 
-The [Naviya character creator](https://naviya.chat) lets you design characters with the exact personality, speaking style, and backstory that fit your preferred conversation style. If you like deep philosophical discussions, build a character who's a philosopher. If you want witty banter, build a character who can keep up.
+The [Naviya character creator](https://www.naviya.chat) lets you design characters with the exact personality, speaking style, and backstory that fit your preferred conversation style. If you like deep philosophical discussions, build a character who's a philosopher. If you want witty banter, build a character who can keep up.
 
 The people having the best AI roleplay experiences aren't lucky — they've crafted characters specifically designed for the conversations they want to have.
 
-**[Try creating your ideal conversation partner on Naviya →](https://naviya.chat)**
+**[Try creating your ideal conversation partner on Naviya →](https://www.naviya.chat)**
 
 ![Creative workspace with AI character development notes](./images/ai-roleplay-tips-better-conversations.jpg)
 
@@ -202,4 +202,4 @@ Like any skill, AI roleplay gets better with practice. Start with one or two of 
 
 The gap between "talking to a chatbot" and "living inside a story" is closer than you think. It's all in how you approach it.
 
-**[Start your next conversation on Naviya →](https://naviya.chat)**
+**[Start your next conversation on Naviya →](https://www.naviya.chat)**

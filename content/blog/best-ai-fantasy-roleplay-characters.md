@@ -78,7 +78,7 @@ Not all AI chat platforms handle fantasy equally well. You want one that:
 - Doesn't break immersion with out-of-character responses
 - Offers visual elements to enhance the fantasy atmosphere
 
-[Naviya](https://naviya.chat) checks all these boxes, with the added bonus of AI-generated images that bring fantasy scenes to life and voice chat that lets you hear your characters speak.
+[Naviya](https://www.naviya.chat) checks all these boxes, with the added bonus of AI-generated images that bring fantasy scenes to life and voice chat that lets you hear your characters speak.
 
 ### Set the Scene
 Before diving into dialogue, establish the setting. Describe the environment, the time of day, the atmosphere. This gives the AI context to generate richer, more immersive responses.
@@ -98,6 +98,6 @@ Not every moment needs to be dramatic. Some of the best fantasy interactions are
 
 Naviya's library includes thousands of fantasy characters created by the community. You can search by genre, archetype, or setting to find exactly what you're looking for. And if you can't find the perfect character, the creation tools let you build one from scratch with detailed personality settings.
 
-[Explore fantasy characters on Naviya](https://naviya.chat) — your next adventure is waiting.
+[Explore fantasy characters on Naviya](https://www.naviya.chat) — your next adventure is waiting.
 
 Whether you're a seasoned tabletop RPG player looking for a solo experience, a fantasy reader who wants to step inside the story, or someone who's never tried roleplay but loves the genre, AI fantasy characters offer something genuinely special. The technology has reached a point where these interactions feel less like chatting with a bot and more like collaborating with a creative partner who shares your love of fantasy worlds.

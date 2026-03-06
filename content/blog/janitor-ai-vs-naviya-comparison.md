@@ -96,13 +96,13 @@ Both platforms offer free tiers. Janitor AI's free experience is decent but can 
 
 Janitor AI is the platform for people who want maximum control and don't mind a rougher experience to get it. If you're a prompt engineering enthusiast who loves building characters from scratch and digging through community creations to find gems, Janitor AI rewards that investment.
 
-Naviya is the platform for people who want a polished, feature-rich experience with consistent quality. If you want to start chatting with great characters immediately, create your own without a steep learning curve, and enjoy features like voice chat and AI images — [Naviya is the better choice](https://naviya.chat).
+Naviya is the platform for people who want a polished, feature-rich experience with consistent quality. If you want to start chatting with great characters immediately, create your own without a steep learning curve, and enjoy features like voice chat and AI images — [Naviya is the better choice](https://www.naviya.chat).
 
 Neither is objectively "better." They serve different audiences with different priorities. But for most users who just want great AI conversations without the hassle, Naviya's approach wins.
 
 ![Decision matrix showing which platform suits different user types](./images/janitor-ai-vs-naviya-comparison.jpg)
 
-[Try Naviya free](https://naviya.chat) and see if the polished experience matches what you're looking for. You can always explore Janitor AI later if you want more raw customization power.
+[Try Naviya free](https://www.naviya.chat) and see if the polished experience matches what you're looking for. You can always explore Janitor AI later if you want more raw customization power.
 
 ## FAQ
 
@@ -116,6 +116,6 @@ Janitor AI has a larger total library due to its open community creation model. 
 The learning curve is steeper, especially for character creation. The interface is less intuitive than Naviya's. However, experienced users appreciate the additional control.
 
 ### Do both apps work on mobile?
-Naviya has dedicated iOS and Android apps plus a web experience. Janitor AI is primarily web-based with a mobile-responsive site. [Download Naviya](https://naviya.chat) for the best mobile experience.
+Naviya has dedicated iOS and Android apps plus a web experience. Janitor AI is primarily web-based with a mobile-responsive site. [Download Naviya](https://www.naviya.chat) for the best mobile experience.
 
 ![Mobile experience comparison between Janitor AI web and Naviya app](./images/janitor-ai-vs-naviya-comparison.jpg)

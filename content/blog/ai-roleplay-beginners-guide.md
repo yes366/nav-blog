@@ -39,7 +39,7 @@ Several platforms offer AI roleplay. For beginners, look for one with:
 - An intuitive interface
 - A free tier that lets you explore
 
-[Naviya](https://naviya.chat) is a solid starting point — it has a diverse character library, a clean interface, and you can start chatting immediately without creating an account.
+[Naviya](https://www.naviya.chat) is a solid starting point — it has a diverse character library, a clean interface, and you can start chatting immediately without creating an account.
 
 ### Step 2: Pick a Character
 
@@ -206,4 +206,4 @@ Ask the AI. Seriously. "What should we do next?" or "Surprise me with a plot twi
 
 You know enough to begin. Pick a platform, choose a character, and write your first response. It doesn't have to be perfect — it just has to be a start.
 
-[Browse characters on Naviya](https://naviya.chat) and find one that catches your eye. Your first AI roleplay adventure is one message away.
+[Browse characters on Naviya](https://www.naviya.chat) and find one that catches your eye. Your first AI roleplay adventure is one message away.

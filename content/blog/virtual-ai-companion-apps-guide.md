@@ -87,7 +87,7 @@ A newer platform that's carved out a niche by combining character chat with crea
 - Still building out some features
 - Character library growing but not yet matching the largest competitors
 
-**Best for:** Users who want creative roleplay with multimedia elements, and creators who want deep control over their characters. [Try it free at naviya.chat](https://naviya.chat).
+**Best for:** Users who want creative roleplay with multimedia elements, and creators who want deep control over their characters. [Try it free at naviya.chat](https://www.naviya.chat).
 
 ### Chai AI
 
@@ -190,4 +190,4 @@ Virtual AI companion apps are tools. Like any tool, their value depends on how y
 
 Don't commit to the first platform you try. Test two or three, spend a few days with each, and see which one feels right. The technology is good enough now that the differentiator is usually the experience design and character quality, not the underlying AI.
 
-[Start with Naviya](https://naviya.chat) if you want a platform that balances creative depth with accessibility. But whatever you choose, give it a real chance — the best AI companion conversations happen after the first few exchanges, once you and the AI find your rhythm.
+[Start with Naviya](https://www.naviya.chat) if you want a platform that balances creative depth with accessibility. But whatever you choose, give it a real chance — the best AI companion conversations happen after the first few exchanges, once you and the AI find your rhythm.

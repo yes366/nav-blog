@@ -11,7 +11,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -32,7 +32,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -53,7 +53,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -96,7 +96,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -117,7 +117,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -136,34 +136,17 @@
       "issues": [
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/characters",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/",
           "status_code": 200
         },
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/download",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/features",
-          "status_code": 404
+          "url": "https://www.naviya.chat/create",
+          "status_code": 200
         },
         {
           "type": [
@@ -181,42 +164,17 @@
       "issues": [
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/characters",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/characters/inspector",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/",
           "status_code": 200
         },
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/download",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/features/advanced-roleplay",
-          "status_code": 404
+          "url": "https://www.naviya.chat/create",
+          "status_code": 200
         },
         {
           "type": [
@@ -242,7 +200,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -263,7 +221,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -284,7 +242,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -305,7 +263,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -326,7 +284,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -347,7 +305,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -390,14 +348,14 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/create",
           "status_code": 200
         },
         {
@@ -432,7 +390,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -457,34 +415,17 @@
       "issues": [
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/characters",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/",
           "status_code": 200
         },
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/download",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/features",
-          "status_code": 404
+          "url": "https://www.naviya.chat/create",
+          "status_code": 200
         },
         {
           "type": [
@@ -526,7 +467,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -615,34 +556,17 @@
       "issues": [
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/characters",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/",
           "status_code": 200
         },
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/download",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/features",
-          "status_code": 404
+          "url": "https://www.naviya.chat/create",
+          "status_code": 200
         },
         {
           "type": [
@@ -660,34 +584,17 @@
       "issues": [
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/characters",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/",
           "status_code": 200
         },
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/download",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/features",
-          "status_code": 404
+          "url": "https://www.naviya.chat/create",
+          "status_code": 200
         },
         {
           "type": [
@@ -707,7 +614,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -742,7 +649,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -763,7 +670,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -788,34 +695,17 @@
       "issues": [
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/characters",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/",
           "status_code": 200
         },
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/download",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/features",
-          "status_code": 404
+          "url": "https://www.naviya.chat/create",
+          "status_code": 200
         },
         {
           "type": [
@@ -833,34 +723,17 @@
       "issues": [
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/characters",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/",
           "status_code": 200
         },
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/download",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/features",
-          "status_code": 404
+          "url": "https://www.naviya.chat/create",
+          "status_code": 200
         },
         {
           "type": [
@@ -880,7 +753,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -907,14 +780,14 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/create",
           "status_code": 200
         },
         {
@@ -941,7 +814,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -962,7 +835,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -989,7 +862,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -1036,7 +909,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -1061,50 +934,17 @@
       "issues": [
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/characters",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/characters](https://naviya.chat/characters",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/",
           "status_code": 200
         },
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/download",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/features/voice",
-          "status_code": 404
-        },
-        {
-          "type": [
-            "dead_link",
-            "image_needs_regeneration"
-          ],
-          "url": "https://naviya.chat/studio",
-          "status_code": 404
+          "url": "https://www.naviya.chat/create",
+          "status_code": 200
         },
         {
           "type": [
@@ -1144,7 +984,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -1171,14 +1011,14 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/create",
           "status_code": 200
         },
         {
@@ -1199,7 +1039,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -1226,7 +1066,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -1253,14 +1093,14 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/create",
           "status_code": 200
         },
         {
@@ -1281,23 +1121,22 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/create",
+          "url": "https://www.naviya.chat/create",
           "status_code": 200
         },
         {
           "type": [
-            "dead_link",
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat/privacy",
-          "status_code": 404
+          "url": "https://www.naviya.chat/policy",
+          "status_code": 200
         },
         {
           "type": [
@@ -1323,7 +1162,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -1344,7 +1183,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -1365,7 +1204,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -1386,7 +1225,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {
@@ -1407,7 +1246,7 @@
           "type": [
             "image_needs_regeneration"
           ],
-          "url": "https://naviya.chat",
+          "url": "https://www.naviya.chat",
           "status_code": 200
         },
         {

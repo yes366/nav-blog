@@ -50,7 +50,7 @@ Typing encourages longer, more composed messages. Speaking encourages natural ba
 ## Platforms Offering Voice Chat in 2026
 
 ### Naviya
-[Naviya](https://naviya.chat) integrates voice chat directly into character conversations. You can switch between text and voice mid-conversation, and the character maintains context regardless of input mode. Voice options are available across the character library, with creators able to select voice profiles that match their character's personality.
+[Naviya](https://www.naviya.chat) integrates voice chat directly into character conversations. You can switch between text and voice mid-conversation, and the character maintains context regardless of input mode. Voice options are available across the character library, with creators able to select voice profiles that match their character's personality.
 
 **Voice quality:** Natural-sounding with emotional variation
 **Latency:** 1-2 seconds typical
@@ -138,6 +138,6 @@ If you've only experienced AI characters through text, voice chat is worth tryin
 
 Start with a character you already enjoy in text. Switch to voice and have the same kind of conversation. Notice what feels different. For many users, that first voice conversation is the moment AI characters stop feeling like a chat interface and start feeling like... someone.
 
-[Try voice chat on Naviya](https://naviya.chat) — pick a character, tap the voice icon, and start talking.
+[Try voice chat on Naviya](https://www.naviya.chat) — pick a character, tap the voice icon, and start talking.
 
 ![A warm illustration of a person smiling while having a voice conversation with an AI character](./images/ai-character-voice-chat-guide.jpg)

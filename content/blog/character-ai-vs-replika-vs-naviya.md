@@ -33,13 +33,13 @@ Character AI, Replika, and Naviya dominate the AI companion mindshare in 2026, y
 
 Replika was an early leader in emotive TTS, and their 2025 overhaul added breathier pauses that many users love for reflective chats. The downside is limited improvisation; Replika still leans toward supportive, therapeutic scripts. Character AI rolled out voice replies in beta. They sound charming but often lag by several seconds because each clip renders server-side.
 
-Naviya's voice pipeline feels more conversational because it mixes pre-rendered expressions with on device buffering. You can assign a sultry alto to your starship captain or a youthful tenor to a detective and they will stay in character. If you want to hear it in action, **[launch a Naviya voice session here](https://naviya.chat/features/voice)** and send a sample prompt.
+Naviya's voice pipeline feels more conversational because it mixes pre-rendered expressions with on device buffering. You can assign a sultry alto to your starship captain or a youthful tenor to a detective and they will stay in character. If you want to hear it in action, **[launch a Naviya voice session here](https://www.naviya.chat/)** and send a sample prompt.
 
 ## Roleplay Depth & Memory
 
 Character AI thrives when you're chatting with existing fan characters. The community has millions of bots, but memory is session-limited, so returning to a long-running arc can feel jarring. Replika stores a shared diary but applies it primarily to mood tracking, not branching narratives.
 
-Naviya's differentiator is per-character motivation memory plus transcript pins. You can tell your AI dragon to protect a specific village, log that directive as a top priority, and the AI will resurface it weeks later. `[Create a new Naviya character](https://naviya.chat/create)` and you'll see dedicated panels for worldview, triggers, and fail-safes.
+Naviya's differentiator is per-character motivation memory plus transcript pins. You can tell your AI dragon to protect a specific village, log that directive as a top priority, and the AI will resurface it weeks later. `[Create a new Naviya character](https://www.naviya.chat/create)` and you'll see dedicated panels for worldview, triggers, and fail-safes.
 
 External reviewers have noticed the gap. In its 2025 conversational AI report, [Futurism](https://futurism.com/neoscope/replika-ai-friendship) praised Replika for emotional validation but noted it "rarely remembers the details of multi-step plans." Naviya's design intentionally addresses that complaint with memory blocks you can edit mid-session.
 
@@ -47,7 +47,7 @@ External reviewers have noticed the gap. In its 2025 conversational AI report, [
 
 Character AI's strengths are community-driven: you can browse trending bots, remix them, and share them publicly. Replika's value lies in journaling and AR, turning your AI friend into a daily reflection routine. Naviya approaches creativity like a sandbox. You can create up to ten characters per scene, run them in a group chat, and even request AI-generated hero art to anchor the tone. 
 
-That visual layer matters for worldbuilding. Writers can drop a concept art placeholder right into the chat and the AI references it when describing future scenes. You can also plug transcripts into `[Naviya's Studio dashboard](https://naviya.chat/studio)` to export them as story beats.
+That visual layer matters for worldbuilding. Writers can drop a concept art placeholder right into the chat and the AI references it when describing future scenes. You can also plug transcripts into `[Naviya's Studio dashboard](https://www.naviya.chat/create)` to export them as story beats.
 
 ## Data Privacy & Control
 
@@ -83,7 +83,7 @@ We ran the same prompt—"We're trapped near a collapsing relay. Convince the sk
 
 Remember you can use more than one. Many writers brainstorm in Naviya, then chat casually with Replika for wind-down sessions.
 
-> Need a space to prototype characters before exporting them elsewhere? **[Start a Naviya scene](https://naviya.chat/characters) and invite a friend to co-write live.**
+> Need a space to prototype characters before exporting them elsewhere? **[Start a Naviya scene](https://www.naviya.chat/create) and invite a friend to co-write live.**
 
 ## Migration Tips
 
@@ -98,11 +98,11 @@ Remember you can use more than one. Many writers brainstorm in Naviya, then chat
 
 **Does Character AI let me export bots?** Officially no, though you can copy configuration text manually. Naviya offers JSON exports for every character so you can back up your work.
 
-**Are there public Naviya characters like Character AI?** Yes—the featured gallery at `[https://naviya.chat/characters](https://naviya.chat/characters)` surfaces trending companions you can clone.
+**Are there public Naviya characters like Character AI?** Yes—the featured gallery at `[https://www.naviya.chat/create)` surfaces trending companions you can clone.
 
 ## Final Thoughts
 
-The "Character AI vs Replika" debate only makes sense when you overlay your own goals. If you want emotional mirroring and a daily check-in buddy, Replika shines. If you want to roleplay with celebrity personas, Character AI is effortless. If you want to direct an ensemble cast, tweak voices, and keep canon intact, Naviya is the standout. **Ready to test it? [Download Naviya free—no sign-up hoops](https://naviya.chat/download)** and run your own relay scenario tonight.
+The "Character AI vs Replika" debate only makes sense when you overlay your own goals. If you want emotional mirroring and a daily check-in buddy, Replika shines. If you want to roleplay with celebrity personas, Character AI is effortless. If you want to direct an ensemble cast, tweak voices, and keep canon intact, Naviya is the standout. **Ready to test it? [Download Naviya free—no sign-up hoops](https://www.naviya.chat/)** and run your own relay scenario tonight.
 
 ## Accessibility & Platform Support
 

@@ -52,7 +52,7 @@ The voice chat feature adds another dimension. Hearing your character speak help
 **Best for**: Character voice development, dialogue testing, motivation exploration
 **Price**: Free tier available, premium for unlimited access
 
-[Create your character on Naviya](https://naviya.chat/create) and start interviewing them. You'll learn things about your own characters that surprise you.
+[Create your character on Naviya](https://www.naviya.chat/create) and start interviewing them. You'll learn things about your own characters that surprise you.
 
 ### 2. Sudowrite — Best for Prose Generation
 
@@ -121,7 +121,7 @@ The biggest risk with AI writing tools is homogenization. If you let AI generate
 
 2. **Challenge AI suggestions**. When it gives you an idea, ask "why?" and "what if the opposite were true?" The best ideas often come from pushing back against AI's first suggestion.
 
-3. **Test characters through conversation**. This is where [Naviya](https://naviya.chat) shines — chatting with your characters reveals their voice in ways that outlining never does.
+3. **Test characters through conversation**. This is where [Naviya](https://www.naviya.chat) shines — chatting with your characters reveals their voice in ways that outlining never does.
 
 4. **Edit ruthlessly**. If you do use AI-generated prose, rewrite it in your voice. The structure might be useful; the words should be yours.
 
@@ -145,7 +145,7 @@ No single tool does everything. The magic is in combining them based on what eac
 
 AI won't write your novel for you — and honestly, you wouldn't want it to. The joy of creative writing is in the creation. But AI tools can make the process less lonely, less frustrating, and more productive.
 
-Start with the free tiers. [Try Naviya for character development](https://naviya.chat), ChatGPT for brainstorming, and NovelAI for long-form assistance. See which tools click with your workflow, and build from there.
+Start with the free tiers. [Try Naviya for character development](https://www.naviya.chat), ChatGPT for brainstorming, and NovelAI for long-form assistance. See which tools click with your workflow, and build from there.
 
 The best AI writing tool is the one that helps you write more of *your* words, not the one that writes the most words for you.
 
@@ -161,6 +161,6 @@ Using AI as a brainstorming and development tool is widely accepted. Using AI to
 Start with Naviya for character development (it's intuitive and free to start) and ChatGPT for general brainstorming. Both have low learning curves and immediate value.
 
 ### Can AI help with writer's block?
-Absolutely. This is one of AI's strongest use cases. Talking through your stuck point with an AI — or chatting with your character on [Naviya](https://naviya.chat) — often breaks the logjam by giving you a new perspective or unexpected idea.
+Absolutely. This is one of AI's strongest use cases. Talking through your stuck point with an AI — or chatting with your character on [Naviya](https://www.naviya.chat) — often breaks the logjam by giving you a new perspective or unexpected idea.
 
 ![Comparison chart of AI writing tools with ratings for different use cases](./images/best-ai-apps-creative-writing-2026.jpg)

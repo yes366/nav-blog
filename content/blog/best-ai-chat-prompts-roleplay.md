@@ -182,6 +182,6 @@ Over time, you'll develop an instinct for what works. The prompts above are star
 
 ## Start Practicing
 
-The only way to get better at AI roleplay prompts is to use them. Pick a character on [Naviya](https://naviya.chat) that matches a genre you enjoy, try three or four prompts from this guide, and see what happens. You'll quickly discover which techniques click with your style.
+The only way to get better at AI roleplay prompts is to use them. Pick a character on [Naviya](https://www.naviya.chat) that matches a genre you enjoy, try three or four prompts from this guide, and see what happens. You'll quickly discover which techniques click with your style.
 
-Great roleplay is a skill. And like any skill, it gets better with practice. [Start a conversation on Naviya](https://naviya.chat) and see where your prompts take you.
+Great roleplay is a skill. And like any skill, it gets better with practice. [Start a conversation on Naviya](https://www.naviya.chat) and see where your prompts take you.

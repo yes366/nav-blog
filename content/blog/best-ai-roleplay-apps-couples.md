@@ -31,16 +31,16 @@ A 2025 [Pew Research Center survey](https://www.pewresearch.org/internet/2025/09
 
 ## Naviya: Shared Worlds With Character Layers
 
-Naviya gives couples the flexibility to create entire casts that stay synced across devices. Build your protagonists inside the [create tool](https://naviya.chat/create), link them to a shared collection, and toggle "Co-Author" so both partners can edit lore. Scene cues let you predefine locations, vibes, and relationship milestones, while the chat itself swaps perspectives with a single tap.
+Naviya gives couples the flexibility to create entire casts that stay synced across devices. Build your protagonists inside the [create tool](https://www.naviya.chat/create), link them to a shared collection, and toggle "Co-Author" so both partners can edit lore. Scene cues let you predefine locations, vibes, and relationship milestones, while the chat itself swaps perspectives with a single tap.
 
 Key perks for couples:
 
-- **Private links**: Publish characters to the [Naviya characters gallery](https://naviya.chat/characters) with password protection so only your partner can access them.
+- **Private links**: Publish characters to the [Naviya characters gallery](https://www.naviya.chat/create) with password protection so only your partner can access them.
 - **Session notes**: Mark chapters with emojis or color codes, then export transcripts for scrapbooks.
-- **Safety prompts**: The [features page](https://naviya.chat/features) highlights "Pause & Reflect" buttons — you can halt a scene, talk offline, then resume without losing context.
-- **Access everywhere**: Grab the mobile apps via the [download portal](https://naviya.chat/download) to keep stories alive during travel.
+- **Safety prompts**: The [features page](https://www.naviya.chat/) highlights "Pause & Reflect" buttons — you can halt a scene, talk offline, then resume without losing context.
+- **Access everywhere**: Grab the mobile apps via the [download portal](https://www.naviya.chat/) to keep stories alive during travel.
 
-**Need inspiration tonight? [Spin up a shared world in Naviya](https://naviya.chat/create)** and invite your partner through a secure link. You can both chat with the same AI companions or hand off the roleplay when schedules clash.
+**Need inspiration tonight? [Spin up a shared world in Naviya](https://www.naviya.chat/create)** and invite your partner through a secure link. You can both chat with the same AI companions or hand off the roleplay when schedules clash.
 
 ## CoVerse Duet
 
@@ -72,9 +72,9 @@ Combine those with real-world check-ins: before big story beats, agree on lines 
 
 ## Workflow Blueprint for Shared Worlds
 
-1. **Brainstorm core pillars**: Use Naviya's [create interface](https://naviya.chat/create) to outline values, conflicts, and long-term goals.
-2. **Cast building**: Assign each partner two primary characters plus supporting NPCs. Publish them privately to the [characters page](https://naviya.chat/characters).
-3. **Scene scheduling**: Use calendar reminders linked to the [downloaded apps](https://naviya.chat/download) so you maintain weekly sessions.
+1. **Brainstorm core pillars**: Use Naviya's [create interface](https://www.naviya.chat/create) to outline values, conflicts, and long-term goals.
+2. **Cast building**: Assign each partner two primary characters plus supporting NPCs. Publish them privately to the [characters page](https://www.naviya.chat/create).
+3. **Scene scheduling**: Use calendar reminders linked to the [downloaded apps](https://www.naviya.chat/) so you maintain weekly sessions.
 4. **Post-session rituals**: Export transcripts, drop them into a shared folder, and jot "rose/bud/thorn" notes for highlights, seeds, and challenges.
 
 ## Communication Tips
@@ -82,15 +82,15 @@ Combine those with real-world check-ins: before big story beats, agree on lines 
 - **Start light**: Use slice-of-life prompts before diving into heavy themes.
 - **Rotate the spotlight**: Every session, designate a "lead" whose character drives the plot. Swap next time.
 - **Use safe words**: Adopt simple signals like "Pause" or emoji reactions to slow the story without derailing immersion.
-- **Review analytics together**: Naviya's [features dashboard](https://naviya.chat/features) shows which characters dominate the conversation; use that to rebalance arcs.
+- **Review analytics together**: Naviya's [features dashboard](https://www.naviya.chat/) shows which characters dominate the conversation; use that to rebalance arcs.
 
 ## Suggested Session Cadence
 
 Couples who schedule creative time stay consistent. Try this cadence:
 
-1. **Monday micro-date (15 minutes)**: Send each other a voice note via Naviya's mobile app (install from the [download page](https://naviya.chat/download)) recapping last week's cliffhanger. Let the AI respond with a playful teaser.
-2. **Wednesday lore drop (20 minutes)**: Hop into the builder, add one location or NPC per partner, and store it in the shared folder on the [characters page](https://naviya.chat/characters).
-3. **Friday feature review (10 minutes)**: Skim the [features dashboard](https://naviya.chat/features) for analytics, highlight any mood imbalances, and reset boundaries if needed.
+1. **Monday micro-date (15 minutes)**: Send each other a voice note via Naviya's mobile app (install from the [download page](https://www.naviya.chat/)) recapping last week's cliffhanger. Let the AI respond with a playful teaser.
+2. **Wednesday lore drop (20 minutes)**: Hop into the builder, add one location or NPC per partner, and store it in the shared folder on the [characters page](https://www.naviya.chat/create).
+3. **Friday feature review (10 minutes)**: Skim the [features dashboard](https://www.naviya.chat/) for analytics, highlight any mood imbalances, and reset boundaries if needed.
 4. **Weekend deep dive (45+ minutes)**: Sit together (in person or via call), open your main chat, and play through a full scene. End with a "next episode preview" so Monday's micro-date writes itself.
 
 Adjust the timeline to your energy levels, but keeping a predictable rhythm ensures neither partner feels ghosted by the story.
@@ -126,10 +126,10 @@ Outcome: They reported feeling more aligned about shared values (sustainability,
 
 **What if we disagree on lore?** Embrace versioning. Use Naviya's duplicate button to try alternate timelines, then compare which feels best.
 
-**Can we involve friends later?** Absolutely. Publish select characters publicly and share them via the [characters hub](https://naviya.chat/characters) while keeping your core world private.
+**Can we involve friends later?** Absolutely. Publish select characters publicly and share them via the [characters hub](https://www.naviya.chat/create) while keeping your core world private.
 
 ## Final Thoughts
 
 AI roleplay apps give couples a new canvas for storytelling, but the magic comes from the two of you. Choose tools that amplify trust, provide guardrails, and make it easy to pick up the thread after busy weeks. Naviya's combination of unlimited chats, collaborative builders, and portable apps make it the easiest place to start, especially when paired with niche tools like CoVerse or Lumen for structured arcs.
 
-**Ready to build your world together? [Download Naviya](https://naviya.chat/download)** and craft your first shared scene tonight.
+**Ready to build your world together? [Download Naviya](https://www.naviya.chat/)** and craft your first shared scene tonight.

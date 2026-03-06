@@ -39,7 +39,7 @@ This dynamic creates genuinely unpredictable storytelling. You're not following 
 
 **Best for**: Players who love psychological tension and strategic thinking.
 
-[Find mastermind characters on Naviya](https://naviya.chat) — search for "mastermind," "strategist," or "manipulator" in the character library.
+[Find mastermind characters on Naviya](https://www.naviya.chat) — search for "mastermind," "strategist," or "manipulator" in the character library.
 
 ### 2. The Tragic Antagonist
 
@@ -110,16 +110,16 @@ The best villain interactions aren't combat — they're conversations. Negotiate
 If you always outsmart the villain, the tension disappears. Let them succeed occasionally. Let their plans work. The story becomes more compelling when the outcome is uncertain.
 
 ### Explore Their Backstory
-Ask villains about their past. Most well-crafted villain characters on [Naviya](https://naviya.chat) have detailed backstories that explain their motivations. Understanding why they became who they are adds depth to every interaction.
+Ask villains about their past. Most well-crafted villain characters on [Naviya](https://www.naviya.chat) have detailed backstories that explain their motivations. Understanding why they became who they are adds depth to every interaction.
 
 ### Create Your Own Villain
-Naviya's character creation tools let you build custom villain characters. Define their motivation, their methods, their weaknesses, and their relationship to the player. [Create your villain](https://naviya.chat/create) and challenge other users to face them.
+Naviya's character creation tools let you build custom villain characters. Define their motivation, their methods, their weaknesses, and their relationship to the player. [Create your villain](https://www.naviya.chat/create) and challenge other users to face them.
 
 ## The Bottom Line
 
 Villain characters are some of the most rewarding AI roleplay experiences available. They challenge you intellectually, create genuine tension, and produce stories that surprise you. The key is finding characters with depth — not just "evil for evil's sake" but antagonists with motivations, philosophies, and personalities that make every conversation compelling.
 
-[Explore villain characters on Naviya](https://naviya.chat) and find your perfect adversary. The best stories need great villains — and AI makes them smarter than ever.
+[Explore villain characters on Naviya](https://www.naviya.chat) and find your perfect adversary. The best stories need great villains — and AI makes them smarter than ever.
 
 ## FAQ
 
@@ -127,7 +127,7 @@ Villain characters are some of the most rewarding AI roleplay experiences availa
 Naviya's villain characters are SFW. Conflicts are dramatic and engaging without graphic violence or inappropriate content. The focus is on psychological tension and storytelling.
 
 ### Can I create my own villain character?
-Yes. Naviya's [character creation tools](https://naviya.chat/create) let you design villains with custom backstories, motivations, and personality traits.
+Yes. Naviya's [character creation tools](https://www.naviya.chat/create) let you design villains with custom backstories, motivations, and personality traits.
 
 ### Do villain characters stay in character?
 Naviya's AI maintains character consistency well. A cunning mastermind won't suddenly become friendly unless the story calls for it. The character's personality persists across conversations.

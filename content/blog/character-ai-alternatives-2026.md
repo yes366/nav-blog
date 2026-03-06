@@ -37,7 +37,7 @@ No single app solves all of these. But each one on this list excels at something
 
 **Why switch:** You want to build your own characters with real depth, or have conversations that stay in character for 100+ messages.
 
-[Naviya](https://naviya.chat) was built around a simple idea: the AI is only as good as the character behind it. The character creation tools let you define personality layers, speaking patterns, backstory triggers, and emotional arcs that most platforms don't even attempt.
+[Naviya](https://www.naviya.chat) was built around a simple idea: the AI is only as good as the character behind it. The character creation tools let you define personality layers, speaking patterns, backstory triggers, and emotional arcs that most platforms don't even attempt.
 
 **What it does better than Character.AI:**
 - Character creation is significantly more detailed
@@ -53,7 +53,7 @@ No single app solves all of these. But each one on this list excels at something
 
 **Standout feature:** The character creator. If you have a specific character in mind — maybe an OC, a D&D character, or a personality you've always wanted to talk to — Naviya gives you the tools to actually build it right.
 
-**[Try Naviya's character creator →](https://naviya.chat)**
+**[Try Naviya's character creator →](https://www.naviya.chat)**
 
 **Pricing:** Free to start. Premium plans available for unlimited access.
 
@@ -190,7 +190,7 @@ Moescape focuses exclusively on anime-style characters and visual novel-inspired
 If I had to pick just one alternative to Character.AI, I'd say it depends on your frustration:
 
 - **"The filter keeps killing my stories"** → Janitor AI (bring your own model) or Naviya (more nuanced content handling)
-- **"I want to build my own characters"** → [Naviya](https://naviya.chat), hands down
+- **"I want to build my own characters"** → [Naviya](https://www.naviya.chat), hands down
 - **"I want to actually TALK to characters"** → Talkie AI
 - **"I just want something quick and fun"** → Chai AI
 - **"I want total control and privacy"** → SillyTavern
@@ -199,6 +199,6 @@ The AI character chat space is big enough for multiple platforms. Most of these 
 
 The one that makes you lose track of time? That's your app.
 
-**[Start with Naviya — free to chat, no account required.](https://naviya.chat)**
+**[Start with Naviya — free to chat, no account required.](https://www.naviya.chat)**
 
 ![Person exploring different AI chat apps on tablet](./images/character-ai-alternatives-2026.jpg)

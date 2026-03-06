@@ -48,7 +48,7 @@ Hidden trait: Deeply afraid of abandonment
 Trigger: When someone shows genuine care, her confident facade cracks
 ```
 
-On [Naviya's character creator](https://naviya.chat), you can define these layers in the personality section. The more specific you are, the more the AI has to work with.
+On [Naviya's character creator](https://www.naviya.chat), you can define these layers in the personality section. The more specific you are, the more the AI has to work with.
 
 ## Step 2: Give Them a Voice, Not Just a Description
 
@@ -199,7 +199,7 @@ Let's build a character using everything above:
 
 This character will naturally produce interesting conversations because every element is designed to create moments of connection, surprise, and depth.
 
-**Ready to bring your character to life? [Create your first AI character on Naviya →](https://naviya.chat)**
+**Ready to bring your character to life? [Create your first AI character on Naviya →](https://www.naviya.chat)**
 
 ## Key Takeaways
 
@@ -213,4 +213,4 @@ This character will naturally produce interesting conversations because every el
 
 The difference between a forgettable AI character and one that keeps you coming back is almost always in the design, not the technology. Take the time to build someone worth talking to.
 
-**[Start creating on Naviya — free character creator with no sign-up required.](https://naviya.chat)**
+**[Start creating on Naviya — free character creator with no sign-up required.](https://www.naviya.chat)**

@@ -25,7 +25,7 @@ The most common use case is the simplest: when you're stuck, talk to your charac
 
 Not *about* your character. *To* your character.
 
-Create an AI version of your protagonist (or antagonist, or that side character who won't cooperate) on a platform like [Naviya](https://naviya.chat). Give them the personality, backstory, and voice you've established in your manuscript. Then have a conversation.
+Create an AI version of your protagonist (or antagonist, or that side character who won't cooperate) on a platform like [Naviya](https://www.naviya.chat). Give them the personality, backstory, and voice you've established in your manuscript. Then have a conversation.
 
 Ask them questions your plot needs answered:
 - "Why did you really leave the city?"
@@ -140,4 +140,4 @@ AI character chat isn't going to write your novel for you. But it might help you
 
 The writers getting the most value from this tool are the ones who treat it as what it is: a creative partner, not a ghostwriter. The ideas still come from you. The craft still comes from you. The AI just helps you find what's already there.
 
-[Explore AI characters on Naviya](https://naviya.chat) and try chatting with a character from your current project. You might be surprised what they have to say.
+[Explore AI characters on Naviya](https://www.naviya.chat) and try chatting with a character from your current project. You might be surprised what they have to say.

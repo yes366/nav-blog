@@ -35,7 +35,7 @@ With over 10,000 characters in the community library, you can also find pre-made
 
 **Why it works for companionship:** The voice chat feature adds a dimension that text-only platforms can't match. Hearing your companion's voice creates a sense of presence that typing alone doesn't achieve.
 
-[Explore companion characters on Naviya](https://naviya.chat)
+[Explore companion characters on Naviya](https://www.naviya.chat)
 
 ### Replika — The Original AI Companion
 
@@ -113,7 +113,7 @@ These aren't sentient beings — they're sophisticated pattern-matching systems 
 
 If you're new to AI companions, here's a simple path:
 
-1. **Start with a pre-made character** on [Naviya](https://naviya.chat) to see what good AI conversation feels like
+1. **Start with a pre-made character** on [Naviya](https://www.naviya.chat) to see what good AI conversation feels like
 2. **Try different personality types** — you might be surprised what clicks
 3. **Experiment with voice chat** if the platform supports it — it changes the experience significantly
 4. **Create your own character** once you know what you like
@@ -121,4 +121,4 @@ If you're new to AI companions, here's a simple path:
 
 The AI companion space has matured past the gimmick phase. These are genuine entertainment products that millions of people enjoy daily. The key is finding the platform and character that resonates with you.
 
-[Start exploring on Naviya](https://naviya.chat) — the free tier gives you plenty of room to discover what works for you.
+[Start exploring on Naviya](https://www.naviya.chat) — the free tier gives you plenty of room to discover what works for you.

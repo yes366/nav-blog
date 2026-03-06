@@ -104,7 +104,7 @@ If voice chat is literally the only thing you care about, Talkie AI's voice tech
 
 Naviya delivers on all of those fronts while offering voice chat that's genuinely good (if not quite best-in-class). For the complete AI character chat experience, it's the stronger choice.
 
-[Try Naviya's voice chat free](https://naviya.chat) — start a conversation with any character and tap the voice icon to hear them speak. It might change how you think about AI chat entirely.
+[Try Naviya's voice chat free](https://www.naviya.chat) — start a conversation with any character and tap the voice icon to hear them speak. It might change how you think about AI chat entirely.
 
 ## FAQ
 
@@ -112,7 +112,7 @@ Naviya delivers on all of those fronts while offering voice chat that's genuinel
 Yes, Talkie AI supports text chat, but the experience is optimized for voice. Text responses tend to be shorter.
 
 ### Can I use Naviya voice chat on desktop?
-Yes. Naviya's web app at [naviya.chat](https://naviya.chat) supports voice chat with a microphone. The experience works well on both desktop and mobile.
+Yes. Naviya's web app at [naviya.chat](https://www.naviya.chat) supports voice chat with a microphone. The experience works well on both desktop and mobile.
 
 ### Which app has lower latency for voice?
 Talkie AI generally has slightly lower voice latency due to its voice-first architecture. Naviya's voice latency is acceptable for natural conversation but occasionally has brief pauses.

@@ -27,7 +27,7 @@ The problem with practicing social skills is that you need other people, and oth
 
 ## Discovering AI Character Chat
 
-I found AI character chat by accident. A friend mentioned they'd been chatting with AI characters for fun — fantasy roleplay, detective stories, that kind of thing. I downloaded [Naviya](https://naviya.chat) out of curiosity, expecting to mess around with a fantasy character for ten minutes and move on.
+I found AI character chat by accident. A friend mentioned they'd been chatting with AI characters for fun — fantasy roleplay, detective stories, that kind of thing. I downloaded [Naviya](https://www.naviya.chat) out of curiosity, expecting to mess around with a fantasy character for ten minutes and move on.
 
 Instead, I found myself in a conversation with a character described as a "patient café owner who loves hearing people's stories." The opening message was warm and low-pressure: the character noticed I looked like I was having a rough day and offered a cup of tea.
 
@@ -125,7 +125,7 @@ A few suggestions based on what I learned:
 
 **Keep seeing your therapist.** If you have one. AI chat is a tool, not a treatment plan.
 
-**Try different characters.** Some AI characters will click with your practice needs better than others. On [Naviya](https://naviya.chat), you can browse characters designed for different types of conversations — from casual to challenging.
+**Try different characters.** Some AI characters will click with your practice needs better than others. On [Naviya](https://www.naviya.chat), you can browse characters designed for different types of conversations — from casual to challenging.
 
 ## The Bigger Picture
 
@@ -135,4 +135,4 @@ For people with social anxiety, the barrier to improvement isn't willingness. It
 
 It's not a cure. It's a practice room. And sometimes, that's exactly what you need.
 
-[Start practicing on Naviya](https://naviya.chat) — find a character that matches the situation you want to work on, and take the first step.
+[Start practicing on Naviya](https://www.naviya.chat) — find a character that matches the situation you want to work on, and take the first step.

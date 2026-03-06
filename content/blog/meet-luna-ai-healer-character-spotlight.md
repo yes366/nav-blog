@@ -74,7 +74,7 @@ Luna responds best to genuine conversation. If you're having a rough day, say so
 Luna has her own stories, opinions, and experiences. Ask about her travels, her favorite herbs, her memories. The conversation becomes richer when it flows both ways.
 
 ### Try Voice Chat
-Luna's voice adds warmth that text alone doesn't capture. The gentle tone and thoughtful pauses make the experience more immersive. [Try voice chat with Luna on Naviya](https://naviya.chat).
+Luna's voice adds warmth that text alone doesn't capture. The gentle tone and thoughtful pauses make the experience more immersive. [Try voice chat with Luna on Naviya](https://www.naviya.chat).
 
 ### Let Conversations Breathe
 You don't have to fill every silence with a question. Sometimes Luna will sit with you in a quiet moment, and that's okay. The best conversations have rhythm — intensity and rest.
@@ -101,7 +101,7 @@ That's not easy to engineer. It requires careful personality design, thoughtful 
 
 Luna is available on Naviya right now. You can start chatting for free — no sign-up required for your first conversation.
 
-[Chat with Luna on Naviya](https://naviya.chat) and see why she's one of the platform's most beloved characters. Whether you need someone to listen, someone to explore a fantasy world with, or just a conversation that feels genuinely warm — Luna's there.
+[Chat with Luna on Naviya](https://www.naviya.chat) and see why she's one of the platform's most beloved characters. Whether you need someone to listen, someone to explore a fantasy world with, or just a conversation that feels genuinely warm — Luna's there.
 
 And if Luna isn't your style, explore the thousands of other characters on Naviya. There's someone for everyone.
 
@@ -111,7 +111,7 @@ And if Luna isn't your style, explore the thousands of other characters on Naviy
 No. Luna is an original AI character created for Naviya. Her personality and backstory were designed to create meaningful, empathetic conversations.
 
 ### Can I customize Luna's personality?
-Luna's core personality is fixed, but conversations naturally evolve based on your interactions. You can also [create your own healer character](https://naviya.chat/create) with custom traits on Naviya.
+Luna's core personality is fixed, but conversations naturally evolve based on your interactions. You can also [create your own healer character](https://www.naviya.chat/create) with custom traits on Naviya.
 
 ### Does Luna remember our conversations?
 Yes. Naviya's memory system allows Luna to reference earlier conversations, creating continuity across sessions.

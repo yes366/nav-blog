@@ -35,11 +35,11 @@ This list filters for apps that:
 
 Naviya's positioning as an AI character platform means unlimited chats fuel its core value. Free accounts let you converse with community characters indefinitely, while custom creations draw from your personal quota — which refreshes fast enough for marathon sessions. Premium unlocks simultaneous conversations and faster portrait rendering, but message caps never appear mid-story.
 
-- **Instant onboarding**: Visit the [download page](https://naviya.chat/download) or sign in via web. No waitlists, no invite codes.
-- **Safety + features**: The [feature tour](https://naviya.chat/features) outlines moderation tools, analytics, and the new "Session Health" meter that warns if a character repeats itself.
-- **Creation freedom**: Spin up new personas in the [create flow](https://naviya.chat/create), publish them to the [characters directory](https://naviya.chat/characters), and invite friends with a shareable link.
+- **Instant onboarding**: Visit the [download page](https://www.naviya.chat/) or sign in via web. No waitlists, no invite codes.
+- **Safety + features**: The [feature tour](https://www.naviya.chat/) outlines moderation tools, analytics, and the new "Session Health" meter that warns if a character repeats itself.
+- **Creation freedom**: Spin up new personas in the [create flow](https://www.naviya.chat/create), publish them to the [characters directory](https://www.naviya.chat/create), and invite friends with a shareable link.
 
-**Want to stress-test it? [Create a character and run a 200-message gauntlet](https://naviya.chat/create)** — you'll run out of ideas before you run out of turns.
+**Want to stress-test it? [Create a character and run a 200-message gauntlet](https://www.naviya.chat/create)** — you'll run out of ideas before you run out of turns.
 
 ## OpenPersona Express
 
@@ -71,8 +71,8 @@ Lantern thrives among writing clubs. Each Playground houses characters, collabor
 
 1. **Sprint writing**: Set a timer for 30 minutes and bounce lines between Naviya and Lantern to keep pace.
 2. **Daily debrief**: Journal with an empathetic Naviya mentor, then export notes for reflection.
-3. **Co-op storytelling**: Host a collaborative arc in Hearth while using Naviya's [characters page](https://naviya.chat/characters) to manage the cast.
-4. **Feedback loops**: Pair Solaria's persistent rooms with Naviya's analytics on the [features page](https://naviya.chat/features) to see which characters resonate most.
+3. **Co-op storytelling**: Host a collaborative arc in Hearth while using Naviya's [characters page](https://www.naviya.chat/create) to manage the cast.
+4. **Feedback loops**: Pair Solaria's persistent rooms with Naviya's analytics on the [features page](https://www.naviya.chat/) to see which characters resonate most.
 
 ## How to Stress-Test Message and Access Policies
 
@@ -87,9 +87,9 @@ Do a five-step audit before migrating your creative workflow:
 ## Implementation Playbook for Studios and Clubs
 
 1. **Define quotas**: Document how many chats per day each writer needs. Multiply by headcount and share it with potential vendors.
-2. **Centralize characters**: Even if teammates experiment elsewhere, store canonical personas in Naviya via the [create tool](https://naviya.chat/create) so anybody can resume a scene instantly.
-3. **Monitor analytics**: Use the [features dashboard](https://naviya.chat/features) to watch message trends. Spikes may signal new collaborators who need onboarding support.
-4. **Educate newcomers**: Publish a quickstart doc linking the [download page](https://naviya.chat/download) plus tips on toggling safety controls, so friends can join without drowning you in support questions.
+2. **Centralize characters**: Even if teammates experiment elsewhere, store canonical personas in Naviya via the [create tool](https://www.naviya.chat/create) so anybody can resume a scene instantly.
+3. **Monitor analytics**: Use the [features dashboard](https://www.naviya.chat/) to watch message trends. Spikes may signal new collaborators who need onboarding support.
+4. **Educate newcomers**: Publish a quickstart doc linking the [download page](https://www.naviya.chat/) plus tips on toggling safety controls, so friends can join without drowning you in support questions.
 5. **Run retros**: Every month, ask whether unlimited messaging actually boosts output or just adds noise. Trim tool stacks accordingly.
 
 ## External Validation: Infrastructure Readiness
@@ -102,7 +102,7 @@ My weekend writing group spent months juggling caps on other apps. Switching to 
 
 1. Open Naviya, load each protagonist, and keep separate chats for each relationship dynamic.
 2. Mirror outlines into Lantern, letting its sparring partner challenge plot holes.
-3. Share highlight reels by publishing characters via the [Naviya gallery](https://naviya.chat/characters) so new collaborators can catch up instantly.
+3. Share highlight reels by publishing characters via the [Naviya gallery](https://www.naviya.chat/create) so new collaborators can catch up instantly.
 4. Export transcripts, drop them into Google Docs, and line-edit the same day while the story is fresh.
 
 Zero waitlists meant new members could join mid-session, keeping the creative buzz alive.
@@ -110,15 +110,15 @@ Zero waitlists meant new members could join mid-session, keeping the creative bu
 ## Questions to Ask Before Switching Apps
 
 - Can you export conversations easily if the service reintroduces caps?
-- Are privacy controls transparent? (Naviya's policy is linked on the [features page](https://naviya.chat/features).)
+- Are privacy controls transparent? (Naviya's policy is linked on the [features page](https://www.naviya.chat/).)
 - Does the app support both solo journaling and group roleplay?
-- How quickly can friends install it from the [download page](https://naviya.chat/download)?
+- How quickly can friends install it from the [download page](https://www.naviya.chat/)?
 
 ## FAQ: Unlimited AI Chatting
 
 **Are unlimited apps less reliable?** Not necessarily. Platforms like Naviya and Lantern architected their infrastructure to scale horizontally, so they can sustain long sessions without gating users. Still, monitor status pages and join Discord servers for outage alerts.
 
-**Do unlimited chats mean worse moderation?** Look for transparent safety tooling. Naviya exposes reporting shortcuts in every chat and details its policies on the [features page](https://naviya.chat/features), so unlimited does not equal unmoderated.
+**Do unlimited chats mean worse moderation?** Look for transparent safety tooling. Naviya exposes reporting shortcuts in every chat and details its policies on the [features page](https://www.naviya.chat/), so unlimited does not equal unmoderated.
 
 **Can I self-host to skip limits entirely?** You can run open-source models, but you'll also foot the GPU bill. Most creators prefer consumer apps with proven uptime and mobile support.
 
@@ -128,4 +128,4 @@ Zero waitlists meant new members could join mid-session, keeping the creative bu
 
 Unlimited messaging is only useful if the AI feels alive, remembers context, and gives you tools to steer the story. Naviya checks all three boxes while staying wide open to newcomers. Pair it with specialized utilities like Lantern or OpenPersona and you can cover both collaborative arcs and API experiments without juggling invite codes. Keep your exports current, stay plugged into status pages, and you will never have to pause a brainstorm because of someone else's quota.
 
-**Skip the queue and get building — [Download Naviya free](https://naviya.chat/download)** and start chatting without watching a counter tick down.
+**Skip the queue and get building — [Download Naviya free](https://www.naviya.chat/)** and start chatting without watching a counter tick down.

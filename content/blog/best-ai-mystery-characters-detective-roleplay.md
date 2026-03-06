@@ -68,7 +68,7 @@ The beauty of this archetype is that the AI maintains the character's secret con
 ## Setting Up a Mystery Roleplay Session
 
 ### Choose Your Platform
-Mystery roleplay requires an AI that maintains consistency and remembers details. [Naviya](https://naviya.chat) is ideal because:
+Mystery roleplay requires an AI that maintains consistency and remembers details. [Naviya](https://www.naviya.chat) is ideal because:
 - Characters maintain their secrets and stories consistently
 - The AI remembers clues and details you've uncovered
 - Voice chat adds tension to interrogation scenes
@@ -91,4 +91,4 @@ Most AI chat discussions focus on romance or fantasy, but mystery might be the g
 
 And unlike a mystery novel where the solution is fixed, AI mystery roleplay can surprise you. The AI might take the story in directions you didn't expect, creating mysteries that feel fresh every time.
 
-[Start your investigation on Naviya](https://naviya.chat) — the truth is out there, and it's more fun to find it through conversation than you might think.
+[Start your investigation on Naviya](https://www.naviya.chat) — the truth is out there, and it's more fun to find it through conversation than you might think.

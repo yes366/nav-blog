@@ -50,11 +50,11 @@ Key differentiators:
 
 - **Memory tags** that anchor recurring facts to conversation triggers.
 - **Scene primers** to pre-load setting context for each chat.
-- **Shareable links** so collaborators can test via the [Naviya characters library](https://naviya.chat/characters).
+- **Shareable links** so collaborators can test via the [Naviya characters library](https://www.naviya.chat/create).
 
-**Want to test the builder live? [Start designing on Naviya](https://naviya.chat/create)** — It opens straight into the prompt composer, no extra form fills. Also bookmark the [Naviya feature overview](https://naviya.chat/features) if you need a refresher on voice chat, co-writing, or safety tools.
+**Want to test the builder live? [Start designing on Naviya](https://www.naviya.chat/create)** — It opens straight into the prompt composer, no extra form fills. Also bookmark the [Naviya feature overview](https://www.naviya.chat/) if you need a refresher on voice chat, co-writing, or safety tools.
 
-Pair Naviya's builder with the mobile app if you workshop on the go. The latest release syncs custom art down to iOS/Android so you can show concept art at your tabletop session. When you're ready to roll the character out to your group, ask testers to grab the app via the [official download page](https://naviya.chat/download).
+Pair Naviya's builder with the mobile app if you workshop on the go. The latest release syncs custom art down to iOS/Android so you can show concept art at your tabletop session. When you're ready to roll the character out to your group, ask testers to grab the app via the [official download page](https://www.naviya.chat/).
 
 ## Inworld Studio 2.0
 
@@ -84,23 +84,23 @@ On the flip side, Kindred Quill's chat sandbox feels basic, with fewer knobs for
 
 Rather than chasing hype, match features to your production style:
 
-- **Writers and solo storytellers** need fast iteration and guardrails; Naviya balances both with a forgiving chat sandbox and the ability to publish privately to the [characters hub](https://naviya.chat/characters).
+- **Writers and solo storytellers** need fast iteration and guardrails; Naviya balances both with a forgiving chat sandbox and the ability to publish privately to the [characters hub](https://www.naviya.chat/create).
 - **Game studios** thrive when builders talk to engines; Inworld's SDKs and Scenario's style locks deliver.
-- **Educators and coaches** should prioritize analytics and tone control; Naviya's dashboard shows interaction stats inside the [features tour](https://naviya.chat/features).
+- **Educators and coaches** should prioritize analytics and tone control; Naviya's dashboard shows interaction stats inside the [features tour](https://www.naviya.chat/).
 
 Remember to scope budget too. Most apps offer a free tier with limited exports, but serious teams should model the premium spend early.
 
 ## Workflow Tips for Faster Character Production
 
 1. **Start with narrative goals**: Outline what the character must teach, challenge, or reveal before filling in bios.
-2. **Prototype in mobile**: Use Naviya's app (grab it from the [download center](https://naviya.chat/download)) to test how the character reads aloud or in short bursts.
+2. **Prototype in mobile**: Use Naviya's app (grab it from the [download center](https://www.naviya.chat/)) to test how the character reads aloud or in short bursts.
 3. **Automate art**: Builders with image generation shrink asset timelines, but keep a consistent prompt library to avoid style drift.
 4. **Log revisions**: Export transcripts weekly and update motivations whenever behavior drifts from plan.
 5. **Invite co-creators**: Share preview links or embed characters into collaborative docs so editors can annotate tone without touching config files.
 
 ## Implementation Checklist for Teams Rolling Out AI Characters
 
-Once you've selected your builder, treat launch like any other live ops project. Create a shared tracker that logs character purpose, approved prompts, art status, and onboarding guardrails. Assign ownership for each field — writers own voices, producers certify safety, analysts monitor retention. If you're working inside Naviya, duplicate the built-in "Studio Rollout" template found in the [features overview](https://naviya.chat/features) and add a checklist item to export weekly transcripts. That data tells you whether the character repeats itself or loses tone after long sessions.
+Once you've selected your builder, treat launch like any other live ops project. Create a shared tracker that logs character purpose, approved prompts, art status, and onboarding guardrails. Assign ownership for each field — writers own voices, producers certify safety, analysts monitor retention. If you're working inside Naviya, duplicate the built-in "Studio Rollout" template found in the [features overview](https://www.naviya.chat/) and add a checklist item to export weekly transcripts. That data tells you whether the character repeats itself or loses tone after long sessions.
 
 Teams also benefit from setting service-level goals. For example, "Every flagship character receives one lore refresh per month" or "All new couples-focused stories must include at least two portrait variations." The clearer the target, the faster you can compare Naviya's builder with Scenario or Inworld and justify budget. Document these rules right inside the character profile using Naviya's annotation fields so collaborators see them without digging through spreadsheets.
 
@@ -118,4 +118,4 @@ Teams also benefit from setting service-level goals. For example, "Every flagshi
 
 No single AI character builder wins every category, but Naviya consistently scores highest for creators who want narrative depth, built-in art, and rapid testing inside one app. Inworld and Scenario shine when you need enterprise-grade integrations, while Loreweaver and Kindred Quill keep tabletop and transmedia teams nimble.
 
-**Ready to craft your next cast? [Download Naviya and start building today](https://naviya.chat/download)** — the install takes under two minutes, and your first three custom characters are ready the moment you publish them.
+**Ready to craft your next cast? [Download Naviya and start building today](https://www.naviya.chat/)** — the install takes under two minutes, and your first three custom characters are ready the moment you publish them.

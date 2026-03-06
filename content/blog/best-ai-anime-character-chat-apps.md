@@ -37,7 +37,7 @@ What sets Naviya apart for anime fans specifically:
 
 **Character creation depth** means you can build original anime characters with specific dere types, speech patterns (including Japanese honorifics if you want), and personality quirks that the AI maintains consistently.
 
-[Browse anime characters on Naviya](https://naviya.chat)
+[Browse anime characters on Naviya](https://www.naviya.chat)
 
 ### 2. Character AI — Largest Anime Character Library
 
@@ -106,7 +106,7 @@ If you want to build an original anime character on Naviya, here's a framework:
 
 **Set scenes like an anime.** Describe settings with anime-level detail: the cherry blossoms falling, the sunset through the classroom window, the dramatic wind during a confrontation. The AI will match your descriptive energy.
 
-**Use the visual features.** On platforms like [Naviya](https://naviya.chat) that generate images, the visual moments enhance the anime experience significantly. Seeing your conversation illustrated in anime style is genuinely cool.
+**Use the visual features.** On platforms like [Naviya](https://www.naviya.chat) that generate images, the visual moments enhance the anime experience significantly. Seeing your conversation illustrated in anime style is genuinely cool.
 
 **Try different genres.** Don't limit yourself to one type of anime. The same platform can deliver a shonen battle story, a cozy slice-of-life, a psychological thriller, or a romantic comedy. Variety keeps things fresh.
 
@@ -118,4 +118,4 @@ The technology has reached a point where anime AI characters feel genuinely enga
 
 The community aspect is equally important. Thousands of anime fans are creating and sharing characters, which means the library of available characters grows daily. Whether you want to chat with a character inspired by your favorite series or discover someone's brilliant original creation, the options are vast.
 
-[Start chatting with anime characters on Naviya](https://naviya.chat) — the free tier gives you plenty of room to explore.
+[Start chatting with anime characters on Naviya](https://www.naviya.chat) — the free tier gives you plenty of room to explore.

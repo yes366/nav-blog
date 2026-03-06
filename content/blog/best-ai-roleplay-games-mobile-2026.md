@@ -46,7 +46,7 @@ The character creation tools also work well on mobile, which isn't always the ca
 **Platform**: iOS, Android, Web
 **Free tier**: Generous
 
-[Download Naviya](https://naviya.chat) and start your first adventure. The fantasy and mystery characters are particularly good entry points.
+[Download Naviya](https://www.naviya.chat) and start your first adventure. The fantasy and mystery characters are particularly good entry points.
 
 ### 2. AI Dungeon — Best for Open-World Adventures
 
@@ -120,7 +120,7 @@ Episode combines visual novel aesthetics with interactive storytelling. It's not
 Before diving into action, spend a few messages establishing the setting, your character, and the situation. This gives the AI context to generate more immersive responses.
 
 ### Use Voice Chat for Immersion
-On platforms like [Naviya](https://naviya.chat) that support voice chat, try switching to voice during intense scenes. Hearing the character speak adds a layer of immersion that text alone can't match.
+On platforms like [Naviya](https://www.naviya.chat) that support voice chat, try switching to voice during intense scenes. Hearing the character speak adds a layer of immersion that text alone can't match.
 
 ### Save Your Progress
 Most AI roleplay apps maintain conversation history, but it's worth bookmarking key story moments. Some apps let you name or tag conversations for easy reference.
@@ -138,9 +138,9 @@ Mobile AI roleplay is evolving fast. We're seeing:
 - **Multiplayer** — collaborative AI roleplay with friends
 - **AR integration** — early experiments with location-based AI roleplay
 
-The apps that combine strong AI conversation with mobile-native design will win. Right now, [Naviya](https://naviya.chat) leads that combination, but the space is competitive and improving rapidly.
+The apps that combine strong AI conversation with mobile-native design will win. Right now, [Naviya](https://www.naviya.chat) leads that combination, but the space is competitive and improving rapidly.
 
-[Start your mobile adventure on Naviya](https://naviya.chat) — pick a genre, choose a character, and see where the story takes you.
+[Start your mobile adventure on Naviya](https://www.naviya.chat) — pick a genre, choose a character, and see where the story takes you.
 
 ## FAQ
 
@@ -154,4 +154,4 @@ Text-based roleplay uses minimal data — comparable to messaging apps. Voice ch
 It depends on the platform and content. Naviya and Character.AI have content moderation for SFW experiences. Always check age ratings and content policies. Parental oversight is recommended for younger users.
 
 ### Can I play the same story on phone and desktop?
-Most platforms sync across devices. [Naviya](https://naviya.chat) maintains your conversation history across mobile apps and the web interface, so you can start on your phone and continue on desktop seamlessly.
+Most platforms sync across devices. [Naviya](https://www.naviya.chat) maintains your conversation history across mobile apps and the web interface, so you can start on your phone and continue on desktop seamlessly.

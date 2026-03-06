@@ -46,7 +46,7 @@ The voice chat feature is particularly valuable for language learning. Hearing p
 **Best for**: Immersive conversation practice, pronunciation via voice chat
 **Price**: Free tier available
 
-[Start practicing on Naviya](https://naviya.chat) — find a character who speaks your target language and start talking.
+[Start practicing on Naviya](https://www.naviya.chat) — find a character who speaks your target language and start talking.
 
 ### 2. ChatGPT — Best for Structured Practice
 
@@ -101,7 +101,7 @@ It's less creative than using character chat apps, but more focused on measurabl
 Don't try to discuss quantum physics in a language you're learning. Start with topics you're comfortable with — hobbies, daily routine, food, travel. The familiar context helps you focus on language rather than content.
 
 ### Use Voice Chat When Possible
-Reading and writing in a foreign language is one skill. Speaking and listening is another. Platforms like [Naviya](https://naviya.chat) with voice chat let you practice both. Even if your pronunciation is rough, the practice builds confidence.
+Reading and writing in a foreign language is one skill. Speaking and listening is another. Platforms like [Naviya](https://www.naviya.chat) with voice chat let you practice both. Even if your pronunciation is rough, the practice builds confidence.
 
 ### Ask for Corrections
 Explicitly tell the AI: "Please correct my grammar mistakes and explain why." Most AI chat apps will happily do this, turning every conversation into a learning opportunity.
@@ -110,7 +110,7 @@ Explicitly tell the AI: "Please correct my grammar mistakes and explain why." Mo
 When you encounter new words in AI conversations, write them down. The context of the conversation helps you remember them — "I learned 'ambitious' when my AI character described their dream of becoming a knight."
 
 ### Mix Structured and Free Practice
-Use ChatGPT or Langotalk for structured grammar practice. Use [Naviya](https://naviya.chat) or Replika for free-flowing conversation. The combination covers both accuracy and fluency.
+Use ChatGPT or Langotalk for structured grammar practice. Use [Naviya](https://www.naviya.chat) or Replika for free-flowing conversation. The combination covers both accuracy and fluency.
 
 ### Set a Daily Minimum
 Even 10 minutes of AI conversation practice daily is more effective than an hour once a week. The consistency matters more than the duration. Set a reminder and make it a habit.
@@ -132,7 +132,7 @@ Use AI as your primary practice partner, but supplement with native content (pod
 
 AI chat apps have made language practice accessible to everyone, everywhere, at any time. The best approach combines multiple tools: structured learning for grammar foundations, AI conversation for practice, and native content for cultural immersion.
 
-[Try Naviya for immersive language practice](https://naviya.chat) — create a character who speaks your target language and start having real conversations. It's more engaging than flashcards, and the voice chat feature adds pronunciation practice that most language apps lack.
+[Try Naviya for immersive language practice](https://www.naviya.chat) — create a character who speaks your target language and start having real conversations. It's more engaging than flashcards, and the voice chat feature adds pronunciation practice that most language apps lack.
 
 ## FAQ
 
@@ -146,4 +146,4 @@ For Japanese specifically, Naviya's anime-inspired characters provide natural co
 Research suggests 15-30 minutes of active conversation practice daily produces noticeable improvement within weeks. Consistency matters more than duration.
 
 ### Will AI correct my pronunciation?
-Voice-enabled apps like [Naviya](https://naviya.chat) can help with pronunciation through voice chat, though the correction is implicit (hearing correct pronunciation) rather than explicit. For detailed pronunciation feedback, dedicated pronunciation apps are more effective.
+Voice-enabled apps like [Naviya](https://www.naviya.chat) can help with pronunciation through voice chat, though the correction is implicit (hearing correct pronunciation) rather than explicit. For detailed pronunciation feedback, dedicated pronunciation apps are more effective.

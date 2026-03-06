@@ -37,9 +37,9 @@ Naviya's roster of 10,000+ characters already spans tacticians, merchants, inven
 
 - **Prep perks**: Upload cultural primers, drop in city maps, and attach d100 tables right inside the profile.
 - **Live improvisation**: Switch characters within a single chat, then pin the transcript to reuse jokes and clues later.
-- **Shareable NPCs**: Publish a read-only link inside the [Naviya characters library](https://naviya.chat/characters) so co-GMs or backup hosts know who's who.
+- **Shareable NPCs**: Publish a read-only link inside the [Naviya characters library](https://www.naviya.chat/create) so co-GMs or backup hosts know who's who.
 
-**Need to spin up a tavernkeeper right now? [Create a fresh NPC in Naviya](https://naviya.chat/create)** and test them in the chat sandbox. Pair it with the [feature overview](https://naviya.chat/features) to activate voice chat or image descriptions before the next session. When your party is ready to download the companion app, point them to the [official Naviya download page](https://naviya.chat/download) and share your campaign invite code.
+**Need to spin up a tavernkeeper right now? [Create a fresh NPC in Naviya](https://www.naviya.chat/create)** and test them in the chat sandbox. Pair it with the [feature overview](https://www.naviya.chat/) to activate voice chat or image descriptions before the next session. When your party is ready to download the companion app, point them to the [official Naviya download page](https://www.naviya.chat/) and share your campaign invite code.
 
 ## Loreweaver Relay
 
@@ -67,16 +67,16 @@ Because Nexus is art-first, text prompts can feel shallow. Expect to copy custom
 
 ## How Naviya Fits Into Hybrid Tables
 
-Most tables aren't 100% virtual or 100% in-person anymore. Naviya thrives in hybrid setups because you can run it on a spare tablet and pass it around as an NPC hotline. Build your roster ahead of time and share the link to the [characters gallery](https://naviya.chat/characters), then let players request cameos on the fly. The app's offline cache stores the most recent dialogue, so even if your venue has spotty Wi-Fi you can keep roleplay moving.
+Most tables aren't 100% virtual or 100% in-person anymore. Naviya thrives in hybrid setups because you can run it on a spare tablet and pass it around as an NPC hotline. Build your roster ahead of time and share the link to the [characters gallery](https://www.naviya.chat/create), then let players request cameos on the fly. The app's offline cache stores the most recent dialogue, so even if your venue has spotty Wi-Fi you can keep roleplay moving.
 
-Naviya's create flow includes "Session Mode" — a toggle that shortens responses and keeps jokes PG. It's ideal for conventions or school clubs. Combine that with the analytics inside the [features page](https://naviya.chat/features), which shows how often each NPC appears; retire the ones that aren't hitting and double down on fan favorites.
+Naviya's create flow includes "Session Mode" — a toggle that shortens responses and keeps jokes PG. It's ideal for conventions or school clubs. Combine that with the analytics inside the [features page](https://www.naviya.chat/), which shows how often each NPC appears; retire the ones that aren't hitting and double down on fan favorites.
 
 ## Collaboration Tips for Co-GMs
 
 1. **Define safety signals**: Even with content filters, set real-world cues for topics to avoid. Document them inside each character's guideline block.
 2. **Rotate ownership**: Assign one GM per major NPC so their voice stays consistent, then use Naviya's private notes field to drop future plot hooks.
-3. **Share CTAs with players**: Encourage players to bookmark your NPC roster via the [download page](https://naviya.chat/download) so they can chat between sessions without overloading you.
-4. **Use templates**: Build baseline prompts for quest givers, rival adventurers, and merchants. Save them as drafts inside the [Naviya create flow](https://naviya.chat/create) for quick duplication.
+3. **Share CTAs with players**: Encourage players to bookmark your NPC roster via the [download page](https://www.naviya.chat/) so they can chat between sessions without overloading you.
+4. **Use templates**: Build baseline prompts for quest givers, rival adventurers, and merchants. Save them as drafts inside the [Naviya create flow](https://www.naviya.chat/create) for quick duplication.
 
 ## Budget and Access Considerations
 
@@ -88,10 +88,10 @@ External reports such as [Gartner's analysis of generative AI in game developmen
 
 Here's how a typical two-hour session runs when I combine Naviya with Loreweaver and Squire:
 
-1. **Prep (20 minutes)**: I open the [Naviya create flow](https://naviya.chat/create) to duplicate last week's NPCs, adjust their motives, and regenerate portraits for disguise scenes. While portraits batch, Loreweaver drafts three rumors that foreshadow today's heist.
+1. **Prep (20 minutes)**: I open the [Naviya create flow](https://www.naviya.chat/create) to duplicate last week's NPCs, adjust their motives, and regenerate portraits for disguise scenes. While portraits batch, Loreweaver drafts three rumors that foreshadow today's heist.
 2. **Touchpoint check (10 minutes)**: Squire calculates guard patrols and encounter balance. I paste those notes into Naviya's private memory slots so the characters "know" the stakes without revealing DCs to players.
 3. **Live play (90 minutes)**: Players interrogate suspects through Naviya chats on a spare tablet. When someone asks about a minor gang lieutenant, I swap to that NPC's tab and let them answer in-character. If the table needs a clue, I prompt Loreweaver for "consequence escalations" and feed the best one into the NPC's next response.
-4. **Wrap-up (10 minutes)**: Export transcripts from Naviya, label them "Episode 14", then upload to our shared [features dashboard](https://naviya.chat/features) so co-GMs review analytics and see which NPCs earned the most interactions.
+4. **Wrap-up (10 minutes)**: Export transcripts from Naviya, label them "Episode 14", then upload to our shared [features dashboard](https://www.naviya.chat/) so co-GMs review analytics and see which NPCs earned the most interactions.
 
 This workflow ensures AI supports improvisation rather than dictating it. Players still drive action, while the apps keep me organized.
 
@@ -103,4 +103,4 @@ Not necessarily. If your group thrives on pure improvisation, you might only nee
 
 Pair Naviya with one specialized utility: Naviya covers roleplay depth, while Squire handles crunchy stat math or Loreweaver automates rumor tables. That combo keeps you nimble without drowning in subscriptions.
 
-**Want to see how Naviya's NPC roster feels at your table? [Download the app and try a test session](https://naviya.chat/download)** — the free tier includes unlimited chats with your custom characters plus curated templates for taverns, rival adventurers, and cosmic patrons.
+**Want to see how Naviya's NPC roster feels at your table? [Download the app and try a test session](https://www.naviya.chat/)** — the free tier includes unlimited chats with your custom characters plus curated templates for taverns, rival adventurers, and cosmic patrons.

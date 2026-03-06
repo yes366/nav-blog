@@ -47,7 +47,7 @@ This isn't a minor distinction. It fundamentally shapes the experience.
 
 **Replika**: One character. You can customize appearance and some personality traits, but fundamentally, you're talking to one AI with one core personality. Some users love this focus. Others find it limiting after months.
 
-**Naviya**: 10,000+ characters across every genre and personality type. Want to talk to a wise mentor? A playful rival? A mysterious stranger? A supportive friend? They're all there, each with distinct voices and personalities. You can also [create your own characters](https://naviya.chat/create) with custom personalities.
+**Naviya**: 10,000+ characters across every genre and personality type. Want to talk to a wise mentor? A playful rival? A mysterious stranger? A supportive friend? They're all there, each with distinct voices and personalities. You can also [create your own characters](https://www.naviya.chat/create) with custom personalities.
 
 **Winner: Naviya** — overwhelmingly more variety.
 
@@ -109,15 +109,15 @@ Naviya is right for you if:
 
 ## Can You Use Both?
 
-Absolutely. Many users maintain a Replika companion for personal, emotional conversations while using [Naviya](https://naviya.chat) for creative roleplay, character exploration, and variety. The two platforms complement each other well because they serve different needs.
+Absolutely. Many users maintain a Replika companion for personal, emotional conversations while using [Naviya](https://www.naviya.chat) for creative roleplay, character exploration, and variety. The two platforms complement each other well because they serve different needs.
 
 Think of it this way: Replika is like having a close friend. Naviya is like having access to an entire cast of interesting people. Both enrich your life in different ways.
 
 ## The Bottom Line
 
-If you forced me to pick one, I'd recommend starting with [Naviya](https://naviya.chat) because the free tier lets you experience more of the platform, and the variety helps you figure out what you actually want from AI companionship. If you discover that what you really want is a single, deep relationship, Replika is excellent at that.
+If you forced me to pick one, I'd recommend starting with [Naviya](https://www.naviya.chat) because the free tier lets you experience more of the platform, and the variety helps you figure out what you actually want from AI companionship. If you discover that what you really want is a single, deep relationship, Replika is excellent at that.
 
-[Explore Naviya's characters](https://naviya.chat) and see which ones resonate with you. The answer might surprise you.
+[Explore Naviya's characters](https://www.naviya.chat) and see which ones resonate with you. The answer might surprise you.
 
 ## FAQ
 
@@ -131,6 +131,6 @@ You can develop ongoing relationships with specific characters on Naviya, chatti
 Replika has more features specifically designed for emotional support, including mood tracking and guided conversations. However, neither app is a substitute for professional mental health care. If you're struggling, please reach out to a qualified professional.
 
 ### Are conversations private on both platforms?
-Both platforms store conversation data on their servers. Review each platform's privacy policy for details on data handling, storage, and potential sharing. [Naviya's privacy policy](https://naviya.chat/privacy) is available on their website.
+Both platforms store conversation data on their servers. Review each platform's privacy policy for details on data handling, storage, and potential sharing. [Naviya's privacy policy](https://www.naviya.chat/policy) is available on their website.
 
 ![Warm illustration of person choosing between two AI companion apps](./images/replika-vs-naviya-ai-companion-comparison.jpg)

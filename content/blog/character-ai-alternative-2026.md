@@ -44,7 +44,7 @@ Naviya has quietly become one of the strongest contenders in the AI character ch
 
 **Pricing:** Free tier available with premium subscription for unlimited access.
 
-You can [explore Naviya's character library](https://naviya.chat) to get a feel for the variety before committing.
+You can [explore Naviya's character library](https://www.naviya.chat) to get a feel for the variety before committing.
 
 ### 2. Chai AI — Best for Quick Mobile Chats
 
@@ -140,11 +140,11 @@ Choosing the right platform depends on what matters most to you. Here are the ke
 
 If you're leaving Character AI because of content filters, Janitor AI gives you the most freedom. If you want the best mobile experience for quick chats, Chai delivers. If voice is your priority, Talkie AI is purpose-built for it.
 
-But if you want the most complete package — strong character creation, voice chat, AI images, and a growing community — [Naviya](https://naviya.chat) is the alternative worth trying first. The combination of features you get, especially the visual and voice elements, puts it ahead of platforms that are still text-only.
+But if you want the most complete package — strong character creation, voice chat, AI images, and a growing community — [Naviya](https://www.naviya.chat) is the alternative worth trying first. The combination of features you get, especially the visual and voice elements, puts it ahead of platforms that are still text-only.
 
 The AI character chat space is evolving fast, and 2026 has brought genuine competition. That's good news for everyone — more options mean better experiences, regardless of which platform you choose.
 
-Ready to explore? [Try Naviya free](https://naviya.chat) and see how it compares to what you've been using.
+Ready to explore? [Try Naviya free](https://www.naviya.chat) and see how it compares to what you've been using.
 
 ## Frequently Asked Questions
 

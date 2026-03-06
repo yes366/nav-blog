@@ -39,7 +39,7 @@ AI characters offer a rehearsal space. You can practice a tough conversation mul
 
 Research from [Stanford's Human-Computer Interaction lab](https://hci.stanford.edu/) has shown that conversational practice with AI can measurably reduce social anxiety in specific scenarios. It's not therapy — but it's a useful tool in the toolkit.
 
-Platforms like [Naviya](https://naviya.chat) offer characters specifically designed for these scenarios: interview coaches, debate partners, and conversation practice companions that adapt to your skill level.
+Platforms like [Naviya](https://www.naviya.chat) offer characters specifically designed for these scenarios: interview coaches, debate partners, and conversation practice companions that adapt to your skill level.
 
 ## 3. Exploring Perspectives You Don't Have Access To
 
@@ -71,7 +71,7 @@ The gaming community understood this first. Interactive fiction has existed for 
 
 Some users treat it like collaborative storytelling. Others approach it more like a game, trying to navigate complex scenarios or solve mysteries. The format is flexible enough to support both.
 
-On [Naviya](https://naviya.chat), you'll find characters designed for everything from epic fantasy quests to cozy slice-of-life conversations. The variety means there's always something that matches your mood.
+On [Naviya](https://www.naviya.chat), you'll find characters designed for everything from epic fantasy quests to cozy slice-of-life conversations. The variety means there's always something that matches your mood.
 
 ## 6. Language and Communication Practice
 
@@ -107,4 +107,4 @@ We just found a new way to do it.
 
 ## Want to Try It?
 
-If you're curious about AI character chat, the best way to understand the appeal is to experience it. [Try Naviya](https://naviya.chat) — pick a character that interests you and start a conversation. You might be surprised where it goes.
+If you're curious about AI character chat, the best way to understand the appeal is to experience it. [Try Naviya](https://www.naviya.chat) — pick a character that interests you and start a conversation. You might be surprised where it goes.

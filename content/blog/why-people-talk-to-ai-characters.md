@@ -58,9 +58,9 @@ But every traditional medium has a limitation: the story isn't *yours*. You watc
 
 AI character chat breaks that wall. You're not watching a story — you're *in* one. And it goes wherever you take it. Want to solve a murder mystery in 1920s Paris? Done. Want to have a philosophical debate with a fictional warrior-poet? You can. Want to comfort a character going through something painful? The emotional experience is real, even if the character isn't.
 
-On platforms like [Naviya](https://naviya.chat), this goes even further — you can create the characters, set the scene, and watch a story unfold that's uniquely yours.
+On platforms like [Naviya](https://www.naviya.chat), this goes even further — you can create the characters, set the scene, and watch a story unfold that's uniquely yours.
 
-**[Explore character-driven stories on Naviya →](https://naviya.chat)**
+**[Explore character-driven stories on Naviya →](https://www.naviya.chat)**
 
 ## Reason 3: Emotional Processing
 
@@ -133,7 +133,7 @@ None of these people are "weird." They're using a new technology for very human 
 
 The AI character chat space is evolving fast:
 
-**Better memory and continuity** — Characters that remember not just your last conversation, but your entire relationship history. Platforms like [Naviya](https://naviya.chat) are already pushing in this direction.
+**Better memory and continuity** — Characters that remember not just your last conversation, but your entire relationship history. Platforms like [Naviya](https://www.naviya.chat) are already pushing in this direction.
 
 **Multimodal interaction** — Characters that can generate images, speak with natural voices, and eventually appear in AR/VR. The line between "chatting with an AI" and "hanging out with a character" will blur.
 
@@ -151,6 +151,6 @@ AI character chat is just the next iteration of something we've always done — 
 
 The technology is new. The human need behind it is ancient.
 
-**Curious to see what all the fuss is about? [Try Naviya — your first conversation is free.](https://naviya.chat)**
+**Curious to see what all the fuss is about? [Try Naviya — your first conversation is free.](https://www.naviya.chat)**
 
 ![Warm illustration of diverse people connecting through technology](./images/why-people-talk-to-ai-characters.jpg)

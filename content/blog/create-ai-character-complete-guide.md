@@ -88,7 +88,7 @@ Beyond personality traits, set specific behavioral guidelines:
 
 ## Step 4: Craft the Opening Message
 
-The opening message is your character's first impression. It sets the tone for every conversation that follows. On platforms like [Naviya](https://naviya.chat), the opening message is what users see before they decide to chat.
+The opening message is your character's first impression. It sets the tone for every conversation that follows. On platforms like [Naviya](https://www.naviya.chat), the opening message is what users see before they decide to chat.
 
 **Show, don't tell.** Instead of "Hi, I'm a detective," try:
 
@@ -151,7 +151,7 @@ Creating a character is never one-and-done. The real magic happens in iteration.
 
 **Refine based on patterns.** If the character keeps giving generic responses in certain situations, add more specific example dialogues for those scenarios. If they're too predictable, add more contradictions to their personality.
 
-You can start testing your character right now — [create one on Naviya](https://naviya.chat) and see how it feels in real conversation.
+You can start testing your character right now — [create one on Naviya](https://www.naviya.chat) and see how it feels in real conversation.
 
 ![A flowchart showing the character creation iteration cycle: Create → Test → Gather Feedback → Refine → Repeat](./images/create-ai-character-complete-guide.jpg)
 
@@ -181,6 +181,6 @@ You can start testing your character right now — [create one on Naviya](https:
 
 The best AI characters aren't the ones with the most elaborate backstories or the fanciest descriptions. They're the ones that make you forget you're talking to an AI — even for a moment.
 
-Start simple. Pick one character concept that excites you. Follow the steps above. Test it. Improve it. The creation tools on [Naviya](https://naviya.chat) make the technical part easy — your job is bringing the character to life.
+Start simple. Pick one character concept that excites you. Follow the steps above. Test it. Improve it. The creation tools on [Naviya](https://www.naviya.chat) make the technical part easy — your job is bringing the character to life.
 
 Every great character started as a rough idea. Yours is next.

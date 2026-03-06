@@ -97,6 +97,6 @@ Both are reasonably priced for what they offer. Chai's credit system can feel ni
 
 ## The Verdict
 
-Chai AI is a good app for what it does — quick, accessible AI chat on mobile. But Naviya offers a more complete experience with deeper conversations, voice chat, visual elements, and better character customization. If you're serious about AI character interaction, [Naviya](https://naviya.chat) delivers more value.
+Chai AI is a good app for what it does — quick, accessible AI chat on mobile. But Naviya offers a more complete experience with deeper conversations, voice chat, visual elements, and better character customization. If you're serious about AI character interaction, [Naviya](https://www.naviya.chat) delivers more value.
 
-If you're currently on Chai and feeling limited, [give Naviya a try](https://naviya.chat). The free tier is generous enough to see the difference for yourself.
+If you're currently on Chai and feeling limited, [give Naviya a try](https://www.naviya.chat). The free tier is generous enough to see the difference for yourself.

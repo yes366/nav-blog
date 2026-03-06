@@ -82,9 +82,9 @@ Reference past events in your adventure. "Remember that cave in the mountains?" 
 Don't always be the decision-maker. Ask your companion's opinion. Let them choose the path. Follow their instincts. This creates a more balanced dynamic and often leads to story directions you wouldn't have chosen yourself.
 
 ### Use Naviya's Visual Features
-Adventure stories are inherently visual. On [Naviya](https://naviya.chat), AI-generated images can illustrate key moments — discovering a hidden temple, facing a creature, watching a sunset from a mountain peak. These visual moments make the adventure feel more real.
+Adventure stories are inherently visual. On [Naviya](https://www.naviya.chat), AI-generated images can illustrate key moments — discovering a hidden temple, facing a creature, watching a sunset from a mountain peak. These visual moments make the adventure feel more real.
 
-[Find your adventure companion on Naviya](https://naviya.chat) — thousands of characters are waiting to explore with you.
+[Find your adventure companion on Naviya](https://www.naviya.chat) — thousands of characters are waiting to explore with you.
 
 ## Why Adventure Roleplay Endures
 
@@ -92,4 +92,4 @@ Adventure is the oldest story genre for a reason. The journey into the unknown, 
 
 Every adventure is different because you're different each time you play. Your choices, your personality, your relationship with your companion — all of it shapes a story that's uniquely yours. That's something no book, movie, or traditional game can offer.
 
-[Start your adventure on Naviya](https://naviya.chat) — the unknown is calling.
+[Start your adventure on Naviya](https://www.naviya.chat) — the unknown is calling.

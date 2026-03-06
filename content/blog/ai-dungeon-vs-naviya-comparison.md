@@ -112,11 +112,11 @@ Both platforms offer enough in their free tiers to evaluate the experience befor
 
 ## Can You Use Both?
 
-Absolutely, and many people do. AI Dungeon for when you want an adventure, [Naviya](https://naviya.chat) for when you want a conversation. They scratch different itches, and there's no reason to limit yourself to one platform.
+Absolutely, and many people do. AI Dungeon for when you want an adventure, [Naviya](https://www.naviya.chat) for when you want a conversation. They scratch different itches, and there's no reason to limit yourself to one platform.
 
 The AI chat space is big enough for different approaches to coexist. The real winner is you — having options means you can match the tool to your mood.
 
-[Try Naviya free](https://naviya.chat) and see how character-focused AI chat compares to what you're used to.
+[Try Naviya free](https://www.naviya.chat) and see how character-focused AI chat compares to what you're used to.
 
 ## Final Thoughts
 

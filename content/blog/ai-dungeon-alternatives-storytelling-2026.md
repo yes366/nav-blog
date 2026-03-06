@@ -30,9 +30,9 @@ Naviya, NovelAI, TextCortex Loreweaver, and a growing wave of boutique tools giv
 
 Naviya's pitch is simple—build an AI character, drop them into a channel, and let them react like a cast member rather than a narrator. For storytellers, the killer feature is the ability to lock in relationship dynamics and goals for each persona. You can anchor a "rebellious archmage" to always prioritize protecting an apprentice, or have a rival pilot escalate any stalemate. Because Naviya stores per-character lore blocks, you can reintroduce them into a new campaign without rewriting their backstory.
 
-Another advantage is visual scaffolding. Naviya can generate inline hero images or mood sketches for each major beat. That sounds cosmetic until you're explaining a new locale to your tabletop group over voice chat—suddenly the aesthetic pins help everyone stay aligned. **Curious how it feels in practice? [Spin up a fresh crew on Naviya and test a scene for free](https://naviya.chat/create).**
+Another advantage is visual scaffolding. Naviya can generate inline hero images or mood sketches for each major beat. That sounds cosmetic until you're explaining a new locale to your tabletop group over voice chat—suddenly the aesthetic pins help everyone stay aligned. **Curious how it feels in practice? [Spin up a fresh crew on Naviya and test a scene for free](https://www.naviya.chat/create).**
 
-Internal links also keep worldbuilding tidy: you can share a finished character profile via `[Naviya Characters](https://naviya.chat/characters)` so collaborators can inspect traits, and the mobile apps sync those traits automatically. When you're juggling recordings, notes, and art boards, that kind of source of truth is priceless.
+Internal links also keep worldbuilding tidy: you can share a finished character profile via `[Naviya Characters](https://www.naviya.chat/create)` so collaborators can inspect traits, and the mobile apps sync those traits automatically. When you're juggling recordings, notes, and art boards, that kind of source of truth is priceless.
 
 ## NovelAI: Literary-Focused Output With Custom Modules
 
@@ -50,7 +50,7 @@ Where Loreweaver falls short is real-time dialogue. It's slower than Naviya, and
 
 Indie experiments such as LoreForge and KoboldAI forks continue to thrive on GitHub. They cater to power users who want to fine-tune models locally or pipe in their own embeddings. The tradeoff is maintenance overhead; you become your own support desk. For teams that crave maximum control or need to keep proprietary settings offline, that tradeoff is worth it. Everyone else may prefer the polish of hosted platforms like Naviya.
 
-> Want a hosted option that still lets you tweak temperature, persona ground rules, and image prompts? **[Try Naviya's advanced chat workspace](https://naviya.chat/features/advanced-roleplay) and see how quickly you can enforce canon.**
+> Want a hosted option that still lets you tweak temperature, persona ground rules, and image prompts? **[Try Naviya's advanced chat workspace](https://www.naviya.chat/) and see how quickly you can enforce canon.**
 
 ## How to Choose the Right Alternative
 
@@ -61,7 +61,7 @@ I also recommend stress-testing with the same scenario. Run a political negotiat
 ## Sample Workflow for Campaign Builders
 
 1. Start in Naviya's builder and define your key characters.
-2. Export the summary via `[Naviya character sheet](https://naviya.chat/characters/inspector)` so collaborators can review.
+2. Export the summary via `[Naviya character sheet](https://www.naviya.chat/create)` so collaborators can review.
 3. Draft a pilot scene inside Naviya to capture the emotional core.
 4. Copy transcripts into Loreweaver to tag names, locations, and artifacts.
 5. Use NovelAI or your writing app of choice to turn memorable beats into prose chapters.
@@ -78,7 +78,7 @@ This multi-app workflow gives you the spontaneity of chat plus the polish of nar
 
 ## Wrap-Up
 
-The AI Dungeon alternative conversation isn't about abandoning a classic—it's about upgrading your toolbox. Naviya shines for character-driven, image-supported roleplay. NovelAI remains unbeatable for literary narration. Loreweaver thrives on lore organization. Indie tools give you ultimate control. Pick the mix that matches your creative process, and don't be afraid to rotate apps as your story evolves. **Ready to start a new chapter? [Download Naviya on iOS or Android](https://naviya.chat/download) and invite your party tonight.**
+The AI Dungeon alternative conversation isn't about abandoning a classic—it's about upgrading your toolbox. Naviya shines for character-driven, image-supported roleplay. NovelAI remains unbeatable for literary narration. Loreweaver thrives on lore organization. Indie tools give you ultimate control. Pick the mix that matches your creative process, and don't be afraid to rotate apps as your story evolves. **Ready to start a new chapter? [Download Naviya on iOS or Android](https://www.naviya.chat/) and invite your party tonight.**
 
 ## Case Study: Porting a Long-Running Campaign
 

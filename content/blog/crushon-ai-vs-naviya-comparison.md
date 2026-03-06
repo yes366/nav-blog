@@ -102,7 +102,7 @@ But for most users — especially those who want depth, variety, and creative to
 
 Neither platform is perfect. Crushon AI could use more genre diversity and deeper customization. Naviya could streamline some of its more advanced features for casual users. But if I had to recommend one to a friend who asked "which AI chat app should I try?" — I'd point them to Naviya.
 
-Ready to see for yourself? [Try Naviya free — no sign-up required](https://naviya.chat) and explore the character library. You might be surprised how quickly a good AI conversation pulls you in.
+Ready to see for yourself? [Try Naviya free — no sign-up required](https://www.naviya.chat) and explore the character library. You might be surprised how quickly a good AI conversation pulls you in.
 
 ## Frequently Asked Questions
 
@@ -110,12 +110,12 @@ Ready to see for yourself? [Try Naviya free — no sign-up required](https://nav
 Crushon AI offers a free tier with limited messages per day. Premium plans unlock unlimited messaging and additional features.
 
 ### Can I create my own characters on Naviya?
-Yes. Naviya has a full character creation toolkit where you can define personality, backstory, conversation style, and more. [Create your first character here](https://naviya.chat/create).
+Yes. Naviya has a full character creation toolkit where you can define personality, backstory, conversation style, and more. [Create your first character here](https://www.naviya.chat/create).
 
 ### Which app has better AI responses?
 In my testing, Naviya maintained better character consistency across long conversations. Crushon AI performs well in shorter exchanges but can lose context over extended chats.
 
 ### Are these apps available on mobile?
-Both are available on iOS and Android. Naviya also has a full web experience at [naviya.chat](https://naviya.chat).
+Both are available on iOS and Android. Naviya also has a full web experience at [naviya.chat](https://www.naviya.chat).
 
 ![Mobile app screenshots showing both Crushon AI and Naviya on smartphones](./images/crushon-ai-vs-naviya-comparison.jpg)

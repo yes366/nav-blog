@@ -35,11 +35,11 @@ A 2025 [British Council study](https://www.britishcouncil.org/school-resources/f
 
 Naviya is known for roleplay, but its conversation practice templates deserve more hype. You can load customizable mentors — think "empathetic recruiter", "curious traveler", or "patient improv coach" — and adjust difficulty via personality sliders. Naviya's characters remember facts across sessions, so you can practice long-form storytelling or interview narratives without repeating yourself.
 
-- **Setup**: Pick an archetype from the [Naviya character library](https://naviya.chat/characters) or build your own mentor in the [create tool](https://naviya.chat/create).
-- **Feedback**: After each session, the analytics card (highlighted on the [features page](https://naviya.chat/features)) surfaces filler words, tonal shifts, and suggestions for next time.
-- **Access**: Sessions sync across web, iOS, and Android. Install via the [download hub](https://naviya.chat/download) and keep practicing during commutes.
+- **Setup**: Pick an archetype from the [Naviya character library](https://www.naviya.chat/create) or build your own mentor in the [create tool](https://www.naviya.chat/create).
+- **Feedback**: After each session, the analytics card (highlighted on the [features page](https://www.naviya.chat/)) surfaces filler words, tonal shifts, and suggestions for next time.
+- **Access**: Sessions sync across web, iOS, and Android. Install via the [download hub](https://www.naviya.chat/) and keep practicing during commutes.
 
-**Need structured drills? [Launch the conversation coach workflow in Naviya](https://naviya.chat/create)** and save presets for interviews, language exchanges, or presentation rehearsals.
+**Need structured drills? [Launch the conversation coach workflow in Naviya](https://www.naviya.chat/create)** and save presets for interviews, language exchanges, or presentation rehearsals.
 
 ## LingoLoop Horizon
 
@@ -82,13 +82,13 @@ This table isn't exhaustive, but it helps you avoid decision fatigue. Most learn
 1. **Warm-up (5 minutes)**: Open Naviya on mobile, chat with a casual character, and focus on pacing.
 2. **Deep work (15 minutes)**: Load your specialist app (LingoLoop or Speakwise) for targeted drills.
 3. **Reflection (5 minutes)**: Use Naviya's session notes or export logs to a journal. Write down one phrase you loved and one to fix.
-4. **Weekly review**: Visit the [features analytics page](https://naviya.chat/features) to track conversation length, sentiment, and vocabulary diversity.
+4. **Weekly review**: Visit the [features analytics page](https://www.naviya.chat/) to track conversation length, sentiment, and vocabulary diversity.
 
 ## Keeping Motivation High
 
 - **Gamify**: Set streak targets. Naviya displays badges for consecutive days, which helps habit-building.
-- **Social accountability**: Share transcripts with a tutor or friend by publishing temporary links via the [characters gallery](https://naviya.chat/characters).
-- **Micro-prompts**: Save 60-second scenarios in the [create flow](https://naviya.chat/create) so you can squeeze practice between meetings.
+- **Social accountability**: Share transcripts with a tutor or friend by publishing temporary links via the [characters gallery](https://www.naviya.chat/create).
+- **Micro-prompts**: Save 60-second scenarios in the [create flow](https://www.naviya.chat/create) so you can squeeze practice between meetings.
 
 ## Accessibility and Safety Considerations
 
@@ -123,14 +123,14 @@ Outcome: She reported a 40% increase in recruiter callbacks and felt calmer beca
 
 **Can I use these apps for therapy or mental health coaching?** No. They can support self-expression, but they are not licensed therapists. If conversations trigger anxiety, pause and contact a professional.
 
-**What about data privacy?** Read transparency reports; Naviya outlines retention windows on the [features page](https://naviya.chat/features), while MentorLoop shares compliance summaries in its help center. Export sessions you want to keep, then delete the originals if you're concerned.
+**What about data privacy?** Read transparency reports; Naviya outlines retention windows on the [features page](https://www.naviya.chat/), while MentorLoop shares compliance summaries in its help center. Export sessions you want to keep, then delete the originals if you're concerned.
 
 ## How to Track Progress Without Burning Out
 
 1. **Weekly sentiment review**: Naviya's dashboards grade each session on energy and tone. Screenshot the chart, jot two wins, and set one focus for next week.
 2. **Monthly benchmark call**: Record yourself answering the same three questions, then compare to last month's clip. If you're not improving, change the scenario mix.
-3. **Peer accountability**: Invite a friend to your Naviya roster via the [characters gallery](https://naviya.chat/characters) and schedule a five-minute debrief every Friday.
-4. **Reward milestones**: When you hit 20 sessions, regenerate your mentor's portrait inside the [create flow](https://naviya.chat/create) to mark progress. Visual cues make streaks tangible.
+3. **Peer accountability**: Invite a friend to your Naviya roster via the [characters gallery](https://www.naviya.chat/create) and schedule a five-minute debrief every Friday.
+4. **Reward milestones**: When you hit 20 sessions, regenerate your mentor's portrait inside the [create flow](https://www.naviya.chat/create) to mark progress. Visual cues make streaks tangible.
 
 ## Final Checklist Before Downloading
 
@@ -143,4 +143,4 @@ Outcome: She reported a 40% increase in recruiter callbacks and felt calmer beca
 
 Any AI conversation practice app can feed you prompts, but Naviya stands out for long-form storytelling, empathetic mentors, and flexible creation tools. Pair it with a specialist that targets your weak spots and you'll progress faster than juggling random chatbots.
 
-**Ready to start practicing? [Download Naviya and meet your conversation coach](https://naviya.chat/download)** — spend the first five minutes customizing a mentor, then bookmark the workflow for daily reps.
+**Ready to start practicing? [Download Naviya and meet your conversation coach](https://www.naviya.chat/)** — spend the first five minutes customizing a mentor, then bookmark the workflow for daily reps.
