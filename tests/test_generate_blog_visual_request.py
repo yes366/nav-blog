@@ -14,8 +14,9 @@ class GenerateBlogVisualRequestTests(unittest.TestCase):
             }
         )
         self.assertEqual(request["watermark"], False)
-        self.assertEqual(request["size"], "2048x2048")
+        self.assertEqual(request["size"], "2K")
         self.assertIn("no watermark", request["prompt"])
+        self.assertIn("no text", request["prompt"])
 
 
 if __name__ == "__main__":

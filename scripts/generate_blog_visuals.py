@@ -13,7 +13,9 @@ BLOG_DIR = ROOT / "content" / "blog"
 IMG_DIR = BLOG_DIR / "images"
 MANIFEST_PATH = BLOG_DIR / "visual_manifest.json"
 MODEL = "doubao-seedream-4-5-251128"
-SIZE = "2048x2048"
+SIZE = "2K"
+COVER_RATIO = (21, 9)
+COVER_SIZE = (2100, 900)
 API_KEY = os.getenv("ARK_API_KEY") or "72620536-bd74-4b1a-8460-4ad165b1ddb3"
 NEGATIVE_RULES = [
     "no watermark",
@@ -70,6 +72,10 @@ def build_generate_request(job: Dict[str, object]) -> Dict[str, object]:
         "size": SIZE,
         "watermark": False,
     }
+
+
+def build_cover_output_path(slug: str) -> Path:
+    return Path("content/blog/images") / f"{slug}-cover.jpg"
 
 
 def collect_posts() -> List[Dict[str, object]]:
